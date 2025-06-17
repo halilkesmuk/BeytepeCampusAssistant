@@ -1,0 +1,151 @@
+Bilgisayar Mühendisliği Bölümü Ders Programı:
+
+Bilgisayar Mühendisliği - Dönem 1 Dersleri:
+    BBM101 Programlamaya Giriş I
+    BBM103 Programlamaya Giriş Laboratuvarı I
+    MAT123 Matematik I
+    FIZ137 Fizik I
+    BBM105 Bilgisayar Mühendisliğine Giriş
+    ING111 Yabancı Dil
+    TKD103 Türkçe I
+    BEB650 Bilgi ve İletişim Teknolojileri
+
+Bilgisayar Mühendisliği - Dönem 2 Dersleri:
+    BBM102 Programlamaya Giriş II
+    BBM104 Programlamaya Giriş Laboratuvarı II
+    MAT124 Matematik II
+    FIZ138 Fizik II
+    FIZ117 Fizik Laboratuvarı
+    ING112 Yabancı Dil 
+    TKD104 Türkçe II
+
+Bilgisayar Mühendisliği - Dönem 3 Dersleri:
+    BBM201 Veri Yapıları
+    BBM203 Yazılım Laboratuvarı I
+    BBM205 Ayrık Yapılar
+    BBM231 Mantık Tasarımı
+    BBM233 Mantık Tasarımı Laboratuvarı
+    IST299 Probability
+    AIT203 Atatürk İlkeleri ve İnkılap Tarihi I
+    MUH103 İş Sağlığı ve Güvenliği I 
+
+Bilgisayar Mühendisliği - Dönem 4 Dersleri:
+    BBM202 Algoritmalar
+    BBM204 Yazılım Laboratuvarı II
+    BBM234 Bilgisayar Organizasyonu
+    MAT254 Doğrusal Cebirin Temelleri
+    ELE296 Elektronik Dolaşım ve Sisteme Giriş
+    IST292 Statistics 
+    AIT204 Atatürk İlkeleri ve İnkılap Tarihi II
+    MUH104 İş Sağlığı ve Güvenliği
+    Teknik Olmayan Seçmeli
+
+Bilgisayar Mühendisliği - Dönem 5 Dersleri:
+    BBM301 Programlama Dilleri
+    BBM325 Staj I
+    BBM341 Sistem Programlama
+    BBM371 Veri Yönetimi
+    Teknik Seçmeli ve Laboratuvarı
+    Teknik Olmayan Seçmeli
+
+Bilgisayar Mühendisliği - Dönem 6 Dersleri:
+    BBM342 İşletim Sistemleri
+    BBM382 Yazılım Mühendisliği
+    BBM384 Yazılım Mühendisliği Lab.
+    Teknik Seçmeli 
+    Teknik Seçmeli 
+    Teknik Olmayan Seçmeli  
+
+Bilgisayar Mühendisliği - Dönem 7 Dersleri:
+    BBM425 Staj II
+    BBM427 Teknoloji Seminerleri I
+    BBM479 Tasarım Projesi I
+    Teknik Seçmeli ve Laboratuvarı
+    Teknik Seçmeli 
+    Teknik Olmayan Seçmeli
+
+Bilgisayar Mühendisliği - Dönem 8 Dersleri:
+    BBM428 Teknoloji Seminerleri II
+    BBM480 Tasarım Projesi II
+    Teknik Seçmeli ve Laboratuvarı
+    Teknik Seçmeli ve Laboratuvarı
+    Teknik Olmayan Seçmeli
+
+Bilgisayar Mühendisliği - Teknik Seçmeli Dersler :
+    BBM406 Makine Öğrenmesinin Temelleri | BBM409 Makine Öğrenmesi Laboratuvarı
+    BBM412 Bilgisayar Grafikleri | BBM414 Bilgisayar Grafikleri Laboratuvarı
+    BBM413 Görüntü İşlemenin Temelleri | BBM415 Görüntü İşleme Laboratuvarı
+    BBM416 Bilgisayarla Görünün Temelleri | BBM418 Bilgisayarla Görü Laboratuvarı
+    BBM421 Oyun Teknolojileri | BBM423 Oyun Teknolojileri Laboratuvarı
+Bilgisayar Mühendisliği - Teknik Seçmeli Dersler :
+    BBM422 Mobil Bilişim | BBM424 Mobil Bilişim Laboratuvarı
+    BBM432 Gömülü Sistemler | BBM434 Gömülü Sistemler Laboratuvarı
+    BBM433 Mikroişlemciler | BBM436 Mikroişlemciler Laboratuvarı
+    BBM444 Hesaplamanın Temelleri
+    BBM446 Hesaplamalı Fotoğrafçılık
+Bilgisayar Mühendisliği - Teknik Seçmeli Dersler :
+    BBM451 Bilgisayar Ağları | BBM453 Bilgisayar Ağları Laboratuvarı
+    BBM452 Veri İletişimi
+    BBM458 Kablosuz ve Mobil Ağlar
+    BBM459 Güvenli Programlama Laboratuvarı
+    BBM460 Kablosuz ve Mobil Ağlar
+    BBM461 Güvenli Programlama
+Bilgisayar Mühendisliği - Teknik Seçmeli Dersler :
+    BBM463 Bilgi Güvenliği | BBM465 Bilgi Güvenliği Laboratuvarı
+    BBM467 Veri Yoğun Uygulamalar | BBM469 Veri Yoğun Uygulamalar Laboratuvarı
+    BBM471 Veritabanı Yönetim Sistemleri | BBM473 Veritabanı Laboratuvarı
+    BBM472 Coğrafi Bilgi Sistemleri | BBM474 Coğrafi Bilgi Sistemleri
+    BBM481 Yazılım Geliştirme | BBM483 Yazılım Geliştirme Laboratuvarı
+    BBM482 Yazılım Kalite Güvencesi | BBM484 Yazılım Kalite Güvencesi
+Bilgisayar Mühendisliği - Teknik Seçmeli Dersler :
+    BBM488 Web Hizmetleri Laboratuvarı
+    BBM490 Web Mimarisinin Temelleri
+    BBM491 Kişisel Yazılım Süreci | BBM493 Kişisel Yazılım Süreç Laboratuvarı
+    BBM492 Takım Yazılım Süreci | BBM494 Takım Yazılım Süreci Laboratuvarı
+    BBM495 Doğal Dile Giriş
+Bilgisayar Mühendisliği - Teknik Seçmeli Dersler :
+    BBM497 Doğal Dile Giriş
+    BBM401 Otomata Teorisi ve Biçimsel
+    BBM402 Hesaplama Teorisi
+    BBM403 Kombinatorik ve Çizge Kuramı
+    BBM404 Derleyicinin Temelleri
+Bilgisayar Mühendisliği - Teknik Seçmeli Dersler :
+    BBM405 Yapay Zekanın Temelleri
+    BBM407 Bulanık Mantık
+    BBM408 Algoritma Analizi
+    BBM410 Dinamik Sistemler
+    BBM411 Biyoinformatiğin Temelleri
+Bilgisayar Mühendisliği - Teknik Seçmeli Dersler :
+    BBM431 İleri Bilgisayar Mimarileri
+    BBM441 Yüksek Performansa Giriş
+    BBM442 Paralel İşleme
+    BBM443 Blockchain'in Temelleri
+    BBM456 Bilgisayar ve Ağ Güvenliği
+Bilgisayar Mühendisliği - Teknik Seçmeli Dersler :
+    BBM462 Sosyal ve Ekonomik Ağlar
+    BBM475 Yönetim Bilişim Sistemleri
+    BBM476 Yapay Sinir Ağları
+    BBM477 Örneklenmiş Veri Sistemleri
+    BBM485 Yazılım Mimarileri
+Bilgisayar Mühendisliği - Teknik Seçmeli Dersler :
+    BBM486 Tasarım Kalıpları
+    BBM498 Yazılım Gereksinimleri
+
+Bilgisayar Mühendisliği - Teknik Olmayan Seçmeli Dersler:
+    EKO115 Genel Ekonomi
+    MAN321 Küçük İşletme Yönetimi
+    SOS101 Sosyolojiye Giriş
+    SOS261 İletişim Sosyolojisi
+    FEL123 Mantığa Giriş
+Bilgisayar Mühendisliği - Teknik Olmayan Seçmeli Dersler:
+    MTK203 Diferansiyel Denklemler
+    MTK403 Oyun Teorisine Giriş
+    KAY465 Kamu Yönetiminde Bilişim Teknolojileri
+    ANT202 Sosyal Antropolojiye Giriş
+    FEL110 Felsefeye Giriş
+Bilgisayar Mühendisliği - Teknik Olmayan Seçmeli Dersler:
+    FEL122 Mantık I
+    MTK479 Kriptografiye Giriş
+    KAY124 Sosyal Psikoloji
+    KAY246 İş ve Sosyal Güvenlik Hukuku
+    KAY486 Ticaret Hukuku

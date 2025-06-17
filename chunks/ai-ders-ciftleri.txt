@@ -1,0 +1,15 @@
+
+----------
+List of Courses Must be Taken Simultaneously Hacettepe University Engineering Faculty Artificial Intelligent Engineering Department
+ | AIN 212 Elements of Data Science | AIN 214 Data Science Lab.
+ | AIN 311 Foundations of Machine Learning | AIN 313 Machine Learning Lab.
+ | AIN 412 Introduction to Medical Image Analysis | AIN 414 Practicum in Medical Image Analysis
+ | AIN 430 Fundamentals of Image Processing | AIN 432 Practicum in Image Processing
+ | AIN 431 Introduction to Computer Vision | AIN 433 Practicum in Computer Vision
+ | AIN 440 Introduction to Natural Language Processing | AIN 442 Practicum in Natural Language Processing
+ | AIN 420 Introduction to Deep Learning | AIN 422 Practicum in Deep Learning
+ | AIN 423 Data Intensive Applications | AIN 425 Practicum in Data Intensive Applications
+ | AIN 424 Introduction to Deep Reinforcement Learning | AIN 426 Practicum in Deep Reinforcement Learning
+ | AIN 427 Introduction to Data Mining | AIN 429 Data Mining Laboratory
+ | AIN 451 Introduction to Robotics | AIN 453 Practicum in Robotics
+ | AIN 455 Introduction to Human Robot Interaction | AIN 457 Practicum in Human Robot Interaction

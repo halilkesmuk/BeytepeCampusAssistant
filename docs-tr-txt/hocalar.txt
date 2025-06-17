@@ -1,0 +1,225 @@
+Yardımcı Doçent Doktor Fuat AKAL
+	✉️ E-posta: akal@hacettepe.edu.tr
+	📞 Telefon: (0312) 297 7500 (128)
+	🏢 Ofis: 202
+	🌐 Web Sitesi: http://yunus.hacettepe.edu.tr/~akal/
+	🔬 Araştırma İlgi Alanları: Büyük Veri, Bulut Bilişim, Bulut Veritabanları, Veri Yönetimi, Veri Analizi, Dağıtık Bilgi Sistemleri, Veritabanı Kümeleri
+
+Profesör Ebru AKÇAPINAR SEZER
+	🎓 Görevi: Bilgisayar Yazılımı Anabilim Dalı Başkanı
+	✉️ E-posta: ebru@hacettepe.edu.tr
+	📞 Telefon: (0312) 297 7500 (116)
+	🏢 Ofis: 105
+	🌐 Web Sitesi: http://yunus.hacettepe.edu.tr/~ebru/
+	🔬 Araştırma Alanları: Anlamsal Bilgi Çıkarma Sistemleri
+
+Doçent Harun ARTUNER
+	✉️ E-posta: artuner@hacettepe.edu.tr
+	📞 Telefon: (0312) 297 7500 (115)
+	🏢 Ofis: 104
+	🌐 Web Sitesi: http://yunus.hacettepe.edu.tr/~artuner/
+	🔬 Araştırma İlgi Alanları: --
+
+Doçent Doktor Murat AYDOS
+	✉️ E-posta: maydos@hacettepe.edu.tr
+	📞 Telefon: (0312) 297 7193 (7193/121)
+	🏢 Ofis: 207
+	🌐 Web Sitesi: http://web.cs.hacettepe.edu.tr/~maydos/
+	🔬 Araştırma İlgi Alanları: Kriptografi, Bilgi ve Ağ Güvenliği, Kablosuz Ağlarda Güvenlik ve Gizlilik, Dijital Sertifikalar, Açık Anahtarlı Kriptosistemler
+
+Yardımcı Doçent Ahmet Selman BOZKIR
+	✉️ E-posta: selman@cs.hacettepe.edu.tr
+	📞 Telefon: -
+	🏢 Ofis: 225
+	🌐 Web Sitesi: www.ahmetselman.com
+	🔬 Araştırma Alanları: Bilgi Güvenliği, Bilgisayarlı Görü ve Hesaplamalı Fotografi, Doğal Dil İşleme, Bilgi Erişim Sistemleri, Görsel Benzerlik, Eğitsel Veri Madenciliği
+
+Profesör Ahmet Burak CAN
+	✉️ E-posta: abc@hacettepe.edu.tr
+	📞 Telefon: (0312) 297 7500 (131)
+	🏢 Ofis: 205
+	🌐 Web Sitesi: http://web.cs.hacettepe.edu.tr/~abc/
+	🔬 Araştırma İlgi Alanları: Bilgisayarla Görme, Bilgi Güvenliği, Dağıtık Sistemler
+
+Doçent Doktor Ufuk ÇELİKCAN
+	✉️ E-posta: celikcan@cs.hacettepe.edu.tr
+	📞 Telefon: (0312) 297 7500 (130)
+	🏢 Ofis: 204
+	🌐 Web Sitesi: http://web.cs.hacettepe.edu.tr/~celikcan/
+	🔬 Araştırma İlgi Alanları: Bilgisayar Grafikleri, Bilgisayar Animasyonu, 3D Görme ve Stereoskopi, Sanal Gerçeklik, İnsan Hareket Sentezi ve Analizi, Ciddi Oyunlar
+
+Profesör İlyas ÇİÇEKLİ
+	🎓 Görevi: Bilgisayar Bilimleri Anabilim Dalı Başkanı
+	✉️ E-posta: ilyas@cs.hacettepe.edu.tr
+	📞 Telefon: (0312) 297 7500 (113)
+	🏢 Ofis: 209
+	🌐 Web Sitesi: http://web.cs.hacettepe.edu.tr/~ilyas/
+	🔬 Araştırma İlgi Alanları: Doğal Dil İşleme, Makine Çevirisi, Hesaplamalı Dilbilim, Veri Madenciliği, Yapay Zeka
+
+Yardımcı Doçent Engin DEMİR
+	✉️ E-posta: engindemir@hacettepe.edu.tr
+	📞 Telefon: (0312) 297 7500 (121)
+	🏢 Ofis: 111
+	🌐 Web Sitesi: http://www.engindemir.com.tr/
+	🔬 Araştırma İlgi Alanları: Uzamsal-Zamansal Ağ Veritabanları, Sosyal Ağ Analizi, Yapay Zeka ve Bilgi Keşfi: Veri Madenciliği, Makine Öğrenmesi, Bilgi Erişimi, Algoritmalar
+
+Yardımcı Doçent Selma DİLEK
+	✉️ E-posta: selma@cs.hacettepe.edu.tr
+	📞 Telefon: (0312) 297 7500
+	🏢 Ofis: Z08
+	🌐 Web Sitesi: https://web.cs.hacettepe.edu.tr/~selma/
+	🔬 Araştırma İlgi Alanları: Mantık Tasarımı, Algoritma Tasarımı, Gömülü Sistemler, Yüksek Performanslı Hesaplama, Elektronik Tasarım Otomasyonu, Optimizasyon, Nesnelerin İnterneti (IoT)
+
+Profesör Tunca DOĞAN
+	✉️ E-posta: tuncadogan@hacettepe.edu.tr
+	📞 Telefon: (0312) 297 7193 (115)
+	🏢 Ofis: 210
+	🌐 Web Sitesi: http://yunus.hacettepe.edu.tr/~tuncadogan/
+	🔬 Araştırma Alanları: Biyoinformatik, Kemoinformatik, Veri Bilimi, Makina Öğrenmesi, Derin Öğrenme, Yapay Zeka
+
+Profesör Pınar DUYGULU ŞAHİN
+	✉️ E-posta: pinar@cs.hacettepe.edu.tr
+	📞 Telefon: (0312) 297 7500 (119)
+	🏢 Ofis: 108
+	🌐 Web Sitesi: http://web.cs.hacettepe.edu.tr/~pinar/
+	🔬 Araştırma İlgi Alanları: Bilgisayarla Görme, Multimedya Veri Madenciliği, Nesne-Yüz ve Hareket Tanıma, Tarihi Belge Analizi
+
+Profesör Mehmet Önder EFE
+	🎓 Görevi: Bilgisayar Donanımı Anabilim Dalı Başkanı
+	✉️ E-posta: onderefe@hacettepe.edu.tr
+	📞 Telefon: (0312) 297 7500 (125)
+	🏢 Ofis: 115
+	🌐 Web Sitesi: http://web.cs.hacettepe.edu.tr/~onderefe/
+	🔬 Araştırma İlgi Alanları: İnsansız Hava Araçları, Sensörler, Aktüatörler, Navigasyon, Güdüm, Kontrol, Akıllı Mekatronik, Hesaplamalı Zeka
+
+Profesör Erkut ERDEM
+	✉️ E-posta: erkut@cs.hacettepe.edu.tr
+	📞 Telefon: (0312) 297 7500 (122)
+	🏢 Ofis: 112
+	🌐 Web sitesi: http://web.cs.hacettepe.edu.tr/~erkut/
+	🔬 Araştırma İlgi Alanları: Görsel Belirginlik Tahmini, Otomatik Görüntü Altyazılama, Video/Fotoğraf Küme Özetleme, Görüntü Filtreleme, Görüntü Düzenleme
+
+Yardımcı Doçent Doktor Özgür ERKENT
+	✉️ E-posta: ozgurerkent@hacettepe.edu.tr
+	📞 Telefon: (0312) 297 7500 (136)
+	🏢 Ofis: Z07/C
+	🌐 Web sitesi: https://web.cs.hacettepe.edu.tr/~ozgurerkent/
+	🔬 Araştırma İlgi Alanları: Robot Görü, otonom araçlar, nesne konum tahmini, ilgiye dayalı görü, makine öğrenmesi, insan-robot etkileşimi.
+
+Doçent Doktor Burkay GENÇ
+	✉️ E-posta: bgenc@cs.hacettepe.edu.tr
+	📞 Telefon: (0312) 297 7500 (140)
+	🏢 Ofis: 122
+	🌐 Web sitesi: http://burkaygenc.tk
+	🔬 Araştırma İlgi Alanları: Veri Analizi, Veri Madenciliği, Hesaplamalı Geometri, Oyun Teknolojileri
+
+Doçent Doktor Ebru GÖKALP-AYDIN
+	✉️ E-posta: ebrugokalp@hacettepe.edu.tr
+	📞 Telefon: (0312) 297 7500 (134)
+	🏢 Ofis: 219
+	🌐 Web sitesi: https://avesis.hacettepe.edu.tr/C9739
+	🔬 Araştırma İlgi Alanları: Yazılım Mühendisliği, Yazılım Kalite Yönetimi, Yazılım Proje Yönetimi, Bilişim Sistemleri, İş Süreçleri Yönetimi, Dijital Dönüşüm, Yetenek Olgunluk Modelleri, Endüstri 4.0
+
+Yardımcı Doçent Tuğba GÜRGEN ERDOĞAN
+	✉️ E-posta: tugba@cs.hacettepe.edu.tr
+	📞 Telefon: (0312) 297 7500	
+	🏢 Ofis: 226
+	🌐 Web sitesi: https://sites.google.com/view/tugbaerdogan
+	🔬 Araştırma İlgi Alanları: Yazılım Mühendisliği, Yazılım Süreç Yönetimi, Süreç Madenciliği, Süreç İyileştirme, Sağlık Hizmetleri Süreç Analizi
+
+Profesör Nazlı İKİZLER CİNBİŞ
+	✉️ E-posta: nazli@cs.hacettepe.edu.tr
+	📞 Telefon: (0312) 297 7500 (117)
+	🏢 Ofis: 106
+	🌐 Web sitesi: http://web.cs.hacettepe.edu.tr/~nazli/
+	🔬 Araştırma İlgi Alanları: Bilgisayarla Görme, İnsan Aktivitesi Tanıma
+
+Doçent Doktor Kayhan İMRE
+	✉️ E-posta: ki@hacettepe.edu.tr
+	📞 Telefon: (0312) 297 7500 (118)
+	🏢 Ofis: 107
+	🌐 Web sitesi: http://web.cs.hacettepe.edu.tr/~kimre/
+	🔬 Araştırma İlgi Alanları: --
+
+Doçent Doktor Aydın KAYA
+	🎓 Rolü: Bölüm Başkanı Yrd.
+	✉️ E-posta: aydinkaya@cs.hacettepe.edu.tr
+	📞 Telefon: (0312) 297 7500 (138)
+	🏢 Ofis: Z07/A
+	🌐 Web sitesi: https://web.cs.hacettepe.edu.tr/~aydinkaya/
+	🔬 Araştırma İlgi Alanları: Tıbbi Görüntü Analizi, Derin Öğrenme, Makine Öğrenme, Bilgisayarlı Görü
+
+Doçent Doktor Ali Seydi KEÇELİ
+	🎓 Rolü: Bölüm Başkanı Yrd.
+	✉️ E-posta: aliseydi@cs.hacettepe.edu.tr
+	📞 Telefon: (0312) 297 7500 (137)
+	🏢 Ofis: Z07/B
+	🌐 Web sitesi: https://sites.google.com/view/aliseydikeceli
+	🔬 Araştırma İlgi Alanları: Bilgisayarlı Görü, Derin Öğrenme, Makine Öğrenmesi, Oyun Teknolojileri
+
+Doçent Doktor Ayça KOLUKISA TARHAN
+	✉️ Email: atarhan@hacettepe.edu.tr
+	📞 Phone: (0312) 297 7500 (132)
+	🏢 Office: 206
+	🌐 Website: http://web.cs.hacettepe.edu.tr/~atarhan/
+	🔬 Araştırma İlgi Alanları: Software Engineering, Software Quality Management, Software Metrics, Process Maturity, Process Analysis, Health Informatics Systems
+
+Assistant Professor Gülden OLGUN
+	✉️ Email: guldenolgun@cs.hacettepe.edu.tr
+	📞 Phone: (0312) 297 7500 (114)
+	🏢 Office: 102
+	🌐 Website: ---
+	🔬Araştırma İlgi Alanları: Bioinformatics, Machine Learning, Data Science, Data Mining, Computational Biology
+
+Profesör Suat ÖZDEMİR
+	🎓 Role: Head of Artificial Intelligence Department
+	✉️ Email: ozdemir@cs.hacettepe.edu.tr
+	📞 Phone: (0312) 297 7500 (120)
+	🏢 Office: 110
+	🌐 Website: https://web.cs.hacettepe.edu.tr/~ozdemir/
+	🔬 Araştırma İlgi Alanları: Internet of Things (IoT), IoT Data Analytics, Wireless Sensor Networks, Network Security and Data Mining
+
+Doçent Doktor Lale ÖZKAHYA
+	✉️ Email: ozkahya@hacettepe.edu.tr
+	📞 Phone: (0312) 297 7193 (7193/124)
+	🏢 Office: 218
+	🌐 Website: http://ozkahya.github.io
+	🔬 Araştırma İlgi Alanları: Combinatorics, Graph Theory and Applications
+
+Doçent Doktor Adnan ÖZSOY
+	✉️ Email: adnan.ozsoy@hacettepe.edu.tr
+	📞 Phone: (0312) 297 7500 (124)
+	🏢 Office: 114
+	🌐 Website: http://web.cs.hacettepe.edu.tr/~aozsoy/
+	🔬 Araştırma İlgi Alanları: Parallel Programming, High Performance Computing, GPGPUs, Big Data Problems, Distributed Systems and Application Parallelization Problems
+
+Profesör Sevil ŞEN
+	🎓 Rolü: Erasmus Koordinatörü
+	✉️ E-posta: ssen@cs.hacettepe.edu.tr
+	📞 Telefon: (0312) 297 7500 (123)
+	🏢 Ofis: 113
+	🌐 Web sitesi: http://web.cs.hacettepe.edu.tr/~ssen/
+	🔬 Araştırma İlgi Alanları: Ağ ve Sistem Güvenliği, Kablosuz Ağlar, Mobil Sistemler, Makina Öğrenmesi, Evrimsel Hesaplama
+
+Profesör Süleyman TOSUN
+	🎓 Rolü: Bölüm Başkanı
+	✉️ E-posta: stosun@cs.hacettepe.edu.tr
+	📞 Telefon: (0312) 297 7500 (129)
+	🏢 Ofis: 203
+	🌐 Web sitesi: http://web.cs.hacettepe.edu.tr/~stosun/
+	🔬 Araştırma İlgi Alanları: Bilgisayar Mimarisi, Elektronik Tasarım Otomasyonu, Yonga-üstü-Ağ (YüA), Çoklu İşlemciler, Çizelgeleme
+
+Profesör Hacer YALIM KELEŞ
+	✉️ E-posta: hacerkeles@cs.hacettepe.edu.tr
+	📞 Telefon: (0312) 297 7500 (133)
+	🏢 Ofis: 217
+	🌐 Web sitesi: http://web.cs.hacettepe.edu.tr/~hacerkeles/
+	🔬 Araştırma İlgi Alanları: Bilgisayarla Görme, Makine Öğrenmesi, Örüntü Tanıma, Derin Üretken Ağlar, İşaret Dili Tanıma
+
+Doçent Doktor Cemil ZALLUHOĞLU
+	✉️ E-posta: cemil@cs.hacettepe.edu.tr
+	📞 Telefon: (0312) 297 7500 (127)
+	🏢 Ofis: 201
+	🌐 Web sitesi: http://web.cs.hacettepe.edu.tr/~cemil/
+	🔬 Araştırma İlgi Alanları: Bilgisayarlı Görü, Derin Öğrenme, Kalabalık Analizi, İnsan Etkinliği Tanıma
+

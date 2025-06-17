@@ -1,0 +1,249 @@
+
+----------
+1st Semester
+ | Course Code | Course Name | Theoretic- Practical-Credit ECTS Credit Course Language
+ | --- | --- | ---
+ | BBM101 Introduction to Programming I | 3 0 3 | 6 | English
+ | --- | --- | --- | ---
+ | BBM103 Introduction to Programming Laboratory I | 0 2 1 | 4 | English
+ | MAT123 Mathematics I | 4 2 5 | 6 | English
+ | FİZ137 Physics I | 4 0 4 | 5 | English
+ | BBM105 Introduction to Computer Engineering | 1 0 1 | 2 | English
+ | İNG111 Language Skills I | 3 0 3 | 3 | English
+ | TKD103 Turkish I | 2 0 2 | 2 | Turkish
+ | BEB 650 Basic Information and Communication Technologies | 0 2 1 | 2 | English
+
+----------
+2nd Semester
+ | Course Code | Course Name | Theoretic- Practical-Credit ECTS Credit Course Language
+ | --- | --- | ---
+ | BBM102 Introduction to Programming II | 3 0 3 | 8 | English
+ | --- | --- | --- | ---
+ | BBM104 Introduction to Programming Laboratory II 0 2 1 |  | 4 | English
+ | MAT124 Mathematics II | 4 2 5 | 6 | English
+ | FİZ138 Physics II | 4 0 4 | 5 | English
+ | FİZ117 General Physics Lab. | 0 3 1 | 2 | English
+ | İNG112 Language Skills II | 3 0 3 | 3 | English
+ | TKD104 Turkish II | 2 0 2 | 2 | Turkish
+
+----------
+3rd Semester
+ | Course Code | Course Name | Theoretic- Practical-Credit ECTS Credit Course Language
+ | --- | --- | ---
+ | BBM201 Data Structures |  | 3 0 3 5 English
+ | BBM203 Software Laboratory I |  | 0 2 1 2 English
+ | BBM205 Discrete Structures |  | 3 0 3 5 English
+
+----------
+3rd Semester
+BBM231 Logic Design
+----------
+3rd Semester
+ | BBM233 Logic Design Lab | 0 2 1 | 2 | English
+ | --- | --- | --- | ---
+ | İST299 Probability | 3 0 3 | 5 | English
+ | AİT203 Atatürk\'s Princ. And The History of The Revol. I | 2 0 2 | 2 | Turkish
+ | MÜH103 Occupational Health and Safety I | 1 0 1 | 1 | Turkish
+ | Nontechnical Elective | 3 0 3 | 3 | 
+
+----------
+4th Semester
+ | Course Code | Course Name | Theoretic- Practical-Credit ECTS Credit Course Language
+ | --- | --- | ---
+ | BBM202 Algorithms |  | 3 0 3 4 English
+ | BBM204 Software Laboratory II |  | 0 2 1 2 English
+ | BBM234 Computer Organization |  | 3 0 3 4 English
+ | MAT254 Fundamentals of Linear Algebra |  | 3 0 3 4 English
+ | ELE296 Introduction to Electronic Circ. and Syst. |  | 3 0 3 5 English
+ | İST292 | Statistics | 3 0 3 5 English
+ | AİT204 | Atatürk\'s Princ. And The History of The Revol. II | 2 0 2 2 Turkish
+ | MÜH104 Occupational Health and Safety II |  | 1 0 1 1 Turkish
+ | Nontechnical Elective | 3 0 3 | 3
+
+----------
+5th Semester
+ | Course Code | Course Name | Theoretic- Practical-Credit ECTS Credit Course Language
+ | --- | --- | ---
+ | BBM301 Programming Languages |  | 3 0 3 4 English
+ | BBM325 Internship I |  | 0 4 2 5 English
+ | BBM341 Systems Programming |  | 3 0 3 4 English
+ | BBM371 Data Management |  | 3 0 3 4 English
+ | BBM | Technical Elective | 3 0 3 6 English
+
+----------
+5th Semester
+Technical Elective Lab.
+----------
+5th Semester
+Nontechnical Elective 3
+0
+3 3
+----------
+6th Semester
+ | Course Code | Course Name | Theoretic- Practical-Credit ECTS Credit Course Language
+ | --- | --- | ---
+ | BBM342 Operating Systems | 3 0 3 | 5 | English
+ | --- | --- | --- | ---
+ | BBM382 Software Engineering | 3 0 3 | 5 | English
+ | BBM384 Software Engineering Lab. | 0 2 1 | 4 | English
+ | BBM Technical Elective | 3 0 3 | 6 | English
+ | BBM Technical Elective | 3 0 3 | 6 | English
+ | Nontechnical Elective | 3 0 3 | 4 | 
+
+----------
+7th Semester
+ | Course Code | Course Name | Theoretic- Practical-Credit ECTS Credit Course Language
+ | --- | --- | ---
+ | BBM425 Internship II | 0 4 2 | 5 | English
+ | --- | --- | --- | ---
+ | BBM427 Technology Seminars I | 0 2 1 | 1 | English
+ | BBM479 Design Project I | 0 4 2 | 4 | English
+ | BBM Technical Elective | 3 0 3 | 6 | English
+ | BBM Technical Elective | 3 0 3 | 6 | English
+ | BBM Technical Elective Lab. | 0 2 1 | 4 | English
+ | Nontechnical Elective | 3 0 3 | 4 | 
+
+----------
+8th Semester
+ | Course Code | Course Name | Theoretic- Practical-Credit ECTS Credit Course Language
+ | --- | --- | ---
+ | BBM428 Technology Seminars II |  | 0 2 1 1 English
+ | BBM480 Design Project II |  | 0 6 2 6 English
+
+----------
+8th Semester
+ |  | Technical Elective
+ | --- | ---
+ | BBM | Technical Elective | 3 0 3 | 6 | English
+ | --- | --- | --- | --- | ---
+ | BBM | Technical Elective Lab. | 0 2 1 | 4 | English
+ | BBM | Technical Elective Lab. | 0 2 1 | 4 | English
+ |  | Nontechnical Elective | 3 0 3 | 3 | 
+
+----------
+Technical Electives with Complementary Practicum (Laboratory)
+ | Course Code | Course Name | Semester Theoretic- Practical- Credit | ECTS Credit Course Language
+ | --- | --- | --- | ---
+ | BBM406 Fundamentals of Machine Learning |  | Spring 3 0 3 | 6 English
+ | BBM409 Machine Learning Laboratory |  | Spring 0 2 1 | 4 English
+ | BBM412 Computer Graphics |  | Spring 3 0 3 | 6 English
+ | BBM413 Fundamentals of Image Processing |  | Fall 3 0 3 | 6 English
+ | BBM414 Computer Graphics Laboratory |  | Spring 0 2 1 | 4 English
+ | BBM415 Image Processing Laboratory |  | Fall 0 2 1 | 4 English
+ | BBM416 Fundamentals of Computer Vision |  | Spring 3 0 3 | 6 English
+ | BBM418 Computer Vision Laboratory |  | Spring 0 2 1 | 4 English
+ | BBM421 Game Technologies |  | Fall 3 0 3 | 6 English
+ | BBM422 Mobile Computing |  | Spring 3 0 3 | 6 English
+ | BBM423 Game Technologies Laboratory |  | Fall 0 2 1 | 4 English
+ | BBM424 Mobile Computing Laboratory |  | Spring 0 2 1 | 4 English
+ | BBM432 Embedded Systems |  | Spring 3 0 3 | 6 English
+ | BBM433 Microprocessors |  | Fall 3 0 3 | 6 English
+ | BBM434 Embedded Systems Laboratory |  | Spring 0 2 1 | 4 English
+ | BBM436 Microprocessors Laboratory |  | Spring 0 2 1 | 4 English
+ | BBM444 Fundamentals of Computational Photography |  | Spring 3 0 3 | 6 English
+ | BBM446 Computational Photography Laboratory |  | Spring 0 2 1 | 4 English
+
+----------
+Technical Electives with Complementary Practicum (Laboratory)
+BBM451 Computer Networks
+----------
+Technical Electives with Complementary Practicum (Laboratory)
+ | BBM452 Data Communications | Spring | 3 0 3 | 6 | English
+ | --- | --- | --- | --- | ---
+ | BBM453 Computer Networks Laboratory | Fall | 0 2 1 | 4 | English
+ | BBM458 Wireless and Mobil Networks | Fall | 3 0 3 | 6 | English
+ | BBM459 Secure Programming Laboratory | Fall | 0 2 1 | 4 | English
+ | BBM460 Wireless and Mobil Networks Laboratory | Fall | 0 2 1 | 4 | English
+ | BBM461 Secure Programming | Fall | 3 0 3 | 6 | English
+ | BBM463 Information Security | Fall | 3 0 3 | 6 | English
+ | BBM465 Information Security Laboratory | Fall | 0 2 1 | 4 | English
+ | BBM467 Data Intensive Applications | Fall | 3 0 3 | 6 | English
+ | BBM469 Data Intensive Applications Laboratory Fall |  | 0 2 1 | 4 | English
+ | BBM471 Database Management Systems | Fall | 3 0 3 | 6 | English
+ | BBM472 Geographic Information Systems | Spring | 3 0 3 | 6 | English
+ | BBM473 Database Laboratory | Spring | 0 2 1 | 4 | English
+ | BBM474 Geographic Information Systems Laboratory | Spring | 0 2 1 | 4 | English
+ | BBM481 Software Development | Fall | 3 0 3 | 6 | English
+ | BBM482 Software Quality Assurance | Spring | 3 0 3 | 6 | English
+ | BBM483 Software Development Laboratory | Fall | 0 2 1 | 4 | English
+ | BBM484 Software Quality Assurance Laboratory | Spring | 0 2 1 | 4 | English
+ | BBM488 Web Services Laboratory | Spring | 0 2 1 | 4 | English
+ | BBM490 Fundamentals of Web Architecture | Spring | 3 0 3 | 6 | English
+ | BBM491 Personal Software Process | Fall | 3 0 3 | 6 | English
+ | BBM492 Team Software Process | Spring | 3 0 3 | 6 | English
+ | BBM493 Personal Software Process Laboratory Fall |  | 0 2 1 | 4 | English
+ | BBM494 Team Software Process Laboratory | Spring | 0 2 1 | 4 | English
+ | BBM495 Introduction to Natural Language Processing | Fall/Spring | 3 0 3 | 6 | English
+
+----------
+Technical Electives with Complementary Practicum (Laboratory)
+ | BBM497 Introduction to Natural Language Processing Laboratory | Fall/Spring | 0 2 1
+ | --- | --- | ---
+ | Course Code | Course Name | Semester Theoretic- Practical- Credit | ECTS Credit Course Language
+ | --- | --- | --- | ---
+ | Other Technical Electives
+ | BBM401 Automata Theory and Formal Languages |  | Fall 3 0 3 | 6 English
+ | BBM402 Theory of Computation |  | Spring 3 0 3 | 6 English
+ | BBM403 Combinatorics and Graph Theory |  | Fall 3 0 3 | 6 English
+ | BBM404 Fundamentals of Compiler Construction |  | Spring 3 0 3 | 6 English
+ | BBM405 Fundamentals of Artificial Intelligence |  | Fall 3 0 3 | 6 English
+ | BBM407 Fuzzy Logic |  | Fall 3 0 3 | 6 English
+ | BBM408 Algorithm Analysis |  | Spring 3 0 3 | 6 English
+ | BBM410 Dynamical Systems |  | Spring 3 0 3 | 6 English
+ | BBM411 Fundamentals of Bioinformatics |  | Fall 3 0 3 | 6 English
+ | BBM431 Advanced Computer Architectures |  | Fall 3 0 3 | 6 English
+ | BBM441 Introduction to High Performance Computing |  | Fall/Spring 3 0 3 | 6 English
+ | BBM442 Parallel Processing |  | Spring 3 0 3 | 6 English
+ | BBM443 Fundamentals of Blockchain |  | Fall/Spring 3 0 3 | 6 English
+ | BBM456 Computer and Network Security |  | Spring 3 0 3 | 6 English
+ | BBM462 Social and Economic Networks |  | Fall 3 0 3 | 6 English
+ | BBM475 Management Information Systems |  | Fall 3 0 3 | 6 English
+ | BBM476 Artificial Neural Networks |  | Fall/Spring 3 0 3 | 6 English
+ | BBM477 Sampled Data Systems |  | Fall/Spring 3 0 3 | 6 English
+ | BBM485 Software Architectures |  | Fall 3 0 3 | 6 English
+ | BBM486 Design Patterns |  | Spring 3 0 3 | 6 English
+
+----------
+Non-Technical Electives
+• Below, you can find a sample of non-technical elective courses offered at Hacettepe University.
+----------
+Non-Technical Electives
+• Please note that this is only a small selection of all available non-technical elective courses.
+Unfortunately, it is not possible to provide a complete list of such courses at the moment.
+For each department you are interested in taking a course, you can visit the department\'s website (or ask them in person or by phone) to see a list of the courses they offer for you.
+----------
+Non-Technical Electives
+• You can also take courses from SEC pool as non-technical electives.
+To see the complete list of SEC courses offered each semester, you may visit http://www.secmeli.hacettepe.edu.tr/.
+Students enrolled in or after Fall 2017-18 semester can take at most 3 SEC courses during their undergraduate studies.
+----------
+Non-Technical Electives
+• There are no language restrictions for non-technical electives.
+That is, you can register for non-technical electives that are offered in Turkish (or other languages).
+----------
+Non-Technical Electives
+ | Course Code | Course Name | Theoretic- Practical-Credit ECTS Credit Course Language
+ | --- | --- | ---
+ | EKO115 General Economy | 3 0 3 | 4 | Turkish
+ | --- | --- | --- | ---
+ | MAN321 Small Business Management and Entrepreneurship | 3 0 3 | 4 | Turkish
+ | PSİ101 Introduction to Psychology | 3 0 3 | 6 | Turkish
+ | SOS101 Introduction to Sociology | 3 0 3 | 6 | Turkish
+ | SOS261 Communication Sociology | 3 0 3 | 5 | Turkish
+ | FEL123 Introduction to Logic | 3 0 3 | 4 | Turkish
+ | MTK203 Differential Equations | 4 0 4 | 4 | Turkish
+ | MTK403 Introduction to Game Theory | 3 0 3 | 5 | Turkish
+ | KAY465 Informantion Tech. at Public Management 3 0 3 |  | 4 | Turkish
+ | IYB332 General Management | 3 0 3 | 5 | Turkish
+ | ANT202 Introduction to Social Anthropology | 3 0 3 | 5 | Turkish
+ | FEL110 Introduction to Philosophy | 3 0 3 | 4 | Turkish
+ | FEL122 Logic I | 3 0 3 | 5 | Turkish
+ | MTK479 Introduction to Cryptography | 3 0 3 | 7 | Turkish
+
+----------
+Non-Technical Electives
+ | Social Psychology | Turkish
+ | --- | ---
+ | KAY246 Labour and Social Security Law | 3 0 3 | 4 | Turkish
+ | --- | --- | --- | ---
+ | KAY486 Commercial Law | 3 0 3 | 5 | Turkish

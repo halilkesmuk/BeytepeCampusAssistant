@@ -1,0 +1,47 @@
+- Bölümdeki öğrencilerin lisans eğitimleri süresince 60 iş günü staj yapmaları zorunludur.
+
+- Staj dönemleri 2. sınıftan sonraki yaz dönemi ve 3. sınıftan sonraki yaz dönemi olarak planlanmaktadır. Bunlar 2. yıl ve 3. yıl stajları olarak anılacaktır.
+
+- Staj dönemleri öğrencinin durumuna göre değişebilir (örn. 4. yılın yazı) ancak 1. yıldan sonra staj yapılamaz.
+
+- 2. ve 3. yıl stajlarının her birinin 30 iş günü (6 hafta) olması ve tercihen iki farklı kurumda yapılması beklenmektedir.
+
+- Bunların üç farklı kurumda 20'şer iş gününe bölünmesi de mümkündür. Ancak 20 iş gününden kısa stajlar kabul edilmemektedir.
+
+- Resmi tatiller staj süresine dahil edilemez; başlangıç ve bitiş tarihleri buna göre ayarlanmalıdır.
+
+- Stajın %20'sinden fazlasına katılmayan öğrenci stajdan başarısız sayılır.
+
+- Aynı kurumda birden fazla staj yapılamaz.
+
+- Staj yapılacak kurumda en az bir bilgisayar mühendisi veya elektrik-elektronik mühendisi bulunmalıdır.
+
+- Bu mühendisler gerekli staj değerlendirme belgelerinin doldurulmasından sorumludur.
+
+- Prensip olarak, 3. sınıf stajları tercihen yeni kurulmuş veya yeni faaliyete geçmiş bilişim merkezlerinde veya yazılım geliştirme alanında faaliyet gösteren kuruluşlarda yapılmalıdır. Amaç, öğrencilerin katılımını artırmak, onları gerçek dünya sorunlarıyla karşı karşıya getirmek ve proje geliştirme süreçlerini gözlemlemelerine yardımcı olmaktır.
+
+- Stajyerler kuruluşun tüm yasal ve idari düzenlemelerine uymak zorundadır.
+
+- Öğrencinin davranışını ve iş performansını değerlendirmek için bir Öğrenci Staj Değerlendirme Formu kullanılır.
+
+- Bu form, kuruluştaki amir tarafından doldurulup imzalanmalı ve kapalı ve mühürlü bir zarf içinde Hacettepe Üniversitesi Bilgisayar Mühendisliği Bölümü Staj Komisyonu'na teslim edilmelidir.
+
+- Öğrenciler staj süresince günlük faaliyetlerini detaylandıran bir Staj Raporu hazırlamalıdır.
+
+- Bu rapor, staj komitesi tarafından belirlenen format ve içeriğe uygun olmalıdır.
+
+- Staj amiri tarafından incelendikten sonra Staj Raporu Değerlendirme Formu doldurulmalı, imzalanmalı ve kaşelenmelidir.
+
+- Staj Raporu Değerlendirme Formunun teslim edilmemesi, raporun teslim edilmemiş sayılacağı anlamına gelir.
+
+- Staj raporları kişiye özeldir ve birden fazla öğrenci için teslim edilemez.
+
+- Öğrenci Staj Değerlendirme Formu, Staj Raporu ve Rapor Değerlendirme Formu bir sonraki dönemin başlamasından en geç bir ay sonra teslim edilmelidir.
+
+- Geç teslim edilen belgeler kabul edilmez ve staj geçersiz sayılır.
+
+- Teslim edilen belgeler, teslim tarihinden itibaren üç gün içinde değerlendirilir.
+
+- Belgelerin eksiksiz, doğru formatta ve zamanında teslim edilmesi halinde öğrenci, Staj Komisyonu tarafından başarılı sayılır.
+
+- Bu koşullardan herhangi birinin sağlanmaması durumunda öğrenci başarısız sayılır ve staj tamamlanmamış kabul edilir.

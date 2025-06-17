@@ -1,0 +1,141 @@
+1. Dönem Dersleri:
+
+	BBM101 - Programlamaya Giriş I
+	BBM103 - Programlamaya Giriş Laboratuvarı I 
+	MAT123 Matematik I
+	BBM105 - Bilgisayar Mühendisliğine Giriş
+	TKD103 - Türkçe I
+
+2. Dönem Dersleri:
+
+	BBM102 - Programlamaya Giriş II
+	BBM104 - Programlamaya Giriş Laboratuvarı II 
+	MAT124 Matematik II
+	TKD104 - Türkçe II
+
+3. Dönem Dersleri:
+
+	BBM201 - Veri Yapıları
+	BBM203 - Yazılım Laboratuvarı I
+	BBM205 - Ayrık Yapılar
+	BBM231 - Mantık Tasarımı
+	BBM233 - Mantık Tasarımı Laboratuvarı
+
+4. Dönem Dersleri
+
+	BBM202 - Algoritmalar
+	BBM204 - Yazılım Laboratuvarı II
+	BBM234 - Bilgisayar Organizasyonu
+	MAT254 - Doğrusal Cebirin Temelleri
+	ELE296 - Elektronik Dolaşım ve Sisteme Giriş
+
+5. Dönem Dersleri
+
+	BBM301 - Programlama Dilleri
+	BBM325 - Staj I
+	BBM341 - Sistem Programlama
+	BBM371 - Veri Yönetimi
+
+6. Dönem Dersleri
+
+	BBM342 - İşletim Sistemleri
+	BBM382 - Yazılım Mühendisliği
+	BBM384 - Yazılım Mühendisliği Lab.
+
+7. Dönem Dersleri
+
+	BBM425 - Staj II
+	BBM427 - Teknoloji Seminerleri I
+	BBM479 - Tasarım Projesi I
+
+8. Dönem Dersleri
+
+	BBM428 - Teknoloji Seminerleri II
+	BBM480 - Tasarım Projesi II
+
+Teknik Seçmeli Dersler:
+
+	BBM406 - Makine Öğrenmesinin Temelleri
+	BBM409 - Makine Öğrenmesi Laboratuvarı
+	BBM412 - Bilgisayar Grafikleri
+	BBM413 - Görüntü İşlemenin Temelleri
+	BBM414 - Bilgisayar Grafikleri Laboratuvarı
+	BBM415 - Görüntü İşleme Laboratuvarı
+	BBM416 - Bilgisayarla Görünün Temelleri
+	BBM418 - Bilgisayarla Görü Laboratuvarı
+	BBM421 - Oyun Teknolojileri
+	BBM422 - Mobil Bilişim
+	BBM423 - Oyun Teknolojileri Laboratuvarı
+	BBM424 - Mobil Bilişim Laboratuvarı
+	BBM432 - Gömülü Sistemler
+	BBM433 - Mikroişlemciler
+	BBM434 - Gömülü Sistemler Laboratuvarı
+	BBM436 - Mikroişlemciler Laboratuvarı
+	BBM444 - Hesaplamanın Temelleri
+	BBM446 - Hesaplamalı Fotoğrafçılık
+	BBM451 - Bilgisayar Ağları
+	BBM452 - Veri İletişimi
+	BBM453 - Bilgisayar Ağları Laboratuvarı
+	BBM458 - Kablosuz ve Mobil Ağlar
+	BBM459 - Güvenli Programlama Laboratuvarı
+	BBM460 - Kablosuz ve Mobil Ağlar
+	BBM461 - Güvenli Programlama
+	BBM463 - Bilgi Güvenliği
+	BBM465 - Bilgi Güvenliği Laboratuvarı
+	BBM467 - Veri Yoğun Uygulamalar
+	BBM469 - Veri Yoğun Uygulamalar Laboratuvarı Güz
+	BBM471 - Veritabanı Yönetim Sistemleri
+	BBM472 - Coğrafi Bilgi Sistemleri
+	BBM473 - Veritabanı Laboratuvarı
+	BBM474 - Coğrafi Bilgi Sistemleri
+	BBM481 - Yazılım Geliştirme
+	BBM482 - Yazılım Kalite Güvencesi
+	BBM483 - Yazılım Geliştirme Laboratuvarı
+	BBM484 - Yazılım Kalite Güvencesi
+	BBM488 - Web Hizmetleri Laboratuvarı
+	BBM490 - Web Mimarisinin Temelleri
+	BBM491 - Kişisel Yazılım Süreci
+	BBM492 - Takım Yazılım Süreci
+	BBM493 - Kişisel Yazılım Süreç Laboratuvarı Güz
+	BBM494 - Takım Yazılım Süreci Laboratuvarı
+	BBM495 - Doğal Dile Giriş
+	BBM497 - Doğal Dile Giriş
+	BBM401 - Otomata Teorisi ve Biçimsel
+	BBM402 - Hesaplama Teorisi
+	BBM403 - Kombinatorik ve Çizge Kuramı
+	BBM404 - Derleyicinin Temelleri
+	BBM405 - Yapay Zekanın Temelleri Güz
+	BBM407 - Bulanık Mantık	
+	BBM408 - Algoritma Analizi
+	BBM410 - Dinamik Sistemler
+	BBM411 - Biyoinformatiğin Temelleri
+	BBM431 - İleri Bilgisayar Mimarileri
+	BBM441 - Yüksek Performansa Giriş
+	BBM442 - Paralel İşleme
+	BBM443 - Blockchain'in Temelleri
+	BBM456 - Bilgisayar ve Ağ Güvenliği
+	BBM462 - Sosyal ve Ekonomik Ağlar
+	BBM475 - Yönetim Bilişim Sistemleri
+	BBM476 - Yapay Sinir Ağları
+	BBM477 - Örneklenmiş Veri Sistemleri
+	BBM485 - Yazılım Mimarileri
+	BBM486 - Tasarım Kalıpları
+	BBM498 - Yazılım Gereksinimleri
+
+Teknik Olmayan Seçmeli Dersler:
+
+	EKO115 - Genel Ekonomi
+	MAN321 - Küçük İşletme Yönetimi ve
+	SOS101 - Sosyolojiye Giriş
+	SOS261 - İletişim Sosyolojisi
+	FEL123 - Mantığa Giriş
+	MTK203 - Diferansiyel Denklemler
+	MTK403 - Oyun Teorisine Giriş
+	KAY465 - Kamu Yönetiminde Bilişim Tek. Kamu Yönetiminde 3 0 3
+	ANT202 - Sosyal Antropolojiye Giriş
+	FEL110 - Felsefeye Giriş
+	FEL122 - Mantık I
+	MTK479 - Kriptografiye Giriş
+	KAY124 - Sosyal Psikoloji
+	KAY246 - İş ve Sosyal Güvenlik Hukuku
+	KAY486 - Ticaret Hukuku

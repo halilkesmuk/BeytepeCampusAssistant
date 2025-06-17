@@ -1,0 +1,65 @@
+
+----------
+PRE-REQUISITE COURSES:
+Pre-requisite courses will be applied to all students enrolled in the department during and after the fall semester of 2017-2018 academic year.
+The Student Affairs System will check whether or not the pre-requisites for the added course are met for these students.
+----------
+PRE-REQUISITE COURSES:
+The curriculum without pre-requisite will be applied for students enrolled before the 2017-2018 academic year.
+----------
+PRE-REQUISITE COURSES:
+The pre-requisite course list is as follows:
+----------
+PRE-REQUISITE COURSES:
+ | Pre-requisite Courses List | 
+ | Course | Prerequisites
+ | BBM102 Introduction to Programming II | BBM101 Introduction to Programming I BBM103 Introduction to Programming Laboratory I
+ | BBM104 Introduction to Programming Laboratory II BBM201 Data Structures | BBM101 Introduction to Programming I BBM103 Introduction to Programming Laboratory I
+ | BBM203 Software Laboratory I | BBM101 Introduction to Programming I BBM103 Introduction to Programming Laboratory I
+ | BBM202 Algorithms | BBM201 Data Structures BBM203 Software Laboratory I
+ | BBM204 Software Laboratory II | BBM201 Data Structures BBM203 Software Laboratory I
+ | BBM234 Computer Organization | BBM231 Logic Design BBM233 Logic Design Lab.
+ | All must and technical elective courses having BBM3xx and BBM4xx codes | BBM102 Introduction to Programming II BBM104 Introduction to Programming Laboratory II
+ | BBM 480 Design Project II | BBM 479 Design Project I
+ | BBM 421 Game Technologies | BBM102 Introduction to Programming II BBM104 Introduction to Programming Laboratory II BBM 412 Computer Graphics
+ | BBM 423 Game Technologies Laboratory | BBM102 Introduction to Programming II BBM104 Introduction to Programming Laboratory II
+
+----------
+COURSES MUST BE TAKEN SIMULTANEOUSLY:
+As of the fall semester of 2017-2018 academic year, simultaneous courses will be applied for all students.
+Simultaneous courses are required to be taken together in the same semester.
+A student must take a course simultaneously during the course registration period.
+----------
+COURSES MUST BE TAKEN SIMULTANEOUSLY:
+If the student has already passed one of the simultaneous courses, he/she can take the other course alone.
+For example, if a student has already passed the BBM 451 Computer Networks course, he/she can enroll in BBM 453 alone.
+----------
+COURSES MUST BE TAKEN SIMULTANEOUSLY:
+Courses must be taken simultaneously list is as follows:
+----------
+COURSES MUST BE TAKEN SIMULTANEOUSLY: > Simultaneous Course List
+ | BBM 101 Introduction to Programming I | BBM103 Introduction to Programming Lab. I
+ | BBM 102 Introduction to Programming II | BBM104 Introduction to Programming Lab. II
+ | BBM 201 Data Structures | BBM203 Software Laboratory I
+ | BBM 202 Algorithms | BBM204 Software Laboratory II
+ | BBM 231 Logic Design | BBM233 Logic Design Laboratory
+ | BBM 382 Software Engineering | BBM 384 Software Engineering Laboratory
+ | BBM 406 Fundamentals of Machine Learning | BBM 409 Machine Learning Lab.
+ | BBM 412 Computer Graphics | BBM 414 Computer Graphics Lab.
+ | BBM 413 Fundamentals of Image Processing | BBM 415 Image Processing Lab.
+ | BBM 416 Fundamentals of Computer Vision | BBM 418 Computer Vision Lab.
+ | BBM 421 Game Technologies | BBM 423 Game Technologies Lab.
+ | BBM 422 Mobile Computing | BBM 424 Mobile Computing Lab.
+ | BBM 432 Embedded Systems | BBM 434 Embedded Systems Lab.
+ | BBM 433 Microprocessors | BBM 436 Microprocessors Lab.
+ | BBM 451 Computer Networks | BBM 453 Computer Networks Lab.
+ | BBM 461 Secure Programming | BBM 459 Secure Programming Lab.
+ | BBM 463 Information Security | BBM 465 Information Security Lab.
+ | BBM 467 Data Intensive Applications | BBM 469 Data Intensive Applications Lab.
+ | BBM 471 Database Management Systems | BBM 473 Database Laboratory
+ | BBM 472 Geographic Information Systems | BBM 474 Geographic Information Systems Lab.
+ | BBM 481 Software Development | BBM 483 Software Development Lab.
+ | BBM 482 Software Quality Assurance | BBM 484 Software Quality Assurance Lab.
+ | BBM 490 Fundamentals of Web Architecture | BBM 488 Web Services Laboratory
+ | BBM 491 Personal Software Process | BBM 493 Personal Software Process Lab.
+ | BBM 492 Team Software Process | BBM 494 Team Software Process Lab.

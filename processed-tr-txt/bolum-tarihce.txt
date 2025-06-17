@@ -1,0 +1,11 @@
+Hacettepe Üniversitesi 
+Bilgisayar Mühendisliği Tarihçesi
+
+Bölüm Kuruluş Bilgisi: Hacettepe Üniversitesi Bilgisayar Mühendisliği Bölümü 1974 yılında Enformatik Enstitüsü adı altında kurulmuştur.
+
+İlk Öğrenci Kabulü: Kuruluşundan üç yıl sonra bölüm bir dönüşüm geçirdi ve ilk 20 öğrencisini kabul etti.
+
+Tarihsel Önem: Böylece Hacettepe Üniversitesi, Bilgisayar Mühendisliği alanında lisans derecesi veren ilk Türk üniversitesi olmuştur.
+
+Bölüm Yapısı: Bölüm üç ana anabilim dalından oluşmaktadır: Bilgisayar Bilimleri, Bilgisayar Yazılımı ve Bilgisayar Donanımı.
+

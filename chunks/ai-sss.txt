@@ -1,0 +1,84 @@
+
+----------
+
+Yapay zekâ nedir?
+Yapay zekâ; insanlara ait olan düşünme, yorumlama ve çıkarım yapma yetilerini bilgisayarlara kazandırmayı hedefleyen çalışmalara verilen ortak addır.
+Günümüzde, belirli konularda insanlarla kıyaslanabilir ve/veya onlardan daha başarılı bir şekilde işlevlerini yerine getirmekte olan yapay sistemler ortaya çıkmış durumdadır.
+Bu sistemler, otonom araçlardan robotlara, otomatik çeviriden bilgi erişim sistemlerine, ses tanımadan yüz tanımaya kadar birçok farklı alanda başarıyla kullanılmaktadır.
+Ayrıca, son yıllarda yaşanan sayısal veri miktarındaki üstel artışla beraber bu verilerin işlenmesi ve anlamlandırılması çok büyük önem kazanmıştır.
+İşte bu noktada yapay zekâ yaklaşımları çok çeşitli çözümler sunmaktadır.
+----------
+
+Hacettepe Üniversitesi Yapay Zekâ Mühendisliği lisans programının hedefleri neler?
+Bu program neden Hacettepe Üniversitesi’nde açılıyor?
+Hacettepe Üniversitesi Bilgisayar Mühendisliği Bölümü bilişim alanında Türkiye’de öncü bir rol oynamış ve ülkemizde Bilgisayar Mühendisliği lisans programını ilk açan üniversite olma gururunu ODTÜ ile birlikte aynı tarihte yaşamıştır.
+Bu yıl kuruluşunun 42. yılını kutlayan bölümümüz Yapay Zekâ Mühendisliği lisans programı ile bu öncü rolüne devam etmektedir.
+Günümüzde bilimde ve teknolojide yaşanan gelişmelerin önemli bir bölümünde artık yapay zekâ rol oynamaktadır ve önümüzdeki yıllarda da bu yaklaşımın genişleyerek devam edeceği öngörülmektedir.
+Sayısal veri miktarındaki artış, bu tarz verilen işlenmesi ve onlardan otomatik olarak anlamlar çıkartılmasını bir zorunluluk haline getirmiştir.
+Ekonomik verilere bakıldığında günümüzdeki en başarılı yazılım şirketlerinin (Google, Facebook, Microsoft, vb.) bu alanda çalışan ve bu alana yatırım yapan şirketlerden oluştuğu görülmektedir 2019-2020 öğretim yılında ilk kez öğrenci almaya başlayacağımız bu lisans programı yukarıda değindiğimiz gelişmeler doğrultusunda yetenekli öğrencilerimize yapay zekâ üzerinde iyi bir eğitim vermek ve ülkemizin bu alanda ihtiyaç duyduğu uzman mühendisler yetiştirmek üzere tasarlanmıştır.
+Bilgisayar Mühendisliği Bölümümüz, yapay zekâ üzerinde araştırmalar yapan geniş bir kadroya sahiptir.
+Uluslararası sıralamalara baktığımızda bu alanda Türkiye’deki en başarılı bölüm olduğu görülmektedir.
+Halen Bilgisayar Mühendisliği programımız yapay zekâ alanına dahil edebileceğimiz teknik seçmeli dersler içermektedir ve öğrenciler bu dersleri alarak lisans seviyesinde bilgilenerek mezun olabilmektedir.
+Yapay Zekâ Mühendisliği programı ile amacımız, bu çerçevedeki çalışmalarımızın adını koymak, güçlü olduğumuz bu alanı daha da ileriye taşımak ve bu yeni programla öğrencilerin yapay zekâ konularına odaklı bir bilgisayar mühendisliği müfredatını takip ederek lisans seviyesinde uzmanlaşma imkanına kavuşmalarını sağlamaktır.
+----------
+
+Yapay Zekâ Mühendisliği programından mezun olacak öğrencileri ne gibi fırsatlar bekliyor?
+Yapay zekâ alandaki araştırmaların sayısı her geçen gün baş döndüren bir hızla artmaktadır.
+Bu nedenle hem akademi ve araştırma laboratuvarlarında hem de sektörde bu alanda yetişmiş iş gücüne ihtiyaç duyulmakta.
+Ortaya çıkan bu ilgi düşünüldüğünde; mezunlarımızın lisans seviyesinde aldıkları iyi eğitimle birlikte hem akademide hem de sektörde büyük bir ilgiyle karşılanmalarını bekliyoruz.
+Akademi özelinde tamamladıkları lisans çalışmalarını hem ülkemizde hem de yurt dışında iyi lisansüstü programları ile devam ettirme olasılıkları hayli yüksek olacaktır.
+Ayrıca, mezunlarımızın yapay zekâ alanında edindikleri bilgi birikimi onların sektörde istihdamları için bir tercih sebebi olacaktır.
+Bunlarla birlikte öğrencilerimizin mezuniyetleri sonrasında çok disiplinli çalışmalarda kendilerine yer bulma ve bu çalışmaları yönlendirme olanakları söz konusu olacaktır.
+Birleşmiş Milletler bünyesindeki Dünya Fikri Mülkiyet Örgütü (WIPO)’nün 2019 tarihli bir raporuna göre 2013 yılından bu yana yapay zekâ ile ilgili 340,000 patent alınmış durumda.
+Yine küresel bir araştırma ve danışmanlık firması Gartner’a göre yapay zekâ odaklı ticari şirketlerin değerinin 2022\'de 3,9 trilyon ABD dolarına ulaşacağı tahmin edilmekte.
+----------
+
+Stanford Üniversitesi tarafından 2018’de yayınlanan AI indeks raporuna göre, 2015- 2018 yılları arasında, tüm startup şirketlerinin sayısı %28 artarken, yapay zekâ odaklı startup şirketlerinin sayısı %113 artmıştır.
+Aynı raporda, derin öğrenme bilgisi gerektiren iş ilanlarının 2017 yılında 2015 yılına oranla 34 kat arttığı belirtilmektedir.
+----------
+
+Yapay Zekâ Mühendisliği lisans programı ile Bilgisayar Mühendisliği lisans programı arasındaki farklar neler olacak?
+Yapay zekâ mühendisliği programımız özünde yapay zekâ odaklı bir bilgisayar mühendisliği programı olacak.
+Mezunlarımızın diplomalarında “Bilgisayar Mühendisliği Bölümü Yapay Zekâ Mühendisliği Lisans programından mezun olmuştur.”
+ibaresi yer alacak.
+----------
+
+Görülebileceği üzere Yapay Zekâ Mühendisliği ve Bilgisayar Mühendisliği programlarına kayıtlı öğrenciler ilk yıl ortak bir müfredatı takip edecekler.
+Farkli olarak yapay zekâ programına kayıtlı öğrenciler, bu alanda uzmanlaşmaya hemen ikinci sınıfta başlayacaklar.
+AIN211 Yapay Zekanın İlkeleri, AIN200 Bilgisayarlar ve Etik, AIN212 Yapay Öğrenmenin Temelleri, AIN214 Yapay Öğrenme Laboratuvarı, AIN311 Veri Biliminin Temelleri ve AIN313 Veri Bilimi Laboratuvarı ve AIN312 Biçimsel Diller ve Özdevinirler Kuramı bu programdaki staj ve bitirme projesi dersleri dışındaki zorunlu dersleri oluşturacak.
+Bunun dışında, programa kayıtlı öğrenciler, beşi ek pratik lab dersi içeren toplam yedi adet doğrudan yapay zekâ ile ilgili seçmeli ders, bilgisayar mühendisliği programında teknik seçmeli kategorisinde bir ders ve toplamda 5 alan dışı ders alacaklar.
+Mevcut müfredatımızda hali hazırda “Algı ve Dil”, “Büyük Veri ve Yapay Öğrenme”, “Medikal Yapay Zekâ” ve “Karar Verme ve Robotbilim” konuları odaklı teknik seçmeli ders kümeleri tanımlanmış durumda.
+Yakın gelecekte bu ders havuzlarını yeni dersler ile de genişletmeyi planlıyoruz.
+Yapay Zekâ Mühendisliği ile ilgili diğer müfredat detayları için: http://cs.hacettepe.edu.tr/curriculum_undergraduate_AI.html Bu bağlamda bilgisayar mühendisliği lisans programına kayıtlı olan öğrencilerimiz de bu seçmeli ders kümelerinden dersleri yapay zekâ programındaki öğrencilerle eşit öncelikli olarak alabilecekler.
+Ancak bilgisayar mühendisliği lisans programının müfredatı düşünüldüğünde alınabilecek bu derslerin sayısı doğal olarak kısıtlı olacak.
+Yukarıda sıralanan zorunlu derslerle birlikte düşünüldüğünde bilgisayar mühendisliği programımıza kayıtlı olan ve yapay zekâ ile ilgilenen bir öğrenci yapay zekâ konusunda aldığı derslerle bu konu hakkında bilgilenmiş olarak mezun olurken yapay zekâ programımıza kayıtlı bir öğrenci bu alanda lisans seviyesinde uzmanlaşmış olarak mezun olacak.
+Bu bakımdan iki lisans programımız birbirlerini desteklemekle birlikte farklı niteliklere ve yeteneklere sahip mezunlar veriyor olacak.
+----------
+
+Lisans seviyesinde yapay zekâ alanında uzmanlaşma sağlayan lisans programlarının dünyada örnekleri var mı?
+Evet.
+Yapay zekâ alanında yaşanan geliştirmeler dünyadaki bütün iyi üniversitelerin kendi akademik yapılanmalarında çeşitli değişikliklere gitmesini zorluyor.
+A.B.D.
+’de Carnegie Mellon University (CMU) Bilgisayar Bilimleri Bölümü altında geçtiğimiz sonbaharda Yapay Zekâ lisans programını açacağını duyurdu.
+Benzer şekilde yine geçtiğimiz yıl Massachusetts Institute of Technology (MIT), yeni bir yapılanmaya gideceğini School of Computing adıyla yeni bir fakülte kuracağını ve bu fakülte bünyesinde yapay zekâ da dahil olmak üzere yeni lisans programları açacağını ilan etti.
+Kanada’da derin öğrenmeye şekil vermiş bir üniversite olan University of Toronto da lisans seviyesinde yapay zekâda uzmanlaşma imkânı sunan bir lisans programına çok yakında öğrenci alacak.
+İngiltere’de University of Edinburgh, University of Birmingham, University of Sheffield gibi üniversitelerde Bilgisayar Bilimleri bünyesinde Yapay Zekâ ve Bilgisayar Bilimleri lisans programları mevcut.
+Uzak Doğu’dan bir örnek ise The Chinese University of Hong Kong’un yeni öğrenci almaya başladığı Artificial Intelligence – Systems & Technologies adlı mühendislik lisans programı.
+Bu programları incelemek isterseniz aşağıdaki bağlantıları ziyaret edebilirsiniz.
+----------
+
+Bilgisayar Mühendisliği lisans programının MÜDEK akreditasyonu var.
+Peki yapay zekâ lisans programının MÜDEK akreditasyonu var mı?
+Bu yıl 42. yaşını dolduran Bilgisayar Mühendisliği lisans programımızın aksine Yapay Zekâ Mühendisliği lisans programımızın henüz MÜDEK akreditasyonu bulunmamakta.
+MÜDEK akreditasyonuna başvurmak için bir programın, başvuru tarihinden önce mezun vermiş olması gereklidir.
+MÜDEK akreditasyon çalışmalarımız kapsamında edindiğimiz tecrübemiz ile birlikte bu yeni programımızın akreditasyon hazırlıklarını yapmaya şimdiden başladık.
+İlk mezunlarımızı vereceğimiz 2023 yılı başı itibarıyla MÜDEK’e resmi başvurumuzu yapacağız ve sonucun olumlu olacağını düşünüyoruz.
+----------
+
+Yapay zekâ üzerine lisansüstü programlarında uzmanlaşma şansım varken neden lisans programını tercih etmeliyim?
+Yapay zekâ mühendislik programı, yapay zekâ alanında uzmanlaşmış mezunlar yetiştirmeyi hedeflemektedir.
+Yapay zekâ alanı günümüzde çok geniş bir konu yelpazesini kapsamaktadır ve bu alanda uzmanlaşmaya ne kadar erken başlanılırsa o kadar iyi olacaktır.
+Amerika\'da yapay zekâ eğitimleri lise seviyesinde bile ele alınmaya başlanmıştır, bu konudaki habere aşağıdaki bağlantı üzerinden ulaşılabilir.
+Yüksek lisans seviyesinde, yapay zekânın sadece belirli alt alanlarında uzmanlaşma imkânı verirken, tüm konuları kapsayabilmek zor olmaktadır.
+Ayrıca konu ile ilgili pratik yapma olanağı daha azdır.
+Yapay zekâya yönelik bu bütünsel program ile yapay zekânın farklı konularında özelleşmiş geniş bir yelpazedeki dersler ilgili yoğun matematik altyapısı ve ilgili laboratuvarlarla birlikte desteklenerek, konuda çok daha erken uzmanlaşmak mümkün olacak, bu sayede hem sanayi hem de akademiye yönelik mezunlar yetiştirilecektir.

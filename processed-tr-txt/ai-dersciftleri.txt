@@ -1,0 +1,27 @@
+Hacettepe Üniversitesi
+Mühendislik Fakültesi
+Yapay Zeka Mühendisliği Bölümü
+
+Eş Zamanlı Alınması Gereken Ders Çifti: AIN212 Veri Biliminin Unsurları | AIN214 Veri Bilimi Lab.
+
+Eş Zamanlı Alınması Gereken Ders Çifti: AIN311 Makine Öğreniminin Temelleri | AIN313 Makine Öğrenimi Lab.
+
+Eş Zamanlı Alınması Gereken Ders Çifti: AIN412 Tıbbi Görüntü Analizine Giriş | AIN414 Tıbbi Görüntü Analizinde Uygulama
+
+Eş Zamanlı Alınması Gereken Ders Çifti: AIN430 Görüntü İşlemenin Temelleri | AIN432 Görüntü İşlemede Uygulama
+
+Eş Zamanlı Alınması Gereken Ders Çifti: AIN431 Bilgisayarla Görmeye Giriş | AIN433 Bilgisayarla Görme Pratiği
+
+Eş Zamanlı Alınması Gereken Ders Çifti: AIN440 Doğal Dil İşlemeye Giriş | AIN442 Doğal Dil İşleme Pratiği
+
+Eş Zamanlı Alınması Gereken Ders Çifti: AIN420 Derin Öğrenmeye Giriş | AIN422 Derin Öğrenme Pratiği
+
+Eş Zamanlı Alınması Gereken Ders Çifti: AIN423 Veri Yoğun Uygulamalar | AIN425 Veri Yoğun Uygulamalarda Pratik
+
+Eş Zamanlı Alınması Gereken Ders Çifti: AIN424 Derin Takviyeli Öğrenmeye Giriş | AIN426 Derin Takviyeli Öğrenmede Uygulama
+
+Eş Zamanlı Alınması Gereken Ders Çifti: AIN427 Veri Madenciliğine Giriş | AIN429 Veri Madenciliği Laboratuvarı
+
+Eş Zamanlı Alınması Gereken Ders Çifti: AIN451 Robotiğe Giriş | AIN453 Robotikte Uygulama
+
+Eş Zamanlı Alınması Gereken Ders Çifti: AIN455 İnsan Robot Etkileşimine Giriş | AIN457 İnsan Robot Etkileşiminde Uygulama

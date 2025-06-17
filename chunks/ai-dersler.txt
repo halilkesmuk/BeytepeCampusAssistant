@@ -1,0 +1,769 @@
+
+----------
+Introduction to Programming I (3 0 3)
+syllabus Basic concepts of computer programming.
+Problem formalization and developing algorithms and flowcharts using stepwise refinement method.
+Fundamental concepts related to structured programming.
+Data types and variable definitions.
+Basic control structures.
+Conditional and looping structures.
+Function concept and function calls.
+Single and multi- dimensional arrays in programming languages.
+File operations.
+Pointers.
+----------
+Introduction to Programming Laboratory I (0 2 1)
+syllabus The laboratory includes three or more practical assignments.
+The students are expected to present a well-designed documentary report with their assignments.
+The utilization of compilers, package programs and recent IDEs (Integrated Development Environments) is a part of this laboratory.
+----------
+Introduction to Programming II (3 0 3)
+syllabus Basic concepts of object oriented programming.
+Introduction to learning of an object oriented programming language.
+Class, object, encapsulation, inheritance, polymorphism, abstract class and interface.
+Access specifiers and messaging.
+Exception handling concepts.
+----------
+Introduction to Programming Laboratory II (0 2 1)
+syllabus The laboratory includes three or more practical assignments.
+The students are expected to present a well-designed documentary report with their assignments.
+The utilization of compilers, package programs and recent IDEs (Integrated Development Environments) is a part of this laboratory.
+----------
+Introduction to Computer Engineering (1 0 1)
+syllabus An orientation course to provide counsel to the students about the Department and Computer Engineering in general.
+An introduction to ethical and legal issues related to computer engineering.
+An introduction to the faculty and their activities.
+----------
+Data Structures (3 0 3)
+syllabus Fundamentals of data structures.
+Relationships between data representation, algorithm design, and program efficiency.
+Lists, stacks, queues, trees, priority queues, hashing, graphs.
+Multi-dimensional/triangular/band/sparse matrix representations.
+Single/double (circular) linked lists.
+Prefix/infix/postfix expressions.
+----------
+Software Laboratory I (0 2 1)
+The laboratory includes three or more practical assignments.
+The students are expected to present a well-designed documentary report with their assignments.
+The utilization of compilers, package programs and recent IDEs (Integrated Development Environments) are included in this laboratory.
+----------
+Discrete Structures (3 0 3)
+syllabus Fundamental concepts of discrete mathematics: Mathematical logic, set theory, relations, and functions.
+Propositional logic, first order logic, and mathematical induction.
+Discrete structures: Modular arithmetic, state machines, graph theory, trees, counting, recursion and recursive relations.
+Discrete probability theory.
+----------
+Logic Design (3 0 3)
+syllabus Digital systems, number systems, binary codes, error detecting and error correcting codes.
+Boolean algebra, switching algebra, binary operations and Boolean functions.
+Minimization of Boolean functions.
+Combinational logic, logic gates, analysis of combinational circuits, circuit design with logical gates.
+Integrated circuits, design with MSI chipsets, ROM, PLA.
+Synchronous sequential circuits, memory elements, analysis and design procedures.
+Registers, counters, RAM.
+Asynchronous sequential circuits.
+----------
+Logic Design Lab (0 2 1)
+syllabus The laboratory includes practical assignments on the following topics: Logical gates, integrated circuits, properties and rules of Boolean algebra, combinational circuits, minimization of Boolean functions.
+Code converter, multiplexer, magnitude comparator and parallel adder circuits.
+Flip-flops and sequential circuits.
+Counters, registers, serial adder circuits, and memory elements.
+----------
+Algorithms (3 0 3)
+syllabus Basic concepts of algorithms.
+Asymptotic notation, performance measurement, space/time complexity.
+Recursive algorithms, recursive relations, introduction to the concept of algorithm analysis.
+Binary search tree, recursive and iterative binary tree traversals.
+Graphs, depth/breadth first search, spanning trees, shortest path problem, activity on vertex/edge networks.
+Selection, insertion, bubble, counting, quick, merge, heap, radix sorting algorithms and their analysis.
+----------
+Software Laboratory II (0 2 1)
+syllabus The laboratory includes three or more practical assignments.
+The students are expected to present a well-designed documentary report with their assignments.
+Compilers, package programs and recent IDEs (Integrated Development Environments) are utilized in this laboratory.
+----------
+Principles Of Artificial Intelligence (3 2 4)
+syllabus Problem-solving agents, uninformed search algorithms, heuristic search algorithms, game playing algorithms, constraint satisfaction problems, logical agents, propositional and first order logic, inference and decision making, knowledge representation and reasoning, planning, uncertainity and probabilistic reasoning, Bayesian networks, reinforcement learning, perception, robotics and computer vision syllabus
+----------
+Computer Organization (3 0 3)
+Basic mathematical and logical concepts related to computer architecture.
+Data representation.
+Basic computer organization.
+Central processor organization: Accumulator- based, general-registers processors and stack machine architectures.
+Machine code instruction concept, microprogramming concept, addressing modes.
+Memory organization.
+Mass storage devices.
+I/O devices.
+Introduction to Assembly language programming.
+----------
+Programming Languages (3 0 3)
+syllabus Essential principles and paradigms in programming languages.
+All major topics and the language paradigms are covered.
+Topics include syntax, semantics, names, bindings, type checking, subprograms, tools for constructing lexical and syntactical analyzers, abstract data types, concurrency, exception handling.
+The different design choices both for imperative languages and functional languages and the tools for designing lexical and syntactical analyzers are covered in detail.
+Within this context, the basics of formal, regular and context- free languages, parse trees, ambiguity in grammars, regular expressions and their usage in lexical analyzers are included.
+Students learn how to write context-free grammars and BNF notation in detail.
+----------
+Systems Programming (3 0 3)
+syllabus Assembly language general concepts.
+Source and object program.
+Re-entrant and re- executable program.
+Addressing techniques.
+Procedure definitions, procedure communication techniques, macro facilities.
+Operating system-assembly language connections: system calls.
+System-call mechanism, input/output interfaces.
+Loaders, linkers.
+Microprogramming.
+One and two pass assemblers.
+Interrupt mechanism, interrupt management.
+Fundamental I/O programming techniques.
+Programmed and interrupted I/O programming.
+Direct memory access.
+Embedded systems I/O programming examples.
+Device drivers: Device types, character device drivers and example, block device drivers.
+----------
+Data Management (3 0 3)
+syllabus Basic file concepts.
+Secondary storage devices and physical file organization.
+File management system and types.
+Fundamental file processing operations.
+Index and types.
+Indexing by hashing and types.
+Tree structured indexes.
+Sorting.
+Spatial and multidimensional indexing structures.
+Folded indexes.
+----------
+Operating Systems (3 0 3)
+syllabus Definition of the operating system.
+Job, process, batch and interactive processing, multitasking and real-time processing concepts.
+Processes, context and task switching, UNIX process state and queue diagrams, processes management algorithms.
+Threads.
+Concurrent processes.
+Inter-process communication and synchronization, mutual exclusion.
+Low-level synchronization operators and semaphores.
+High-level synchronization functions.
+UNIX pipes and FIFOs.
+Deadlocks.
+Memory management: Single and contiguous, static and dynamic partitioned memory, swapping, paging, segmentation, virtual memory.
+File management: Directory structures, FAT, i-node structures, file allocation methods, security and protection.
+Distributed processing, TCP/IP, client-server paradigm, socket programming.
+----------
+Software Engineering (3 0 3)
+syllabus Basic concepts of software engineering.
+Types of computer systems and the software as a part of them.
+The relation of software engineering to the systems engineering.
+The scope of software engineering: Software development (analysis, design, coding, and test), software engineering management, software configuration management, software engineering processes, software engineering tools and methods, and software quality assurance.
+Software metrics and software cost estimation.
+Cost of software quality.
+Software development process models and process reference models.
+----------
+Software Engineering Laboratory (0 2 1)
+syllabus Engineering middle-size software applications from the scratch by using both management and development practices.
+Initial requirements of software projects and planning its development.
+Practicing requirements analysis, architectural design, and detailed design of software systems in accordance to a pre-defined software development life-cycle (based on Open Unified Process), and documenting the outputs of these activities in pre-defined formats (as recommended by IEEE).
+The students are required to show a working prototype of the software architecture by coding several critical requirements of the system at the end of the laboratory.
+The use of J2EE technologies is intended during the design and implementation of the software system.
+----------
+Internship (0 0 4)
+syllabus At the end of the internship, the student will implement a project and work in an organization.
+----------
+Technology Seminars I (0 1 0)
+syllabus The student has to attend to a number of technology seminars that will be organized by the department.
+The subject of the seminars will be determined based on current technological agenda.
+The presenters might be either internal or external (e.g. from the industry) to the department.
+----------
+Technology Seminars II (0 1 0)
+The student has to attend to a number of technology seminars that will be organized by the department.
+The subject of the seminars will be determined based on current technological agenda.
+The presenters might be either internal or external to the department.
+----------
+Fundamentals of Image Processing (3 0 3)
+syllabus Digital image fundamentals, linear image filtering and correlation, non-linear filtering, image enhancement, histogram modification techniques, image restoration, image compression, frequency domain processing and segmentation.
+----------
+Image Processing Laboratory (0 2 1)
+syllabus Practical applications of topics presented in "Fundamentals of Image Processing".
+Digital image fundamentals, linear image filtering and correlation, non-linear filtering, image enhancement, histogram modification techniques, image restoration, image compression, frequency domain processing and segmentation.
+----------
+Game Technologies (3 0 3)
+syllabus Theory and practice of video game design and programming.
+Video game programming as a combination of computer graphics, human computer interaction, networking, artificial intelligence, computer-aided instruction, computer architecture, and databases.
+Video game history, taxonomy of video games, gameplay design - components of a video game experience, software architecture for video games, intro to 3D graphics and stereoscopic computer graphics, hardware architecture of contemporary video game platforms, human physical and perceptual limits, game AI (artificial intelligence), multiplayer game design, game physics, intro to real time shading effects, toon shading, reflections, lens flares, shadow.
+----------
+Game Technologies Laboratory (0 2 1)
+syllabus Developing an experience on 3D game programming.
+The state-of-the-art graphics card pipelines, common graphics libraries such as OpenGL and DirectX and their shading languages, common problems (mainly about time and space inadequacies) of 3D games and methods/tricks that are developed to solve them.
+----------
+Occupational Health and Safety I (1 0 1)
+syllabus Improvements of Occupational Health and Safety Application Guidelines, Occupational Health and Safety Legislations, Working Life and Chronic Diseases, Occupational Diseases, Stress Management in Working Life, Physical Risks and Preventive Measures, Chemical Risks and Preventive Measures, Laboratory safety, Emergency Plans, Ergonomics - Protection of Musculoskeletal System Health in the Working Environment, Occupation (division) Special Occupational Health and Safety Practices
+----------
+Computer Networks (3 0 3)
+Introduction to the foundations of networking and network architecture, direct link networks, packet switching (ATM), Internetworking (IP, ARM, ICMP, etc.), end-to-end protocols (UDP, TCP), applications (SMTP, HTTP, etc.), wireless networks syllabus
+----------
+Computer Networks Laboratory (0 2 1)
+A series of experiments such as sub-netting and addressing, Cisco-IOS, router and switch configurations, ACL (Access Control Lists), VLAN configurations, topology discovery, FR/ATM wide area network switch configurations, HDLC, PPP, Frame Relay, ATM protocols, IP telephony and VoIP.
+----------
+Information Security (3 0 3)
+Basic security notions: Confidentiality, integrity, availability.
+Security threats, hacking, social engineering, legal and social issues.
+Operational and physical security issues, security policy formation and enforcement.
+Basic concepts of cryptography: encryption, hash functions, public key encryption.
+Authentication models: Password-based, token-based, biometrics- based authentications.
+Authorization models: Discretionary access control, role based access control, mandatory access control.
+Program security: Malwares, basic notions of secure programming.
+Operating system security: Protection models, security kernels, malware protection.
+Network security: Firewalls, intrusion detection and response systems.
+Logging for security, auditing, log management in network environments.
+----------
+Information Security Laboratory (0 2 1)
+syllabus Using encryption tools for data confidentiality.
+Creating an experimental Public Key Infrastructure solution.
+Disk integrity checker configuration and testing.
+Using disc scanning tools for data recovery.
+Code review using static analysis tools.
+Studying a case for buffer and integer overflow attacks.
+Studying a case for format string attacks and input validation.
+Configuring IPSEC protocol on personal computers.
+Signing and encrypting e-mails, PGP.
+Studying a case for XSS attacks.
+Security of web session management.
+Firewall configuration and testing.
+Network vulnerability scanning.
+Intrusion detection system configuration and testing.
+Studying a case for DOS attacks.
+----------
+Data Intensive Applications Laboratory (0 2 1)
+syllabus Developing an experience on parallel programming on distributed systems such as many- core systems, clusters, grids, clouds, and supercomputers.
+Distributed systems with an emphasis on designing, implementing, and evaluating systems, protocols, and middleware with the goal of supporting data-intensive applications at extreme scales.
+----------
+Database Management Systems (3 0 3)
+syllabus Database, database management systems, database architecture, schemas and data independence.
+Data models: Entity-relationship model and relational model.
+Integrity restrictions and relational design: Field restrictions, reference restrictions, dependencies between attributes, normal forms, design criteria.
+Relational languages: Relational algebra.
+SQL standard relational language: data definition, data manipulation, database management possibilities and main commands.
+Transactions.
+Concurrency control and serializability.
+Recovery mechanisms.
+----------
+Software Development (3 0 3)
+syllabus Basic phases of software development.
+Object-oriented analysis and design concepts, and the Unified Modeling Language (UML).
+UML views and diagrams.
+Use-case, activity, class, package, interaction, state, component, and deployment diagrams.
+The object-oriented development process and recommended usage of UML diagrams.
+Example resolutions of software systems.
+----------
+Personal Software Process (3 0 3)
+syllabus Basic principles of the Personal Software Process that brings a discipline to the way to personal software development.
+Students start with the PSP0 process, where they use their current programming practices.
+The PSP process is enhanced through four process versions, with students writing one or two programs with each PSP version.
+For each program, they use the process methods just introduced, as well as all of the methods introduced with the previous process versions.
+All PSP materials are pre-defined, and can be accessed from the official website of the Software Engineering Institute.
+----------
+Personal Software Process Laboratory (0 2 1)
+syllabus Complimentary to Personal Software Process course in carrying out the assignments in accordance to PSP0 and PSP1 processes.
+Accomplishment of six assignments by following a series of pre-defined processes and producing pre-defined outputs.
+The students can use a programming language that they are comfortable with for implementing the assignments.
+At the end of the laboratory, the students will prepare a final report evaluating their own performance while performing the assignments by using pre-defined metrics.
+All laboratory materials are pre-defined and can be reached from the official website of the Software Engineering Institute.
+----------
+Computer Graphics (3 0 3)
+syllabus A survey of computer graphics, graphics hardware and software, graphical primitives\' description.
+Two dimensional graphics, transformations, windows, viewports, clipping, segmentation.
+Interactive input methods, device and events.
+Three dimensional representation, transformations and projections.
+Hidden surface elimination.
+Color maps, shading, shadowing and lighting.
+Textures, images, texture mapping.
+Animation techniques.
+----------
+Computer Graphics Laboratory (0 2 1)
+Computer graphics applications, widely used development environments in computer graphics, recent 3D graphics libraries, graphic hardware and software, geometric transformations, computer animation, fundamentals of modeling techniques, script languages for animation and graphics syllabus
+----------
+Fundamentals of Computer Vision (3 0 3)
+Physics of image formation, image representation, geometrical transformations, binary image analysis, point and blob processing, filters, convolution, edge detection, texture analysis and synthesis, color spaces and models, invariant image features, optical flow, basic matching techniques.
+----------
+Computer Vision Laboratory (0 2 1)
+syllabus Computer vision systems and problems, geometric transformations, optical flow problems and calculation, binary image analysis, point and blob tracking processing, invariant image features calculation, image matching with fundamental matching techniques syllabus
+----------
+Mobile Computing (3 0 3)
+Mobile/wireless technologies and how these technologies are utilized and integrated to meet specific business needs.
+Specific skills needed for developing mobile/wireless applications.
+Design of modern distributed software systems, mobile application development technologies, architectures and techniques in the advanced network technologies supporting the upper layers, planning, management and security in mobile systems, mobile game design.
+----------
+Mobile Computing Laboratory (0 2 1)
+syllabus Developing an experience on mobile/wireless technologies and how these technologies can be used and integrated to meet specific business needs.
+Design of modern distributed software systems, mobile application development technologies, architectures and techniques in the advanced network technologies supporting the upper layers, planning, management and security in mobile systems, mobile game design.
+----------
+Embedded Systems (3 0 3)
+syllabus Microprocessors, memory units, input/output interfaces, co-processors, sensors as input/output drivers, electromechanical guidance devices, microcontrollers, embedded system design with core components, FPGA (Field Programmable Gate Array), Verilog, real- time operating systems, embedded Linux, Windows CE.
+----------
+Embedded Systems Laboratory (0 2 1)
+syllabus Principles and algorithms for prototyping embedded systems that are able to perform high levels of deduction and adaptation.
+Examples of embedded systems include self-directed deep space probes, robotic soccer teams, acrobatic helicopters and mobile robots.
+Weekly experiments implemented on FPGA systems.
+----------
+Computer Networks (3 0 3)
+syllabus Wired and wireless LAN; Repeating, Bridging and Switching Hubs; Routers; VLANs; WANs, TCP/IP Protocol Suite; IP Address Planning; Network Design; IP, TCP and UDP Layers; DHCP; Broadcasting and Multicasting syllabus
+----------
+Data Communications (3 0 3)
+Basics of computer networks, ISO reference model.
+TCP/IP, network types and topologies.
+Physical layer: Physical communication media types, attenuation and distortion of electrical signals.
+Fourier series and modulation, frequency and time division multiplexing, modulation methods.
+Modems, connection standards.
+Bit, character and frame synchronization.
+Data link layer: Idle RQ, continuous RQ algorithms, sliding window mechanism, HDLC and derivative protocols.
+LANs, Local area networks, Ethernet and Token Ring.
+WANs, wide area networks, PPP, ATM and Frame Relay, telecommunication services and standards.
+----------
+Computer Networks Laboratory (0 2 1)
+syllabus LANs and Ethernet; VLANs; Switch and router configuration I; Switch and router configuration II; Access list and packet filtring; RIP ve OSPF; NAT Network Address Translation; Topology discovery; Frame Relay; DHCP syllabus
+----------
+Geographic Information Systems (3 0 3)
+Using geographic information systems in scientific area and for decision-making.
+Applications of geographic information; modeling geographic reality; spatial data collection; geographical databases; geographic analysis; accuracy and uncertainty; visualization and legal, economic, and ethical issues associated with the use of geographic information; satellite-based remote sensing; intelligent transportation systems and other geographic information technologies.
+----------
+Database Laboratory (0 2 1)
+syllabus Advanced database management systems; database definition; querying and application development with databases; research and presentation of database technologies; backup and repair; popular database systems.
+----------
+Geographic Information Systems Laboratory (0 2 1)
+syllabus Concepts of Geographical Information Systems (GIS), inputs of GIS applications, match of GIS systems, using popular GIS tools, problem specific GIS data structures, creating new geo spatial data types, analysis of vector based distance functions, design and implementation of geo spatial databases, well known GIS solutions.
+----------
+Design Project I (0 4 2)
+syllabus For this applied course, each student develops a software or hardware with a close supervision of a faculty member.
+CAD and other required hardware tools are used in the case of hardware oriented projects.
+For software oriented projects; neat, user friendly man- machine interaction and other software engineering techniques are required for the developed software.
+----------
+Software Quality Assurance (3 0 3)
+syllabus Basic concepts and approaches of assuring software quality within the software development life-cycle.
+The topics covered include: Basic terms and concepts of software quality assurance.
+Software verification, validation, and testing.
+The concepts of error, fault, and failure.
+Software verification and validation methods and standards.
+Software reviews and inspections.
+Overview of metrics used to measure software quality.
+The levels and methods of software testing.
+Functional and structural testing.
+Integration and system testing.
+Object- oriented testing.
+----------
+Software Quality Assurance Laboratory (0 2 1)
+syllabus Practicing of basic methods of software quality assurance on readily developed middle-size software systems.
+The students will be assigned working software systems and are required to design and run software tests based on widely-used methods of software testing.
+Code review will be practiced as a part of assuring software quality.
+The students will report the design and outputs of their software quality assurance activities, and discuss the costs and benefits of carrying out them in their reports.
+----------
+Team Software Process (3 0 3)
+syllabus Basic principles of the Team Software Process (TSPi) that guides students in carrying out team software project together.
+Forms, scripts, and standards needed for a small software team project.
+Designed for one, two, or three development cycles.
+Practicing the process in the first cycle, using the process under schedule pressure in the second cycle, and in the third cycle, fully internalizing the lessons they learned in the first two.
+All TSPi materials are pre-defined, and can be accessed from the official website of the Software Engineering Institute.
+----------
+Team Software Process Laboratory (0 2 1)
+syllabus Complimentary to Team Software Process course in carrying out the assignments in accordance to TSPi.
+The students are assigned pre-defined roles, and required to complete software development assignments as a team by following a pre-defined process and producing pre-defined outputs.
+All laboratory materials can be accessed from the official website of the Software Engineering Institute.
+----------
+Automata Theory and Formal Languages (3 0 3)
+syllabus Finite state automata: Deterministic and nondeterministic automata models, Mealy and Moore machines, simplification method.
+Regular sets and regular expressions, finite automata - regular expression relation.
+Formal grammar and languages, grammar and language classes and properties.
+Regular grammar and languages, regular grammar - finite automata relation.
+Context free grammar and languages.
+Pushdown automata model, pushdown automata - context free grammar relation.
+Turing machines and restricted languages.
+Parsing: parsing types, top-down and bottom-up parsing, LL(k) and LR(k) parsing for context-free languages, usage of finite automata in LR(k) parsing.
+----------
+Theory of Computation (3 0 3)
+syllabus Fundamental ideas in the theory of computation.
+Classification of solvable problems, computability and complexity, reducibility among computational problems, online distributed algorithms, impossibility results, polynomial-time reducibility, NP-Completeness, the Cook- Levin theorem.
+----------
+Combinatorics and Graph Theory (3 0 3)
+syllabus Basic counting principles: Permutations and combinations.
+Binomial coefficients.
+Inclusion- exclusion principle.
+Recurrence relations.
+The fundamental concepts and methods of graph theory and its applications.
+Topics covered include: paths and searching, trees, networks, cycles, planarity, independence, subgraphs, isomorphism, connectivity, planarity, chromatic number, Eular graph, Hamilton graph, minimum spanning tree, shortest path, maximal flow, vertex coloring, activity schedule.
+----------
+Fundamentals of Compiler Construction (3 0 3)
+syllabus Fundamental concepts in compiler design and construction.
+Development of the logical design of a compiler, lexical analyzer, parser, semantic analyzer, code generator, code optimizer, and error recovery routines.
+Analysis of formal algorithms for each component, description of overall compiler construction techniques.
+----------
+Fundamentals of Artificial Intelligence (3 0 3)
+syllabus Problem solving techniques: State-space approach, problem-reduction approach, exhaustive search algorithms, heuristic search algorithms, game playing algorithms and game trees, logic programming, knowledge representation and reasoning, learning in AI systems, artificial neural networks, proof theory of propositional logic, first-order predicate logic, Bayesian networks, semantic nets, fuzzy logic, perception, robotics.
+----------
+Fundamentals of Machine Learning (3 0 3)
+syllabus Basic concepts in learning, Bayes decision theory, decision tree learning, regression, classification, linear and non-linear discriminative models, supervised and unsupervised learning, feature selection, dimensionality reduction, model selection, machine learning applications.
+----------
+Fuzzy Logic (3 0 3)
+syllabus General approach in fuzzy logic, fuzzy sets, relations and arithmetic.
+The relation between fuzzy logic and the other theories such as possibility and probability theory.
+Fuzzy inference systems.
+Hybrid methods in fuzzy inference.
+Fuzzy clustering.
+Examination of common application areas: Decision making, pattern recognition, data base, data mining.
+Fuzzy logic and artificial intelligence.
+----------
+Algorithm Analysis (3 0 3)
+syllabus Asymptotic growth rates and asymptotic notations.
+Basic tools for analyzing and comparing performance.
+Recursive thinking, recursive relations.
+Worst, average and best-case analysis.
+How to use the master theorem.
+A divide-and-conquer example: Multiplying two n-bits numbers.
+Overview of sorting and selection: Sorting in linear time (radix, counting and bucket sort), lower bound for sorting, analysis of heap generation, heapsort, average-case analysis of insertion and quicksort, tournament method, selecting the kth smallest element in linear time.
+Dynamic programming: Matrix-chain multiplication, longest common subsequence.
+----------
+Machine Learning Laboratory (0 2 1)
+syllabus Overview of Machine Learning, Linear Regression, Least Squares, Machine Learning Methodology, Probability and Linear Algebra Basics, Statistical Estimation: MLE, MAP, Naive Bayes Classifier, Linear Classification Models: Logistic Regression, Linear Discriminant Functions, Perceptron, Support Vector Machines, Decision Tree Learning, Ensemble Methods: Bagging, Boosting, Clustering, Neural Networks, Principle Component Analysis syllabus
+----------
+Dynamical Systems (3 0 3)
+Basic concepts of systems.
+State-space representation.
+Discrete and continuous time linear dynamical systems.
+Linear state equations.
+Linear time-invariant systems.
+Equilibrium points.
+Stability.
+Feedback.
+Controllability.
+Observability.
+----------
+Fundamentals of Bioinformatics (3 0 3)
+syllabus Foundations of molecular biology and genetics and the structure and properties of data produced at various levels, DNA and protein sequence analysis, protein 3-D structures and analysis, annotation and prediction of gene and protein functions, phylogenomics and population genetics, gene expression analysis, systems biology and biological networks.
+----------
+Project I (0 6 3)
+syllabus For this applied course, each student develops a software or hardware with a close supervision of a faculty member.
+CAD and other required hardware tools are used in the case of hardware oriented projects.
+For software oriented projects; neat, user friendly man- machine interaction and other software engineering techniques are required for the developed software.
+----------
+Project II (0 6 3)
+syllabus For this applied course, each student develops a software or hardware with a close supervision of a faculty member.
+CAD and other required hardware tools are used in the case of hardware oriented projects.
+For software oriented projects; neat, user friendly man- machine interaction and other software engineering techniques are required for the developed software.
+----------
+Advanced Computer Architectures (3 0 3)
+syllabus Preliminary concepts and recent technological changes on the computer architecture.
+Virtual memory organizations, memory architectures, cache memory, instruction set design, RISC architecture, processor micro-architecture and pipelining, superscalar architectures, VLIW machines, vector supercomputers and parallel computers.
+----------
+Microprocessors (3 0 3)
+syllabus Fundamental concepts of microprocessors.
+8088/86 processor.
+Memory types.
+Memory design.
+I/O system.
+Interrupt mechanism, interrupt priority encoders.
+Direct memory access.
+I/O Interface design.
+Introduction to microprocessor based embedded system design.
+Microcontrollers.
+----------
+Microprocessors Laboratory (0 2 1)
+syllabus An introduction to Intel x86 microcontroller-based embedded systems development.
+Structured laboratory exercises in the following areas: Assembly programming, peripheral interfacing, interrupt management, structured programming, basic I/O via peripheral devices and other related topics.
+Weekly descripted experiments applied on DIGIAC 2000 systems.
+----------
+Introduction to High Performance Computing (3 0 3)
+syllabus Parallel programming languages and frameworks, Amdhal’s Law, performance evaluation, shared and distirbuted memory systems, message passing protocols, R for HPC, Python for HPC, Vectorization, Massively parallel architectures, Big Data concepts syllabus
+----------
+Parallel Processing (3 0 3)
+Introduction to parallelism and parallel programming, network topologies for parallel computers, GPUs, parallel computer architecture (SIMD, Shared Memory MIMD and Distributed Memory MIMD), synchronization mechanisms, parallel programming models, analysis and design of parallel algorithms, development of parallel algorithms for different architectures, performance and complexity of parallel algorithms.
+Case studies: Selected parallel algorithms.
+----------
+Fundamentals of Blockchain (3 0 3)
+syllabus This course provides a thorough understanding of the fundamental concepts and recent advances in blockchain and cryptocurrencies.
+The contents of block-chain technology, cryptographic bases, problems in distributed systems, crypto currencies and their processing in mining, storage and spending in virtual wallets, applications and security, development and application of necessary policies and controls.
+----------
+Computer and Network Security (3 0 3)
+syllabus Principal protocols and applications used in the Internet today, their vulnerabilities and how they are exploited.
+Existing prevention and detection techniques.
+Introduction to security, cryptography, identification and authentication, program security, security in networks, vulnerabilities, vulnerability scanning, attacks, botnets, firewalls and traffic filtering, monitoring, audit, and intrusion detection.
+----------
+Wireless and mobile networking (3 0 3)
+syllabus the characteristics of the wireless medium, standards dominating the telecommunication systems, principles of wireless LANs, satellite systems.,how Internet supports mobility syllabus
+----------
+Secure Programming Laboratory (0 2 1)
+Basic program security principles, Shell and operating system based threats, Overflow attacks, Input validation attacks, Web security, Code analysis and code security tests syllabus
+----------
+Wireless and Mobile Networks Laboratory (0 2 1)
+Practical applications of wireless communications syllabus
+----------
+Secure Programming (3 0 3)
+Security assessment and testing.
+Code review using static analysis tools.
+Shell and environment.
+Integer overflow problems and attacks.
+Buffer overflow problems and attacks.
+Format string problems and attacks.
+Input validation problems and attacks.
+Web application security, session management, XSS attacks.
+Links and race conditions.
+Canonicalization and directory traversal problems.
+Temporary storage and randomness.
+----------
+Social and Economic Networks (3 0 3)
+syllabus Methods of page ranking of search engines.
+Principles of recommender systems.
+Interactions in social networks.
+Data pricing methods
+----------
+Data Intensive Applications (3 0 3)
+syllabus Architecture and enabling technologies of high performance computing, parallel computing and distributed computing systems.
+Case studies on scalable multiprocessors, distributed clusters, P2P networks, computational grids, virtual machines and Internet clouds, high- performance computing, web-scale applications, data centers, content-delivery networks, case studies include: Google search-engine, TeraGrid, e-Science, DataGrid, VM Monitors, IBM BlueCloud, Amazon Elastic Clouds, Google Clouds.
+----------
+Management Information Systems (3 0 3)
+syllabus Basics of information systems.
+Fundamental concepts of information systems, systems theory, management information, conceptual models of information in organization, decision support systems, enterprise resource planning systems, information system planning for information system projects, IS project life cycle models, maintenance principles, management and control; development, implementation, and management of information systems.
+----------
+Artificial Neural Networks (3 0 3)
+syllabus Historical perspective, continuous and discrete system models, neuron and its analytic model, hopfield neural network, perceptron learning algorithms, multilayer perceptron, error backpropagation algorithm and its problems, radial basis function neural networks, dynamical neural networks, feedback neural networks, second order training algorithms, derivative free optimzation, particle swarm optimization algorithm, applications of neural networks, reinforcement learning, unsupervised learning syllabus
+----------
+Sampled Data Systems (3 0 3)
+Sampling of signals, reconstruction from sampled signals, nyquist sampling theorem, z transform, signal and system analysis in frequency domain, finite impulse response (fir) filters, infinite impulse response (iir) filters, fourier transform, discrete time fourier transform, discrete fourier transform and fast fourier transform, kalman filters syllabus
+----------
+Software Development Laboratory (0 2 1)
+Assignments on the basic phases of software development using UML over a case study.
+The students are first expected to perform use-case analysis and propose an object-oriented design by using a UML tool.
+Then the students will implement the system by object oriented programming practices based on the analysis and design outputs.
+----------
+Software Architectures (3 0 3)
+syllabus Basic concepts on software architectures.
+The topics covered include: Software architecture concepts and stakeholders, software architecture development process, architectural requirements analysis, modeling of software architectural design.
+Architectural viewpoints and perspectives.
+Functional, information, development, concurrency, deployment, and operation viewpoints.
+Evolution, security, performance and scalability, and availability and resilience perspectives.
+Architectural styles/patterns.
+Comparison and evaluation of architectural design methods.
+Software product-line architectures, domain modeling and domain engineering.
+----------
+Design Patterns (3 0 3)
+syllabus Design patterns in object-oriented programming.
+Topics covered include the rationale and benefits of object-oriented software design patterns, OO design principles, classification of design patterns (Creational, Structural, Behavioral design patterns etc.), examination of all design patterns, antipatterns, architectural patterns, example applications.
+----------
+Software Engineering Laboratory (0 2 1)
+syllabus Engineering middle-size software applications from the scratch by using both management and development practices.
+Initial requirements of software projects and planning its development.
+Practicing requirements analysis, architectural design, and detailed design of software systems in accordance to a pre-defined software development life-cycle (based on Open Unified Process), and documenting the outputs of these activities in pre-defined formats (as recommended by IEEE).
+The students are required to show a working prototype of the software architecture by coding several critical requirements of the system at the end of the laboratory.
+The use of J2EE technologies is intended during the design and implementation of the software system.
+----------
+Web Services Laboratory (0 2 1)
+syllabus Developing an experience on web technologies such as Extended Markup Language (XML), web services, Service Oriented Architecture (SOA) and Business Process Management (BPM).
+XML and web service concepts to provide a base knowledge for SOA and BPM.
+SOA and BPM applications and why/when they are needed along with homeworks and term project.
+----------
+Fundamentals of Web Architecture (3 0 3)
+syllabus The Internet and client/server side technologies.
+Design and implementation of scalable, secure, maintainable web applications.
+Internet information systems, web browsers and servers, client and server side scripting languages, JEE Web technologies, servlets, JSPs, popular frameworks, JDBC, Hibernate, JTA, GWT, JSF, architectural design patterns, dependency injection, spring, applications servers.
+----------
+Introduction to Natural Language Processing (3 0 3)
+syllabus Introduction to natural language processing, Morphological analysis, Part-of-speech tagging, Parsing algorithms, Semantic analysis, Natural language processing applications.
+----------
+Introduction to Natural Language Processing Laboratory (0 2 1)
+syllabus Introduction to natural language processing, Morphological analysis, Part-of-speech tagging, Parsing algorithms, Semantic analysis, Natural language processing applications.
+----------
+Software Requirements (3 0 3)
+syllabus Introduction to software requirements development.
+System and software requirements.
+Software requirements development process and stakeholders.
+Definition and types of software requirements.
+Functional and quality (non-functional) requirements.
+Domain analysis, techniques of software requirements elicitation and analysis.
+Software requirements modeling and specification.
+Software requirements documentation and validation.
+Software requirements management.
+----------
+Freshman Seminar (1 1 0)
+syllabus The student has to attend to a number of technology seminars that will be organized by the department.
+The subject of the seminars will be determined based on current technological agenda on artificial intelligence.
+Seminars will cover principles and applications of artificial intelligence, machine learning, statistics and probability, security, image processing, robotics and medicine.
+The presenters might be either internal or external (e.g. from the industry) to the department.
+----------
+Computers And Ethics (3 3 0)
+syllabus History of computing, networking, and information storage; Ethical theories; Networked communications (spam, censorship, filtering); Intellectual property; Privacy; Security; Reliability; Professional Ethics syllabus
+----------
+Principles Of Artificial Intelligence (3 4 2)
+Problem-solving agents, uninformed search algorithms, heuristic search algorithms, game playing algorithms, constraint satisfaction problems, logical agents, propositional and first order logic, inference and decision making, knowledge representation and reasoning, planning, uncertainity and probabilistic reasoning, Bayesian networks, reinforcement learning, perception, robotics and computer vision.
+----------
+Elements Of Data Science (3 3 0)
+syllabus Overview of the data science Data collection and data management Visualization and basic statistics Hypothesis testing and causality Similarity, neighbors and clusters Large scale data analysis Collaborative filtering Ethical issues in data science
+----------
+Data Science Laboratory (0 1 2)
+syllabus Overview of the data science; Data collection and data management; Visualization and basic statistics; Hypothesis testing and causality; Similarity, neighbors and clusters; Large scale data analysis; Collaborative filtering; Ethical issues in data science.
+----------
+Internship I (0 2 4)
+syllabus syllabus
+----------
+Foundations Of Machine Learning (3 3 0)
+Overview of Machine Learning; Nearest Neighbor Classifier; Linear Regression, Least Squares; Machine Learning Methodology; Learning Theory; Probability and Linear Algebra Basics; Statistical Estimation: MLE, MAP, Naive Bayes Classifier; Linear Classification Models: Logistic Regression, Linear Discriminant Functions, Perceptron; Artificial Neural Networks; Support Vector Machines; Decision Tree Learning; Ensemble Methods: Bagging, Boosting; Clustering;
+----------
+Foundations Of Machine Learning (3 3 0)
+Ethics in Machine Learning.
+----------
+Formal Languages And Automata Theory (3 3 0)
+syllabus Introduction to automata theory.
+Deterministic finite automata (DFA) and non-deterministic finite automata (NFA).
+Regular languages and regular expressions.
+Properties of regular languages and pumping lemma for regular languages.
+Context-Free languages (CFL) and context-free grammars (CFG).
+Parse trees.
+----------
+Formal Languages And Automata Theory (3 3 0)
+Pushdown automata (PDA).
+----------
+Formal Languages And Automata Theory (3 3 0)
+Equivalence of CFGs and PDAs.
+Properties of Context-Free Languages and Pumping Lemma for Context-Free Languages.
+Turing machines and computability theory.
+----------
+Machine Learning Laboratory (0 1 2)
+syllabus syllabus syllabus
+----------
+Internship II (0 2 4)
+Project
+----------
+Senior Seminar (0 1 2)
+The student has to attend to a number of technology seminars that will be organized by the department.
+The subject of the seminars will be determined based on current technological agenda.
+The presenters might be either internal or external (e.g. from the industry) to the department.
+----------
+Project I (3 4 2)
+syllabus For this applied course, each student develops a software with a close supervision of a faculty member.
+CAD and other required hardware tools are used in the case of hardware oriented projects.
+For software oriented projects; neat, user friendly man-machine interaction and other software engineering techniques are required for the developed software.
+----------
+Project II (3 4 2)
+syllabus For this applied course, each student develops a software with a close supervision of a faculty member.
+CAD and other required hardware tools are used in the case of hardware oriented projects.
+For software oriented projects; neat, user friendly man-machine interaction and other software engineering techniques are required for the developed software.
+----------
+Computer Systems (3 3 0)
+syllabus Introduction to computer systems, Data representation, Machine language, Processor architecture, Code optimization, Memory hierarchy, Virtual memory syllabus
+----------
+Fundamentals Of Image Processing (3 3 0)
+Image formation, Point operations and histogram processing, Spatial filtering techniques, Frequency domain approaches, Image smoothing, Edge detection Image segmentation Learning-based approaches syllabus
+----------
+Image Processing Laboratory (0 1 2)
+Image formation, Point operations and histogram processing, Spatial filtering techniques, Frequency domain approaches, Image smoothing, Edge detection, Image segmentation, Learning based approaches syllabus
+----------
+Introduction To Computer Vision (3 3 0)
+Physics of image formation, image representation, geometrical transformations, binary image analysis, point and blob processing, filters, convolution, edge detection, texture analysis and synthesis, color spaces and models, invariant image features, optical flow, basic matching techniques.
+----------
+Computer Vision Laboratory (0 1 2)
+syllabus Physics of image formation, image representation, geometrical transformations, binary image analysis, point and blob processing, filters, convolution, edge detection, texture analysis and synthesis, color spaces and models, invariant image features, optical flow, basic matching techniques.
+----------
+Fundamentals Of Computational Photography (3 3 0)
+Cameras and image formation; Color perception; Image processing review; Data-driven image synthesis; Image manipulation (warping, morphing, mosaicing, matting, blending, compositing); Panoramas, mosaics and collages; Denoising;
+----------
+Fundamentals Of Computational Photography (3 3 0)
+Image inpainting; High dynamic range imaging and tone mapping; Depth and defocus; Image-based lighting and rendering; Non-photorealistic rendering.
+----------
+Introduction To Natural Language Processing (3 3 0)
+syllabus Introduction to natural language processing; Morphological analysis;
+----------
+Introduction To Natural Language Processing (3 3 0)
+Part-of-speech tagging;
+----------
+Introduction To Natural Language Processing (3 3 0)
+Parsing algorithms;
+----------
+Introduction To Natural Language Processing (3 3 0)
+Semantic analysis; Natural language processing applications; Introduction to Deep Learning;
+----------
+Natural Language Processing Laboratory (0 1 2)
+syllabus Introduction to natural language processing; Morphological analysis;
+----------
+Natural Language Processing Laboratory (0 1 2)
+Part-of-speech tagging;
+----------
+Natural Language Processing Laboratory (0 1 2)
+Parsing algorithms;
+----------
+Natural Language Processing Laboratory (0 1 2)
+Semantic analysis; Natural language processing applications; Introduction to Deep Learning syllabus
+----------
+Fundamentals Of Speech And Voice Recognition (3 3 0)
+Basic concepts of Speech recognition.
+Speech Recognition algorithms.
+Language models, Application of speech recognition.
+----------
+Introduction To Deep Learning (3 3 0)
+syllabus Neural networks, learning in neural networks, backpropagation,supervised deep learning techniques, convolutional neural networks, unsupervised deep learning methods, recurrent neural networks, foundations of deep reinforcement learning, modelling sequential data, foundations of deep generative adversarial networks.
+----------
+Deep Learning Laboratory (0 1 2)
+Neural networks, learning in neural networks, backpropagation,supervised deep learning techniques, convolutional neural networks, unsupervised deep learning methods, recurrent neural networks, foundations of deep reinforcement learning, modelling sequential data, foundations of deep generative adversarial networks.
+----------
+Fuzzy Logic (3 3 0)
+syllabus General approach in fuzzy logic, fuzzy sets, relations and arithmetic.
+The relation between fuzzy logic and the other theories such as possibility and probability theory.
+Fuzzy inference systems.
+Hybrid methods in fuzzy inference.
+Fuzzy clustering.
+Examination of common application areas: Decision making, pattern recognition, data base, data mining.
+Fuzzy logic and artificial intelligence.
+----------
+Data Intensive Applications (3 3 0)
+syllabus Big Data, Distributed Computing, Cluster Computing, Scalable Machine Learning, Cloud Computing and Virtualization, Graph Analytics, Data and Ethics.
+----------
+Data Intensive Applications Laboratory (0 1 2)
+syllabus Big Data, Distributed Computing, Cluster Computing, Scalable Machine Learning, Cloud Computing and Virtualization, Graph Analytics, Data and Ethics.
+----------
+Introduction To Deep Reinforcement Learning (3 3 0)
+syllabus syllabus syllabus
+----------
+Introduction To Data Mining (3 3 0)
+Basic concepts in Data Mining Data Preprocessing, Visualization, OLAP Classification Clustering Association Analysis Data Mining Applications and Tools syllabus
+----------
+Fundamentals Of Text Mining (3 3 0)
+syllabus Unstructured text processing methods Topic models and statistical models.
+Pattern based information extraction methods Graph theory based text mining Semantic Analysis.
+Apllication of Natural Language Processing.
+----------
+Information Retrieval (3 3 0)
+syllabus Basic and advanced techniques for text-based information systems, text indexing, Boolean and vector space retrieval models, language models, tolerant retrieval, evaluation and interface issues, web crawling and link-based algorithms, clustering and LSI, neural models for retrieval.
+----------
+Logic Programming (3 3 0)
+syllabus propositional logic: syntax, semantics, natural deduction proofs predicate logic: syntax, semantics, natural deduction proofs, Horn clauses predicate logic: unification, resolution declarative and procedural meaning of Prolog data structures in Prolog using backtracking as a problem solving technique in Prolog using Prolog in artificial intelligence applications syllabus
+----------
+Dynamical Systems (3 3 0)
+Basic concepts about systems System (transfer function, differential equation, state space) representations Continuous time linear dynamic systems Stability analysis Steady state and transient regime analysis Frequency domain analysis and PID controllers Feedback, state space, controllability, observability syllabus
+----------
+Fundamentals Of Decision Making (3 3 0)
+Rationality, decision theory, probabilistic reasoning, dynamic programming, Markov decision processes, planning, optimization, reinforcement learning, learning from demonstration, and explainability and behavioural aspects for decision making.
+----------
+Introduction To Robotics (3 3 0)
+syllabus This course is intended to present fundamentals of robotic systems.
+Specific subjects include: position and orientation in 3-D space; manipulator forward and inverse kinematics; velocities and forces - Jacobian\'s relations; manipulator dynamics; stiffness and compliance control; trajectory control; mobile robots.
+----------
+Robotics Laboratory (0 1 2)
+syllabus This course aims to teach the basics of robotic systems with experimental methods.
+Topics include: Coordinate transformations, deriving kinematic relations, Denavit-Hartenberg notation, obtaining a dynamic model, controller design, validation and controller tuning.
+----------
+Fundamentals Of Cognitive Robotics (3 3 0)
+syllabus Kinematic models, sensors, vision and navigation syllabus syllabus
+----------
+Introduction To Human-Robot Interaction Laboratory (3 3 0)
+Social robotics, multi-modal human-robot communications, human-robot interaction architectures, sensors and perception for HRI, museum and educational robots, urban search and rescue, quality of life technologies syllabus
+----------
+Human-Robot Interaction Laboratory (0 1 2)
+Social robotics, multi-modal human-robot communications, human-robot interaction architectures, sensors and perception for HRI, museum and educational robots, urban search and rescue, quality of life technologies syllabus
+----------
+Introduction To Bioinformatics (3 3 0)
+Foundations of molecular biology and genetics and the structure and properties of data produced at various levels, DNA and protein sequence analysis, protein 3-D structures and analysis, annotation and prediction of gene and protein functions, phylogenomics and population genetics, gene expression analysis, systems biology and biological networks.
+Also, AI-based application examples for all of the topics listed above.
+----------
+Introduction To Medical Image Analysis (3 3 0)
+Basic concepts in medical image analysis, 2-D, 3-D, and 4-D biomedical images, volume data, pixels and voxels, file-formats and related practical information, relevant basic mathematical concepts such as registration, segmentation and classification, image acquisition techniques, noise and image enhancement, lossless compression, biomedical image databases, machine learning applications for classification and clustering of images.
+----------
+Medical Image Analysis Laboratory (0 1 2)
+syllabus Basic concepts in medical image analysis, 2-D, 3-D, and 4-D biomedical images, volume data, pixels and voxels, file-formats and related practical information, relevant basic mathematical concepts such as registration, segmentation and classification, image acquisition techniques, noise and image enhancement, lossless compression, biomedical image databases, machine learning applications for classification and clustering of images.
+----------
+Machine Learning For Healthcare (3 3 0)
+syllabus Types, structures and properties of data produced in the biomedical field, knowledge representation, clinical risk stratification, biomarker discovery, time series analysis of physiological data, patient outcome prediction, disease progression modelling, cancer detection analysis, big data approaches in health.
+Also, artificial learning based application examples for all of the topics listed above.

@@ -1,0 +1,246 @@
+
+----------
+1st Semester
+ | Course Code | Course Name | Theoretic- Practical-Credit ECTS Credit Course Language
+ | --- | --- | ---
+ | BBM101 Introduction to Programming I | 3 0 3 | 6 | English
+ | --- | --- | --- | ---
+ | BBM103 Introduction to Programming Laboratory I | 0 2 1 | 4 | English
+ | MAT123 Mathematics I | 4 2 5 | 6 | English
+ | FİZ137 Physics I | 4 0 4 | 5 | English
+ | AIN101 Freshman Seminar | 1 0 1 | 2 | English
+ | İNG111 Language Skills I | 3 0 3 | 3 | English
+ | TKD103 Turkish I | 2 0 2 | 2 | Turkish
+ | BEB 650 Basic Information and Communication Technologies | 0 2 1 | 2 | English
+
+----------
+2nd Semester
+ | Course Code | Course Name | Theoretic- Practical-Credit ECTS Credit Course Language
+ | --- | --- | ---
+ | BBM102 Introduction to Programming II | 3 0 3 | 8 | English
+ | --- | --- | --- | ---
+ | BBM104 Introduction to Programming Laboratory II 0 2 1 |  | 4 | English
+ | MAT124 Mathematics II | 4 2 5 | 6 | English
+ | FİZ138 Physics II | 4 0 4 | 5 | English
+ | FİZ117 General Physics Lab. | 0 3 1 | 2 | English
+ | İNG112 Language Skills II | 3 0 3 | 3 | English
+ | TKD104 Turkish II | 2 0 2 | 2 | Turkish
+
+----------
+3rd Semester
+ | Course Code | Course Name | Theoretic- Practical-Credit ECTS Credit Course Language
+ | --- | --- | ---
+ | BBM201 Data Structures |  | 3 0 3 5 English
+ | BBM203 Software Laboratory I |  | 0 2 1 2 English
+ | BBM205 Discrete Structures |  | 3 0 3 5 English
+
+----------
+3rd Semester
+ |  | Statistics | 5 | English
+ | --- | --- | --- | ---
+ | AİT203 | Atatürk\'s Princ. And The History of The Revol. I | 2 0 2 | 2 | Turkish
+ | --- | --- | --- | --- | ---
+ | MÜH103 Occupational Health and Safety I |  | 1 0 1 | 1 | Turkish
+ | AIN212 Elements of Data Science |  | 3 0 3 | 6 | English
+ | AIN214 Data Science Lab. |  | 0 2 1 | 4 | English
+
+----------
+4th Semester
+ | Course Code | Course Name | Theoretic- Practical-Credit ECTS Credit Course Language
+ | --- | --- | ---
+ | BBM202 Algorithms |  | 3 0 3 4 English
+ | BBM204 Software Laboratory II |  | 0 2 1 2 English
+ | BBM242 Computer Systems |  | 3 0 3 4 English
+ | AIN211 Principles of Artificial Intelligence |  | 3 2 4 6 English
+ | MAT254 Fundamental Linear Algebra |  | 3 0 3 4 English
+ | AIN200 Computers and Ethics |  | 3 0 3 3 English
+ | AİT204 | Atatürk\'s Princ. And The History of The Revol. II | 2 0 2 2 Turkish
+ | MÜH104 Occupational Health and Safety II |  | 1 0 1 1 Turkish
+ | Nontechnical Elective | 3 0 3 | 4
+
+----------
+5th Semester
+ | Course Code Course Name | Theoretic- Practical-Credit ECTS Credit Course Language
+ | --- | ---
+ | AIN300 Internship I | 0 4 2 | 5 | English
+ | --- | --- | --- | ---
+ | AIN311 Foundations of Machine Learning | 3 0 3 | 6 | English
+ | AIN313 Machine Learning Lab. | 0 2 1 | 4 | English
+ | AIN AIN Technical Elective | 3 0 3 | 6 | English
+ | BBM BBM Technical Elective | 3 0 3 | 6 | English
+ | Nontechnical Elective | 3 0 3 | 3 | 
+
+----------
+6th Semester
+ | Course Code Course Name | Theoretic- Practical-Credit ECTS Credit Course Language
+ | --- | ---
+ | AIN312 Formal Languages and Automata Theory | 3 0 3 | 6 | English
+ | --- | --- | --- | ---
+ | AIN AIN Technical Elective | 3 0 3 | 6 | English
+ | AIN AIN Technical Elective Lab. | 0 2 1 | 4 | English
+ | AIN AIN Technical Elective | 3 0 3 | 6 | English
+ | AIN AIN Technical Elective Lab. | 0 2 1 | 4 | English
+ | Nontechnical Elective | 3 0 3 | 4 | 
+
+----------
+7th Semester
+ | Course Code Course Name | Theoretic- Practical-Credit ECTS Credit Course Language
+ | --- | ---
+ | AIN400 Internship II | 0 4 2 | 5 | English
+ | --- | --- | --- | ---
+ | AIN401 Senior Seminar | 0 2 1 | 1 | English
+ | AIN491 Project I | 3 2 4 | 4 | English
+ | AIN AIN Technical Elective | 3 0 3 | 6 | English
+ | AIN AIN Technical Elective | 3 0 3 | 6 | English
+ | AIN AIN Technical Elective Lab. | 0 2 1 | 4 | English
+ | Nontechnical Elective | 3 0 3 | 4 | 
+
+----------
+8th Semester
+ | Course Code Course Name | Theoretic- Practical-Credit ECTS Credit Course Language
+ | --- | ---
+ | AIN492 Project II | 3 2 4 | 6 | English
+ | --- | --- | --- | ---
+ | AIN AIN Technical Elective | 3 0 3 | 6 | English
+ | AIN AIN Technical Elective Lab. | 0 2 1 | 4 | English
+ | AIN AIN Technical Elective | 3 0 3 | 6 | English
+ | AIN AIN Technical Elective Lab. | 0 2 1 | 4 | English
+ | Nontechnical Elective | 3 0 3 | 4 | 
+
+----------
+Perception and Language Cluster
+• AIN 430 Fundamentals of Image Processing
+----------
+Perception and Language Cluster
+• AIN 432 Practicum in Image Processing
+----------
+Perception and Language Cluster
+• AIN 431 Introduction to Computer Vision
+----------
+Perception and Language Cluster
+• AIN 433 Practicum in Computer Vision
+----------
+Perception and Language Cluster
+• AIN 434 Fundamentals of Computational Photography
+----------
+Perception and Language Cluster
+• AIN 440 Introduction to Natural Language Processing
+----------
+Perception and Language Cluster
+• AIN 442 Practicum in Natural Language Processing
+----------
+Perception and Language Cluster
+• AIN 441 Fundamentals of Speech and Voice Recognition
+----------
+Big Data and Machine Learning Cluster
+• AIN 420 Introduction to Deep Learning
+----------
+Big Data and Machine Learning Cluster
+• AIN 422 Practicum in Deep Learning
+----------
+Big Data and Machine Learning Cluster
+• AIN 421 Fuzzy Logic
+----------
+Big Data and Machine Learning Cluster
+• AIN 423 Data Intensive Applications
+----------
+Big Data and Machine Learning Cluster
+• AIN 425 Practicum in Data Intensive Applications
+----------
+Big Data and Machine Learning Cluster
+• AIN 424 Introduction to Deep Reinforcement Learning
+----------
+Big Data and Machine Learning Cluster
+• AIN 426 Practicum in Deep Reinforcement Learning
+----------
+Big Data and Machine Learning Cluster
+• AIN 427 Introduction to Data Mining
+----------
+Big Data and Machine Learning Cluster
+• AIN 429 Data Mining Laboratory
+----------
+Big Data and Machine Learning Cluster
+• AIN 447 Fundamentals of Text Mining
+----------
+Big Data and Machine Learning Cluster
+• AIN 428 Information Retrieval
+----------
+Big Data and Machine Learning Cluster
+• AIN 461 Logic Programming
+----------
+Decision Making and Robotics Cluster
+• AIN 450 Dynamical Systems
+----------
+Decision Making and Robotics Cluster
+• AIN 462 Fundamentals of Decision Making
+----------
+Decision Making and Robotics Cluster
+• AIN 451 Introduction to Robotics
+----------
+Decision Making and Robotics Cluster
+• AIN 453 Practicum in Robotics
+----------
+Decision Making and Robotics Cluster > AIN 454 Fundamentals of Cognitive Robotics
+• AIN 463 Autonomous Multiagent Systems
+----------
+Decision Making and Robotics Cluster > AIN 454 Fundamentals of Cognitive Robotics
+• AIN 455 Introduction to Human Robot Interaction
+----------
+Decision Making and Robotics Cluster > AIN 454 Fundamentals of Cognitive Robotics
+• AIN 457 Practicum in Human Robot Interaction
+----------
+Medical Artificial Intelligence Cluster
+• AIN 411 Introduction to Bioinformatics
+----------
+Medical Artificial Intelligence Cluster
+• AIN 412 Introduction to Medical Image Analysis
+----------
+Medical Artificial Intelligence Cluster
+• AIN 414 Practicum in Medical Image Analysis
+----------
+Medical Artificial Intelligence Cluster
+• AIN 413 Machine Learning for HealthCare
+----------
+Non-Technical Electives
+• Below, you can find a sample of non-technical elective courses offered at Hacettepe University.
+----------
+Non-Technical Electives
+• Please note that this is only a small selection of all available non-technical elective courses.
+Unfortunately, it is not possible to provide a complete list of such courses at the moment.
+For each department you are interested in taking a course, you can visit the department\'s website (or ask them in person or by phone) to see a list of the courses they offer for you.
+----------
+Non-Technical Electives
+• You can also take courses from SEC pool as non-technical electives.
+To see the complete list of SEC courses offered each semester, you may visit http://www.secmeli.hacettepe.edu.tr/.
+Students enrolled in or after Fall 2017-18 semester can take at most 3 SEC courses during their undergraduate studies.
+----------
+Non-Technical Electives
+• There are no language restrictions for non-technical electives.
+That is, you can register for non-technical electives that are offered in Turkish (or other languages).
+----------
+Non-Technical Electives
+ | Course Code | Course Name | Theoretic- Practical-Credit ECTS Credit Course Language
+ | --- | --- | ---
+ | EKO115 General Economy | 3 0 3 | 4 | Turkish
+ | --- | --- | --- | ---
+ | MAN321 Small Business Management and Entrepreneurship | 3 0 3 | 4 | Turkish
+ | PSİ101 Introduction to Psychology | 3 0 3 | 6 | Turkish
+ | SOS101 Introduction to Sociology | 3 0 3 | 6 | Turkish
+ | SOS261 Communication Sociology | 3 0 3 | 5 | Turkish
+ | FEL123 Introduction to Logic | 3 0 3 | 4 | Turkish
+ | MTK203 Differential Equations | 4 0 4 | 4 | Turkish
+ | MTK403 Introduction to Game Theory | 3 0 3 | 5 | Turkish
+ | KAY465 Informantion Tech. at Public Management 3 0 3 |  | 4 | Turkish
+
+----------
+Non-Technical Electives
+ | General Management | Turkish
+ | --- | ---
+ | ANT202 Introduction to Social Anthropology | 3 0 3 | 5 | Turkish
+ | --- | --- | --- | ---
+ | FEL110 Introduction to Philosophy | 3 0 3 | 4 | Turkish
+ | FEL122 Logic I | 3 0 3 | 5 | Turkish
+ | MTK479 Introduction to Cryptography | 3 0 3 | 7 | Turkish
+ | KAY124 Social Psychology | 3 0 3 | 5 | Turkish
+ | KAY246 Labour and Social Security Law | 3 0 3 | 4 | Turkish
+ | KAY486 Commercial Law | 3 0 3 | 5 | Turkish

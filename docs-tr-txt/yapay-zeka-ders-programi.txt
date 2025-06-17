@@ -1,0 +1,115 @@
+1. Dönem Dersleri
+
+	BBM101 - Introduction to Programming I (Programlamaya Giriş I)
+	BBM103 - Introduction to Programming Laboratory I
+	AIN101 - Freshman Seminar (Birinci Sınıf Semineri)
+	TKD103 - Turkish I (Türkçe I)
+	BEB650 - Basic Information and Communication Technologies (Temel Bilgi ve İletişim Teknolojileri)
+
+2. Dönem Dersleri
+
+	BBM102 - Introduction to Programming II (Programlamaya Giriş II)
+	BBM104 - Introduction to Programming Laboratory II 
+	TKD104 - Turkish II (Türkçe II)
+
+3. Dönem Dersleri
+
+	BBM201 - Data Structures (Veri Yapıları)
+	BBM203 - Software Laboratory I (Yazılım Laboratuvarı I)
+	BBM205 - Discrete Structures (Ayrık Yapılar)
+	AIN212 - Elements of Data Science (Veri Biliminin Temelleri)
+	AIN214 - Data Science Lab. (Veri Bilimi Laboratuvarı)
+
+4. Dönem Dersleri
+
+	BBM202 - Algorithms
+	BBM204 - Software Laboratory II
+	BBM242 - Computer Systems
+	AIN211 - Principles of Artificial Intelligence
+	MAT254 - Fundamental Linear Algebra
+	AIN200 - Computers and Ethics
+
+5. Dönem Dersleri
+
+	AIN300 - Internship I
+	AIN311 - Foundations of Machine Learning
+	AIN313 - Machine Learning Lab.
+
+6. Dönem Dersleri
+
+	AIN312 - Formal Languages and Automata Theory 
+
+7. Dönem Dersleri
+
+	AIN400 - Internship II
+	AIN401 - Senior Seminar
+	AIN491 - Project I
+
+8. Dönem Dersleri
+
+	AIN492 - Project II
+
+Teknik Seçmeli Dersler : 
+
+	Algılama ve Dil Kümesi (Perception and Language Cluster)
+	AIN 430 - Fundamentals of Image Processing
+	AIN 432 - Practicum in Image Processing
+	AIN 431 - Introduction to Computer Vision
+	AIN 433 - Practicum in Computer Vision
+	AIN 434 - Fundamentals of Computational Photography
+	AIN 440 - Introduction to Natural Language Processing
+	AIN 442 - Practicum in Natural Language Processing
+	AIN 441 - Fundamentals of Speech and Voice Recognition
+	Büyük Veri ve Makine Öğrenmesi Kümesi (Big Data and Machine Learning Cluster)
+	AIN 420 - Introduction to Deep Learning
+	AIN 422 - Practicum in Deep Learning
+	AIN 421 - Fuzzy Logic
+	AIN 423 - Data Intensive Applications
+	AIN 425 - Practicum in Data Intensive Applications
+	AIN 424 - Introduction to Deep Reinforcement Learning
+	AIN 426 - Practicum in Deep Reinforcement Learning
+	AIN 427 - Introduction to Data Mining
+	AIN 429 - Data Mining Laboratory
+	AIN 447 - Fundamentals of Text Mining
+	AIN 428 - Information Retrieval
+	AIN 461 - Logic Programming
+	Karar Verme ve Robotik Kümesi (Decision Making and Robotics Cluster)
+	AIN 450 - Dynamical Systems
+	AIN 462 - Fundamentals of Decision Making
+	AIN 451 - Introduction to Robotics
+	AIN 453 - Practicum in Robotics
+	AIN 454 - Fundamentals of Cognitive Robotics
+	AIN 463 - Autonomous Multiagent Systems
+	AIN 455 - Introduction to Human Robot Interaction
+	AIN 457 - Practicum in Human Robot Interaction
+	Tıbbi Yapay Zeka Kümesi (Medical Artificial Intelligence Cluster)
+	AIN 411 - Introduction to Bioinformatics
+	AIN 412 - Introduction to Medical Image Analysis
+	AIN 414 - Practicum in Medical Image Analysis
+	AIN 413 - Machine Learning for HealthCare
+
+Teknik Olmayan Seçmeli Dersler (Non-Technical Electives)
+
+	Aşağıda, Hacettepe Üniversitesi'nde sunulan teknik olmayan seçmeli derslerden bazı örnekleri bulabilirsiniz.
+
+	Lütfen bunun, mevcut tüm teknik olmayan seçmeli derslerin yalnızca küçük bir kısmı olduğunu unutmayın. Ne yazık ki, şu anda bu derslerin tam listesini sağlamak mümkün değildir. Ders almakla ilgilendiğiniz her bölüm için, bölümün web sitesini ziyaret ederek (ya da doğrudan giderek veya telefonla arayarak) size sunulan derslerin listesini görebilirsiniz.
+
+	Teknik olmayan seçmeli ders olarak SEC havuzundan da ders alabilirsiniz. Her dönem sunulan SEC derslerinin tam listesine http://www.secmeli.hacettepe.edu.tr/ adresinden ulaşabilirsiniz. 2017-2018 Güz dönemi ve sonrasında kayıt yaptıran öğrenciler, lisans öğrenimleri boyunca en fazla 3 adet SEC dersi alabilirler.
+
+	Teknik olmayan seçmeli derslerde dil sınırlaması yoktur. Yani, Türkçe (veya diğer dillerde) verilen teknik olmayan seçmeli derslere de kayıt yaptırabilirsiniz.
+
+		EKO115 - General Economy
+		MAN321 - Small Business Management and
+		SOS101 - Introduction to Sociology
+		SOS261 - Communication Sociology
+		FEL123 - Introduction to Logic
+		MTK203 - Differential Equations
+		MTK403 - Introduction to Game Theory
+		KAY465 - Informantion Tech. at Public Management 3 0 3
+		ANT202 - Introduction to Social Anthropology
+		FEL110 - Introduction to Philosophy
+		FEL122 - Logic I
+		MTK479 - Introduction to Cryptography
+		KAY124 - Social Psychology
+		KAY246 - Labour and Social Security Law
+		KAY486 - Commercial Law

@@ -1,0 +1,131 @@
+S1: 'MAT 224 Lineer Dönüşümler ve Diferansiyel Denklemler' dersini geçen öğrenciler ‘MAT 254 Lineer Cebirin Temelleri’ dersinden muaf mıdır?
+C1: Evet. MAT 224 ve MAT 254 eşdeğer kabul edilir.
+
+S2: Eski müfredatta ‘BIL425 Veri İletişimi’ 4. sınıf güz döneminde zorunlu bir dersti. Yeni müfredattaki karşılığı 'BBM 452 Veri İletişimi'dir. Tüm 4. sınıf dersleri artık seçmeli olduğu için bu dersten kalan bir öğrenci yerine başka bir seçmeli ders alabilir mi?
+C2: Evet. Herhangi bir seçmeli dersten başarısız olan bir öğrenci, bu dersi başka bir seçmeli dersle değiştirebilir. Bölüm sekreterliğine dilekçe verilmesi gerekmektedir.
+
+S3: Eski müfredatta ‘ELE 293 Elektrik Devreleri’ veya ‘ELE 294 Elektronik’ derslerinden birinden başarısız olan bir öğrenci, yeni müfredatta ‘ELE 296 Elektronik Devreler ve Sistemlere Giriş’ dersini almak zorunda mıdır?C1:
+C3: Evet. Eğer bir öğrenci ELE 293 ve ELE 294 derslerinden herhangi birinden veya her ikisinden de başarısız olmuşsa, ELE 296 dersini alması gerekmektedir.
+
+S4: Bir öğrenci ‘BIL 220 Sistem Programlamaya Giriş’ veya ‘BIL 323 İşletim Sistemleri I’ derslerinden birini geçtiyse, yine de ‘BBM 341 Sistem Programlama’ dersini alması gerekir mi?
+C4: Evet. Bir öğrenci BIL 220 ve BIL 323 derslerinden herhangi birinden veya her ikisinden de başarısız olduysa, BBM 341 dersini alması gerekir.
+
+S5: Bir öğrenci ‘ELE 293’ veya 'ELE 294'ten birini geçtiyse, ELE 296'yı da almak zorunda mıdır?
+C5: Hayır. ELE 293 veya ELE 294 derslerinden birini geçen bir öğrenci ELE 296 dersinden muaftır. Ancak, bu derslerden birinin alınmış ve başarıyla geçilmiş olması gerekir.
+
+S6: Bir öğrenci ‘BIL 220’ veya ‘BIL 323’ derslerinden birini geçtiyse, yine de BBM 341 dersini alması gerekir mi?
+C6: Hayır. BIL 220 veya BIL 323 derslerinden birini geçen bir öğrenci BBM 341 dersinden muaftır. Ancak, bu derslerden birinin alınmış ve başarıyla geçilmiş olması gerekir.
+
+S7: Akademik Yazma Becerileri dersi eskiden zorunluydu ancak artık zorunlu değil. Bu dersten başarısız olan bir öğrenci muaf olur mu?
+C7: Hayır. Öğrenci bunun yerine bölüm dışı bir seçmeli ders almalıdır.
+
+S8: Bir öğrenci seçmeli bir dersten başarısız olursa, onun yerine başka bir ders alabilir mi?
+C8: Evet. Başarısız olunan seçmeli ders ya aynı dersle ya da başka bir seçmeli dersle değiştirilmelidir.
+
+S9: Bir öğrenci yeni müfredatta ‘BBM471 Veritabanı Yönetim Sistemleri’ ile eşdeğer olan ‘BIL354 Veritabanı Sistemleri’ dersini almış ve geçmişse, ‘BBM473 Veritabanı Laboratuvarı’ dersini de alması gerekir mi?
+C9: Hayır. BBM 473 ve BBM 471 bağımsız olarak alınabilir. Ancak, her ikisinin birlikte alınması bölüm tarafından tavsiye edilmektedir.
+
+S10: Yeni müfredatın 7. ve 8. dönemlerinde öğrenciler her dönem bir bağımsız teknik seçmeli ders alabilirler. Her dönem iki entegre seçmeli derse (teori + laboratuvar) izin verilmektedir. Bir öğrenci sadece laboratuvar veya sadece teori kısmından başarısız olursa, geçtiği kısım yine de sayılabilir mi?
+C10: Her iki bölümün birlikte alınması tavsiye edilse de, teori ve laboratuvar bileşenleri bağımsız olarak alınabilir ve sayılabilir.
+
+S11: Eski müfredatta BIL 341 dersini hiç almamış bir öğrenci, şimdi seçmeli olduğu için eşdeğeri olan BIL 483 dersini almak zorunda mıdır?
+C11: Hayır. Ders artık seçmeli olduğu için öğrencilerin eşdeğerini almaları gerekmemektedir.
+
+S12: BIL 342 dersini hiç almamış bir öğrencinin yeni müfredatta eşdeğeri olan BIL 487 dersini alması gerekir mi?
+C12: Hayır. Ders artık seçmeli olduğundan öğrencilerin eşdeğer dersi almaları gerekmemektedir.
+
+S13: Önceden elektronik dersi iki dönem olarak veriliyordu. Şimdi tek bir ders oldu. Her iki ders de transkriptte görünecek mi?
+C13: Evet. Bir öğrenci her iki dersi de geçerse, bunlar görünecek ve toplam 8 krediye katkıda bulunacaktır.
+
+S14: Bir öğrenci önceki eşdeğer derslerden birini (Sistem Programlamaya Giriş veya İşletim Sistemleri I) geçtiyse, yeni Sistem Programlama dersini almak zorunda mı?
+C14: Hayır. Öğrenci birini geçtiyse, şartı yerine getirmiş sayılır.
+
+S15: Bilgisayar Mühendisliği bölüm kodu hala 356 mı?
+C15: Hayır. 635 olarak güncellenmiştir.
+
+S16: Bir öğrenci BIL 342'den başarısız olduysa ve şimdi BBM 487 Yazılım Mühendisliği Laboratuvarı'nı alıyorsa, tekrar başarısız olursa tekrar alması gerekir mi?
+C16: Evet. Öğrenci ikinci kez başarısız olursa, dilekçe yoluyla başka bir seçmeli dersle değiştirmelidir.
+
+S17: Daha önce zorunlu Ekonomi dersinden başarısız olan bir öğrenci bu dersi seçmeli bir dersle değiştirebilir mi?
+C17: Evet.
+
+S18: Diferansiyel Denklemler dersinden başarısız olan bir öğrenci bu dersi seçmeli bir dersle değiştirebilir mi?
+C18: Evet, eğer öğrenci eşdeğer Doğrusal Cebirin Temelleri dersini tamamlamışsa.
+
+S19: Akademik Yazma Becerilerinden başarısız olan bir öğrenci bunun yerine başka bir seçmeli ders alabilir mi?
+C19: Evet.
+
+S20: Daha önce zorunlu olan Modern Fizik dersinden başarısız olan bir öğrenci ne yapmalıdır?
+C20: Bir dilekçe vermeli ve bunun yerine bölüm dışı bir seçmeli ders almalıdırlar.
+
+S21: Mantık Tasarımı dersini alan öğrenciler Mantık Tasarımı Laboratuvarı dersini de almak zorunda mı?
+C21: Eşdeğer Sayısal Sistemler Laboratuvarı dersini zaten geçmedilerse evet.
+
+S22: Daha büyük öğrenciler için güncellenmiş mezuniyet kredisi gereksinimi nedir?
+C22: 138 kredi. Ancak, yeni müfredattaki tüm zorunlu derslerin de tamamlanması gerekmektedir.
+
+S23: Öğrenciler listelenen teknik olmayan seçmeli dersler dışında seçmeli ders alabilir mi?
+C23: Evet. Bölüm dışı 3 krediden fazla olan herhangi bir ders kabul edilebilir.
+
+S24: Modern Fizik dersinden D2 alan bir öğrenci notunu yükseltmek için bu dersi tekrar alabilir mi?
+C24: Hayır. Bu ders artık verilmemektedir ve eşdeğeri yoktur, bu nedenle tekrar alınamaz.
+
+S25: Bir öğrenci ELE 293 dersinden kaldıysa, bunun yerine ELE 296 dersini alabilir mi?
+C25: Hayır. Ders resmi olarak programlarından kaldırılmadığı sürece ELE 293'ü tekrar almaları gerekir.
+
+S26: Bir öğrenci BIL 341'deki notunu yükseltmek için BBM 483 yerine başka bir ders alabilir mi?
+C26: Hayır. BBM 483 dersini almak zorundadırlar.
+
+S27: BIL 341'den başarısız olan bir öğrenci bunun yerine başka bir teknik seçmeli laboratuvar alabilir mi?
+C27: Hayır. BBM 483 dersini almak zorundadırlar.
+
+S28: BIL 342'deki notunu yükseltmek isteyen bir öğrenci BBM 487 dışında bir ders alabilir mi?
+C28: Hayır. BBM 487 dersini almak zorundadırlar.
+
+S29: BIL 342 dersinden başarısız olan bir öğrenci bu dersi herhangi bir teknik seçmeli dersle değiştirebilir mi?
+C29: Hayır. BBM 487 almak zorundadırlar.
+
+S30: Bir öğrenci hem ELE 293 hem de ELE 294'ü geçerse, bunlardan biri bölüm dışı seçmeli ders olarak sayılabilir mi?
+C30: Evet. Geçilen derslerden biri bölüm dışı seçmeli ders olarak sayılabilir.
+
+S31: Öğrenciler 138 krediye ulaştıktan sonra mezun olabilirler mi?
+C31: Hayır. Tüm zorunlu derslerin ve belirli seçmeli yapıların da tamamlanması gerekir.
+
+S32: Eski programda Akademik Yazma Becerileri dersi alan öğrenciler, bu dersi seçmeli ders olarak saydırmak için dilekçe vermeli mi?
+C32: Hayır, dilekçe gerekli değildir.
+
+S33: Eskiden zorunlu olan derslerin seçmeli olarak sayılması için dilekçe gerekiyor mu?
+C33: Hayır, ancak mezuniyet onayı için danışman tarafından doğrulanması gerekir.
+
+S34: Başarısız olunan bir teknik seçmeli ders öğrencinin transkriptinden çıkarılabilir mi?
+C34: Ders resmi olarak müfredattan eşdeğeri olmadan kaldırılmadığı sürece hayır.
+
+S35: BIL 407 veya BIL 445 derslerinden başarısız olan öğrenciler bu dersler kaldırıldığı için muaf olabilirler mi?
+C35: Bu derslerin eşdeğeri yoktur ve başka bir teknik seçmeli ders ile değiştirilmelidir.
+
+S36: Bir öğrenci zorunlu bir dersin yaz okulu eşdeğerinden başarısız olursa, bunun yerine bölüm versiyonunu alabilir mi?
+C36: Evet, ancak ters denklik için bir dilekçe gönderdikten sonra.
+
+S37: F2 ile başarısız olunan bir teknik seçmeli ders başka bir seçmeli dersle değiştirilebilir mi?
+C37: Evet. Yeni kurallar, başarısız veya düşük dereceli herhangi bir seçmeli dersin bir başkasıyla değiştirilmesine izin vermektedir.
+
+S38: Öğrenciler transkriptlerinde başarısız seçmeli dersler (F notu) varken mezun olabilir mi?
+C38: Sadece bölüm konseyi tarafından onaylanırsa. Aksi takdirde, kaldırılmaları veya değiştirilmeleri gerekir.
+
+S39: Bir öğrenci hem ELE 293 hem de ELE 294'ü geçtikten sonra ELE 296'yı alırsa, hangi not hangisinin yerine geçer?
+C39: C3 veya daha düşük notlar yeni notla değiştirilir. Daha yüksek notlar kalır.
+
+S40: ING211 ve ING212 dersleri bölüm dışı seçmeli ders olarak sayılabilir mi?
+C40: Evet. Bu öğrenciler iki bölüm dışı seçmeli ders ile kredilendirilecektir.
+
+S41: Aynı kural ING211 ve ING212'den muaf olan öğrenciler için de geçerli midir?
+C41: Evet.
+
+S42: Bölüm başkanı kimdir ?
+C42: Hacettepe Üniversitesi Bilgisayar Bilimleri Mühendisliği Bölümü Başkanı Prof. Süleyman TOSUN'dur. 
+
+S43: Mezun olmak için toplam kaç gün staj yapmalıyım ? 
+C43: Mezun olmak için toplamda 60 iş günü staj yapmalısınız.
+
+S44: Mezun olmak için staj günlerimi nasıl bölebilirim ?
+C44: Mezun olmak için en az iki farklı kurumda staj yapılmalıdır ve bir staj en az 20 iş günü olmalıdır. Bu kapsamda 20-40, 30-30 ya da 20-20-20 şeklinde staj günleri ayarlanabilir. 

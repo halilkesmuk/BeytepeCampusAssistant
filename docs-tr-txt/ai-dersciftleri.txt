@@ -1,0 +1,18 @@
+Hacettepe Üniversitesi
+Mühendislik Fakültesi
+Yapay Zeka Mühendisliği Bölümü
+
+Eş Zamanlı Alınması Gereken Dersler : 
+
+	AIN 212 Veri Biliminin Unsurları - AIN 214 Veri Bilimi Lab. dersleri eş zamanlı alınmalıdır.
+	AIN 311 Makine Öğreniminin Temelleri - AIN 313 Makine Öğrenimi Lab. dersleri eş zamanlı alınmalıdır.
+	AIN 412 Tıbbi Görüntü Analizine Giriş - AIN 414 Tıbbi Görüntü Analizinde Uygulama dersleri eş zamanlı alınmalıdır.
+	AIN 430 Görüntü İşlemenin Temelleri - AIN 432 Görüntü İşlemede Uygulama dersleri eş zamanlı alınmalıdır.
+	AIN 431 Bilgisayarla Görmeye Giriş - AIN 433 Bilgisayarla Görme Pratiği dersleri eş zamanlı alınmalıdır.
+	AIN 440 Doğal Dil İşlemeye Giriş - AIN 442 Doğal Dil İşleme Pratiği dersleri eş zamanlı alınmalıdır.
+	AIN 420 Derin Öğrenmeye Giriş - AIN 422 Derin Öğrenme Pratiği dersleri eş zamanlı alınmalıdır.
+	AIN 423 Veri Yoğun Uygulamalar - AIN 425 Veri Yoğun Uygulamalarda Pratik dersleri eş zamanlı alınmalıdır.
+	AIN 424 Derin Takviyeli Öğrenmeye Giriş - AIN 426 Derin Takviyeli Öğrenmede Uygulama dersleri eş zamanlı alınmalıdır.
+	AIN 427 Veri Madenciliğine Giriş - AIN 429 Veri Madenciliği Laboratuvarı dersleri eş zamanlı alınmalıdır.
+	AIN 451 Robotiğe Giriş - AIN 453 Robotikte Uygulama dersleri eş zamanlı alınmalıdır.
+	AIN 455 İnsan Robot Etkileşimine Giriş - AIN 457 İnsan Robot Etkileşiminde Uygulama dersleri eş zamanlı alınmalıdır.

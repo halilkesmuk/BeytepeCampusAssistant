@@ -1,0 +1,371 @@
+Ders Adı: Programlamaya Giriş I 
+Kredi: 3 
+Açıklama: Bilgisayar programlamanın temel kavramları. Problem formalizasyonu ve aşamalı iyileştirme yöntemi kullanarak algoritma ve akış şemaları geliştirme. Yapısal programlama ile ilgili temel kavramlar. Veri tipleri ve değişken tanımlamaları. Temel kontrol yapıları. Koşullu ve döngüsel yapılar. Fonksiyon kavramı ve fonksiyon çağrıları. Programlama dillerinde tek ve çok boyutlu diziler. Dosya işlemleri. İşaretçiler.
+
+Ders Adı: Programlamaya Giriş Laboratuvarı I 
+Kredi: 1
+Açıklama: Laboratuvar üç veya daha fazla pratik ödev içerir. Öğrencilerin ödevleriyle birlikte iyi tasarlanmış belgesel bir rapor sunmaları beklenir. Derleyicilerin, paket programların ve güncel IDE'lerin (Entegre Geliştirme Ortamları) kullanımı bu laboratuvarın bir parçasıdır.
+
+Ders Adı: Programlamaya Giriş II 
+Kredi: 3 
+Açıklama: Nesne yönelimli programlamanın temel kavramları. Nesne yönelimli bir programlama dilinin öğrenilmesine giriş. Sınıf, nesne, kapsülleme, kalıtım, polimorfizm, soyut sınıf ve arayüz. Erişim belirleyicileri ve mesajlaşma. İstisna yönetimi kavramları.
+
+Ders Adı: Programlamaya Giriş Laboratuvarı II
+Kredi: 1 
+Açıklama: Laboratuvar üç veya daha fazla pratik ödev içerir. Öğrencilerin ödevleriyle birlikte iyi tasarlanmış belgesel bir rapor sunmaları beklenir. Derleyicilerin, paket programların ve güncel IDE'lerin (Entegre Geliştirme Ortamları) kullanımı bu laboratuvarın bir parçasıdır.
+
+Ders Adı: Bilgisayar Mühendisliğine Giriş 
+Kredi: 1 
+Açıklama: Öğrencilere Bölüm ve genel olarak Bilgisayar Mühendisliği hakkında rehberlik sağlamak için bir oryantasyon dersi. Bilgisayar mühendisliği ile ilgili etik ve yasal konulara giriş. Fakülte ve faaliyetlerine giriş.
+
+Ders Adı: Veri Yapıları  
+Kredi: 3 
+Açıklama: Veri yapılarının temelleri. Veri gösterimi, algoritma tasarımı ve program verimliliği arasındaki ilişkiler. Listeler, yığınlar, kuyruklar, ağaçlar, öncelik kuyrukları, karma (hash) yapılar, grafikler. Çok boyutlu/üçgensel/bant/seyrek matris gösterimleri. Tek/çift (dairesel) bağlı listeler. Önek/araek/sonek ifadeleri.
+
+Ders Adı: Yazılım Laboratuvarı I 
+Kredi: 1 
+Açıklama: Laboratuvar üç veya daha fazla pratik ödev içerir. Öğrencilerin ödevleriyle birlikte iyi tasarlanmış belgesel bir rapor sunmaları beklenir. Derleyicilerin, paket programların ve güncel IDE'lerin (Entegre Geliştirme Ortamları) kullanımı bu laboratuvarın bir parçasıdır.
+
+Ders Adı: Ayrık Yapılar 
+Kredi: 3  
+Açıklama: Ayrık matematiğin temel kavramları: Matematiksel mantık, küme teorisi, ilişkiler ve fonksiyonlar. Önerme mantığı, birinci derece mantık ve matematiksel tümevarım. Ayrık yapılar: Modüler aritmetik, durum makineleri, graf teorisi, ağaçlar, sayma, özyineleme ve özyinelemeli ilişkiler. Ayrık olasılık teorisi.
+
+Ders Adı: Mantık Tasarımı  
+Kredi: 3 
+Açıklama: Dijital sistemler, sayı sistemleri, ikili kodlar, hata tespit eden ve hata düzelten kodlar. Boolean cebiri, anahtarlama cebiri, ikili işlemler ve Boolean fonksiyonları. Boolean fonksiyonlarının minimizasyonu. Kombinasyonel mantık, mantık kapıları, kombinasyonel devrelerin analizi, mantık kapıları ile devre tasarımı. Entegre devreler, MSI yongaları, ROM, PLA ile tasarım. Senkron ardışıl devreler, bellek elemanları, analiz ve tasarım prosedürleri. Kaydediciler, sayaçlar, RAM. Asenkron ardışıl devreler.
+
+Ders Adı: Mantık Tasarımı Laboratuvarı  
+Kredi: 1 
+Açıklama: Laboratuvar şu konularda pratik ödevler içerir: Mantık kapıları, entegre devreler, Boolean cebirinin özellikleri ve kuralları, kombinasyonel devreler, Boolean fonksiyonlarının minimizasyonu. Kod dönüştürücü, çoklayıcı, büyüklük karşılaştırıcı ve paralel toplayıcı devreleri. Flip-floplar ve ardışıl devreler. Sayaçlar, kaydediciler, seri toplayıcı devreleri ve bellek elemanları.
+
+Ders Adı: Algoritmalar  
+Kredi: 3 
+Açıklama: Algoritmaların temel kavramları. Asimptotik gösterim, performans ölçümü, alan/zaman karmaşıklığı. Özyinelemeli algoritmalar, özyinelemeli ilişkiler, algoritma analizi kavramına giriş. İkili arama ağacı, özyinelemeli ve yinelemeli ikili ağaç gezinmeleri. Grafikler, derinlik/genişlik öncelikli arama, örten ağaçlar, en kısa yol problemi, düğüm/kenar ağları üzerinde faaliyet. Seçim, ekleme, kabarcık, sayma, hızlı, birleştirme, yığın, radix sıralama algoritmaları ve analizleri.
+
+Ders Adı: Yazılım Laboratuvarı II  
+Kredi: 1 
+Açıklama: Laboratuvar üç veya daha fazla pratik ödev içerir. Öğrencilerin ödevleriyle birlikte iyi tasarlanmış belgesel bir rapor sunmaları beklenir. Derleyiciler, paket programlar ve güncel IDE'ler (Entegre Geliştirme Ortamları) bu laboratuvarda kullanılır.
+
+Ders Adı: Bilgisayar Organizasyonu  
+Kredi: 3 
+Açıklama: Bilgisayar mimarisi ile ilgili temel matematiksel ve mantıksal kavramlar. Veri gösterimi. Temel bilgisayar organizasyonu. Merkezi işlemci organizasyonu: Akümülatör tabanlı, genel kayıt işlemcileri ve yığın makinesi mimarileri. Makine kodu talimat kavramı, mikro programlama kavramı, adresleme modları. Bellek organizasyonu. Toplu depolama cihazları. G/Ç cihazları. Assembly dili programlamaya giriş.
+
+Ders Adı: Programlama Dilleri  
+Kredi: 3 
+Açıklama: Programlama dillerinde temel ilkeler ve paradigmalar. Tüm önemli konular ve dil paradigmaları işlenir. Konular sözdizimi, anlambilim, isimler, bağlamalar, tür kontrolü, alt programlar, sözlüksel ve sözdizimsel analizörler oluşturmak için araçlar, soyut veri tipleri, eşzamanlılık, istisna işleme içerir. Hem zorunlu diller hem de işlevsel diller için farklı tasarım seçimleri ve sözlüksel ve sözdizimsel analizörler tasarlamak için araçlar ayrıntılı olarak ele alınır. Bu bağlamda, biçimsel, düzenli ve bağlam serbest dillerin temelleri, ayrıştırma ağaçları, dillerde belirsizlik, düzenli ifadeler ve sözcüksel analizörlerde kullanımları dahildir. Öğrenciler bağlam serbest dilbilgisi ve BNF gösterimini ayrıntılı olarak yazmayı öğrenirler.
+
+Ders Adı: Sistem Programlama  
+Kredi: 3 
+Açıklama: Assembly dili genel kavramları. Kaynak ve nesne programı. Yeniden girebilir ve yeniden yürütülebilir program. Adresleme teknikleri. Prosedür tanımları, prosedür iletişim teknikleri, makro olanakları. İşletim sistemi-assembly dili bağlantıları: sistem çağrıları. Sistem çağrı mekanizması, girdi/çıktı arayüzleri. Yükleyiciler, bağlayıcılar. Mikro programlama. Tek ve iki geçişli derleyiciler. Kesme mekanizması, kesme yönetimi. Temel G/Ç programlama teknikleri. Programlanmış ve kesme G/Ç programlama. Doğrudan bellek erişimi. Gömülü sistemler G/Ç programlama örnekleri. Aygıt sürücüleri: Aygıt tipleri, karakter aygıt sürücüleri ve örnek, blok aygıt sürücüleri.
+
+Ders Adı: Veri Yönetimi  
+Kredi: 3 
+Açıklama: Temel dosya kavramları. İkincil depolama cihazları ve fiziksel dosya organizasyonu. Dosya yönetim sistemi ve tipleri. Temel dosya işleme işlemleri. İndeks ve tipleri. Karma (hashing) ile indeksleme ve tipleri. Ağaç yapılı indeksler. Sıralama. Uzamsal ve çok boyutlu indeksleme yapıları. Katlanmış indeksler.
+
+Ders Adı: İşletim Sistemleri  
+Kredi: 3 
+Açıklama: İşletim sisteminin tanımı. İş, süreç, toplu ve etkileşimli işleme, çoklu görev ve gerçek zamanlı işleme kavramları. Süreçler, bağlam ve görev değiştirme, UNIX süreç durumu ve kuyruk diyagramları, süreç yönetim algoritmaları. İş parçacıkları. Eşzamanlı süreçler. Süreçler arası iletişim ve senkronizasyon, karşılıklı dışlama. Düşük seviyeli senkronizasyon operatörleri ve semaforlar. Yüksek seviyeli senkronizasyon fonksiyonları. UNIX borular ve FIFO'lar. Kilitlenmeler. Bellek yönetimi: Tek ve bitişik, statik ve dinamik bölümlenmiş bellek, takas, sayfalama, segmentasyon, sanal bellek. Dosya yönetimi: Dizin yapıları, FAT, i-node yapıları, dosya tahsis yöntemleri, güvenlik ve koruma. Dağıtık işleme, TCP/IP, istemci-sunucu paradigması, soket programlama.
+
+Ders Adı: Yazılım Mühendisliği  
+Kredi: 3 
+Açıklama: Yazılım mühendisliğinin temel kavramları. Bilgisayar sistemlerinin türleri ve bunların bir parçası olarak yazılım. Yazılım mühendisliğinin sistemler mühendisliği ile ilişkisi. Yazılım mühendisliğinin kapsamı: Yazılım geliştirme (analiz, tasarım, kodlama ve test), yazılım mühendisliği yönetimi, yazılım yapılandırma yönetimi, yazılım mühendisliği süreçleri, yazılım mühendisliği araçları ve yöntemleri ve yazılım kalite güvencesi. Yazılım metrikleri ve yazılım maliyet tahmini. Yazılım kalitesinin maliyeti. Yazılım geliştirme süreci modelleri ve süreç referans modelleri.
+
+Ders Adı: Yazılım Mühendisliği Laboratuvarı  
+Kredi: 1 
+Açıklama: Hem yönetim hem de geliştirme uygulamalarını kullanarak sıfırdan orta büyüklükte yazılım uygulamaları oluşturmak. Yazılım projelerinin ilk gereksinimleri ve geliştirilmesinin planlanması. Önceden tanımlanmış bir yazılım geliştirme yaşam döngüsüne (Açık Birleşik Sürece dayalı) uygun olarak yazılım sistemlerinin gereksinim analizi, mimari tasarım ve ayrıntılı tasarımını uygulamak ve bu faaliyetlerin çıktılarını önceden tanımlanmış formatlarda (IEEE tarafından önerilen) belgelendirmek. Öğrencilerin laboratuvar sonunda sistemin birkaç kritik gereksinimini kodlayarak çalışan bir yazılım mimarisi prototipi göstermeleri gerekmektedir. Yazılım sisteminin tasarımı ve uygulanması sırasında J2EE teknolojilerinin kullanılması amaçlanmaktadır.
+
+Ders Adı: Staj  
+Kredi: 4 
+Açıklama: Staj sonunda öğrenci bir proje uygulayacak ve bir kurumda çalışacaktır.
+
+Ders Adı: Teknoloji Seminerleri I  
+Kredi: 0 
+Açıklama: Öğrenci, bölüm tarafından düzenlenecek çeşitli teknoloji seminerlerine katılmak zorundadır. Seminerlerin konusu güncel teknolojik gündem doğrultusunda belirlenecektir. Sunum yapanlar bölüm içinden veya dışından (örneğin sektörden) olabilir.
+
+Ders Adı: Teknoloji Seminerleri II  
+Kredi: 0 
+Açıklama: Öğrenci, bölüm tarafından düzenlenecek çeşitli teknoloji seminerlerine katılmak zorundadır. Seminerlerin konusu güncel teknolojik gündem doğrultusunda belirlenecektir. Sunum yapanlar bölüm içinden veya dışından olabilir.
+
+Ders Adı: Görüntü İşlemenin Temelleri  
+Kredi: 3 
+Açıklama: Dijital görüntü temelleri, doğrusal görüntü filtreleme ve korelasyon, doğrusal olmayan filtreleme, görüntü iyileştirme, histogram değiştirme teknikleri, görüntü restorasyonu, görüntü sıkıştırma, frekans alanı işleme ve segmentasyon.
+
+Ders Adı: Görüntü İşleme Laboratuvarı  
+Kredi: 1 
+Açıklama: "Görüntü İşlemenin Temelleri" dersinde sunulan konuların pratik uygulamaları. Dijital görüntü temelleri, doğrusal görüntü filtreleme ve korelasyon, doğrusal olmayan filtreleme, görüntü iyileştirme, histogram değiştirme teknikleri, görüntü restorasyonu, görüntü sıkıştırma, frekans alanı işleme ve segmentasyon.
+
+Ders Adı: Oyun Teknolojileri  
+Kredi: 3 
+Açıklama: Video oyun tasarımı ve programlamasının teori ve pratiği. Video oyun programlamanın bilgisayar grafikleri, insan-bilgisayar etkileşimi, ağ, yapay zeka, bilgisayar destekli öğretim, bilgisayar mimarisi ve veritabanlarının bir kombinasyonu olması. Video oyun tarihi, video oyunlarının sınıflandırılması, oynanış tasarımı - bir video oyun deneyiminin bileşenleri, video oyunları için yazılım mimarisi, 3D grafiklere ve stereoskopik bilgisayar grafiklerine giriş, çağdaş video oyun platformlarının donanım mimarisi, insan fiziksel ve algısal sınırları, oyun yapay zekası, çok oyunculu oyun tasarımı, oyun fiziği, gerçek zamanlı gölgeleme efektlerine giriş, çizgi film gölgelendirme, yansımalar, mercek parlamaları, gölge.
+
+Ders Adı: Oyun Teknolojileri Laboratuvarı  
+Kredi: 1 
+Açıklama: 3D oyun programlamada deneyim geliştirme. En son teknoloji grafik kartı hatları, OpenGL ve DirectX gibi yaygın grafik kütüphaneleri ve gölgeleme dilleri, 3D oyunların yaygın sorunları (esas olarak zaman ve alan yetersizlikleri) ve bunları çözmek için geliştirilen yöntemler/hileler.
+
+Ders Adı: İş Sağlığı ve Güvenliği I  
+Kredi: 1 
+Açıklama: İş Sağlığı ve Güvenliği Uygulama Yönergelerinin İyileştirilmesi, İş Sağlığı ve Güvenliği Mevzuatı, Çalışma Hayatı ve Kronik Hastalıklar, Meslek Hastalıkları, Çalışma Hayatında Stres Yönetimi, Fiziksel Riskler ve Önleyici Tedbirler, Kimyasal Riskler ve Önleyici Tedbirler, Laboratuvar güvenliği, Acil Durum Planları, Ergonomi - Çalışma Ortamında Kas-İskelet Sistemi Sağlığının Korunması, Meslek (bölüm) Özel İş Sağlığı ve Güvenliği Uygulamaları
+
+Ders Adı: Bilgisayar Ağları  
+Kredi: 3 
+Açıklama: Ağ ve ağ mimarisinin temellerine giriş, doğrudan bağlantı ağları, paket anahtarlama (ATM), İnternetin çalışması (IP, ARM, ICMP vb.), uçtan uca protokoller (UDP, TCP), uygulamalar (SMTP, HTTP vb.), kablosuz ağlar
+
+Ders Adı: Bilgisayar Ağları Laboratuvarı  
+Kredi: 1 
+Açıklama: Alt ağ oluşturma ve adresleme, Cisco-IOS, yönlendirici ve anahtar yapılandırmaları, ACL (Erişim Kontrol Listeleri), VLAN yapılandırmaları, topoloji keşfi, FR/ATM geniş alan ağı anahtar yapılandırmaları, HDLC, PPP, Frame Relay, ATM protokolleri, IP telefonu ve VoIP gibi bir dizi deney.
+
+Ders Adı: Bilgi Güvenliği  
+Kredi: 3 
+Açıklama: Temel güvenlik kavramları: Gizlilik, bütünlük, kullanılabilirlik. Güvenlik tehditleri, hackerlık, sosyal mühendislik, yasal ve sosyal konular. Operasyonel ve fiziksel güvenlik sorunları, güvenlik politikası oluşturma ve uygulama. Kriptografinin temel kavramları: şifreleme, hash fonksiyonları, açık anahtar şifreleme. Kimlik doğrulama modelleri: Şifre tabanlı, token tabanlı, biyometrik tabanlı kimlik doğrulama. Yetkilendirme modelleri: İhtiyari erişim kontrolü, rol tabanlı erişim kontrolü, zorunlu erişim kontrolü. Program güvenliği: Kötü amaçlı yazılımlar, güvenli programlamanın temel kavramları. İşletim sistemi güvenliği: Koruma modelleri, güvenlik çekirdekleri, kötü amaçlı yazılımlardan koruma. Ağ güvenliği: Güvenlik duvarları, saldırı tespit ve yanıt sistemleri. Güvenlik için kayıt tutma, denetim, ağ ortamlarında kayıt yönetimi.
+
+Ders Adı: Bilgi Güvenliği Laboratuvarı  
+Kredi: 1 
+Açıklama: Veri gizliliği için şifreleme araçlarının kullanımı. Deneysel Açık Anahtar Altyapısı çözümü oluşturma. Disk bütünlük denetleyicisi yapılandırma ve test etme. Veri kurtarma için disk tarama araçlarının kullanımı. Statik analiz araçları kullanarak kod inceleme. Arabellek ve tamsayı taşma saldırıları için bir vaka çalışması. Format dizesi saldırıları ve girdi doğrulama için bir vaka çalışması. Kişisel bilgisayarlarda IPSEC protokolünü yapılandırma. E-postaları imzalama ve şifreleme, PGP. XSS saldırıları için bir vaka çalışması. Web oturum yönetiminin güvenliği. Güvenlik duvarı yapılandırma ve test etme. Ağ güvenlik açığı taraması. Saldırı tespit sistemi yapılandırma ve test etme. DOS saldırıları için bir vaka çalışması.
+
+Ders Adı: Veri Yoğun Uygulamalar Laboratuvarı  
+Kredi: 1 
+Açıklama: Çok çekirdekli sistemler, kümeler, gridler, bulutlar ve süper bilgisayarlar gibi dağıtık sistemlerde paralel programlama konusunda deneyim geliştirme. Aşırı ölçeklerde veri yoğun uygulamaları destekleme amacıyla sistemler, protokoller ve ara yazılımlar tasarlama, uygulama ve değerlendirmeye odaklanan dağıtık sistemler.
+
+Ders Adı: Veritabanı Yönetim Sistemleri  
+Kredi: 3 
+Açıklama: Veritabanı, veritabanı yönetim sistemleri, veritabanı mimarisi, şemalar ve veri bağımsızlığı. Veri modelleri: Varlık-ilişki modeli ve ilişkisel model. Bütünlük kısıtlamaları ve ilişkisel tasarım: Alan kısıtlamaları, referans kısıtlamaları, öznitelikler arasındaki bağımlılıklar, normal formlar, tasarım kriterleri. İlişkisel diller: İlişkisel cebir. SQL standart ilişkisel dil: veri tanımlama, veri manipülasyonu, veritabanı yönetim olanakları ve ana komutlar. İşlemler. Eşzamanlılık kontrolü ve serileştirilebilirlik. Kurtarma mekanizmaları.
+
+Ders Adı: Yazılım Geliştirme  
+Kredi: 3 
+Açıklama: Yazılım geliştirmenin temel aşamaları. Nesne yönelimli analiz ve tasarım kavramları ve Birleşik Modelleme Dili (UML). UML görünümleri ve diyagramları. Kullanım durumu, etkinlik, sınıf, paket, etkileşim, durum, bileşen ve dağıtım diyagramları. Nesne yönelimli geliştirme süreci ve UML diyagramlarının önerilen kullanımı. Yazılım sistemlerinin örnek çözümleri.
+
+Ders Adı: Kişisel Yazılım Süreci  
+Kredi: 3 
+Açıklama: Kişisel yazılım geliştirmeye disiplin getiren Kişisel Yazılım Sürecinin temel ilkeleri. Öğrenciler, mevcut programlama uygulamalarını kullandıkları PSP0 süreci ile başlarlar. PSP süreci dört süreç versiyonu ile geliştirilir ve öğrenciler her PSP versiyonu ile bir veya iki program yazarlar. Her program için, yeni tanıtılan süreç yöntemlerinin yanı sıra önceki süreç versiyonlarıyla tanıtılan tüm yöntemleri kullanırlar. Tüm PSP materyalleri önceden tanımlanmıştır ve Yazılım Mühendisliği Enstitüsü'nün resmi web sitesinden erişilebilir.
+
+Ders Adı: Kişisel Yazılım Süreci Laboratuvarı  
+Kredi: 1 
+Açıklama: PSP0 ve PSP1 süreçlerine uygun olarak ödevlerin gerçekleştirilmesinde Kişisel Yazılım Süreci dersini tamamlayıcı nitelikte. Önceden tanımlanmış bir dizi süreci takip ederek ve önceden tanımlanmış çıktılar üreterek altı ödevin tamamlanması. Öğrenciler, ödevleri uygulamak için rahat oldukları bir programlama dilini kullanabilirler. Laboratuvar sonunda öğrenciler, ödevleri gerçekleştirirken kendi performanslarını önceden tanımlanmış metrikler kullanarak değerlendiren bir sonuç raporu hazırlayacaklardır. Tüm laboratuvar materyalleri önceden tanımlanmıştır ve Yazılım Mühendisliği Enstitüsü'nün resmi web sitesinden erişilebilir.
+
+Ders Adı: Bilgisayar Grafikleri  
+Kredi: 3 
+Açıklama: Bilgisayar grafiklerine genel bakış, grafik donanımı ve yazılımı, grafik ilkellerin tanımı. İki boyutlu grafikler, dönüşümler, pencereler, bakış portları, kırpma, bölümlendirme. Etkileşimli giriş yöntemleri, cihaz ve olaylar. Üç boyutlu temsil, dönüşümler ve projeksiyonlar. Gizli yüzey eliminasyonu. Renk haritaları, gölgelendirme, gölgelenme ve aydınlatma. Dokular, görüntüler, doku eşleme. Animasyon teknikleri.
+
+Ders Adı: Bilgisayar Grafikleri Laboratuvarı  
+Kredi: 1 
+Tanım: Bilgisayar grafikleri uygulamaları, bilgisayar grafiklerinde yaygın olarak kullanılan geliştirme ortamları, güncel 3B grafik kütüphaneleri, grafik donanım ve yazılımı, geometrik dönüşümler, bilgisayar animasyonu, modelleme tekniklerinin temelleri, animasyon ve grafikler için betik dilleri
+
+Ders Adı: Bilgisayarla Görüntü İşlemenin Temelleri  
+Kredi: 3 
+Tanım: Görüntü oluşumunun fiziği, görüntü gösterimi, geometrik dönüşümler, ikili görüntü analizi, nokta ve bölge işleme, filtreler, konvolüsyon, kenar tespiti, doku analizi ve sentezi, renk uzayları ve modelleri, değişmez görüntü özellikleri, optik akış, temel eşleştirme teknikleri.
+
+Ders Adı: Bilgisayarla Görüntü İşleme Laboratuvarı  
+Kredi: 1 
+Tanım: Bilgisayarla görüntü işleme sistemleri ve problemleri, geometrik dönüşümler, optik akış problemleri ve hesaplaması, ikili görüntü analizi, nokta ve bölge takibi işleme, değişmez görüntü özelliklerinin hesaplanması, temel eşleştirme teknikleriyle görüntü eşleştirme
+
+Ders Adı: Mobil Bilgi İşlem  
+Kredi: 3 
+Tanım: Mobil/kablosuz teknolojiler ve bu teknolojilerin belirli iş ihtiyaçlarını karşılamak için nasıl kullanıldığı ve entegre edildiği. Mobil/kablosuz uygulamaları geliştirmek için gerekli özel beceriler. Modern dağıtık yazılım sistemlerinin tasarımı, mobil uygulama geliştirme teknolojileri, mimariler ve ileri ağ teknolojilerinde üst katmanları destekleyen teknikler, mobil sistemlerde planlama, yönetim ve güvenlik, mobil oyun tasarımı.
+
+Ders Adı: Mobil Bilgi İşlem Laboratuvarı  
+Kredi: 1 
+Tanım: Mobil/kablosuz teknolojiler üzerinde deneyim geliştirme ve bu teknolojilerin belirli iş ihtiyaçlarını karşılamak için nasıl kullanılabileceği ve entegre edilebileceği. Modern dağıtık yazılım sistemlerinin tasarımı, mobil uygulama geliştirme teknolojileri, mimariler ve ileri ağ teknolojilerinde üst katmanları destekleyen teknikler, mobil sistemlerde planlama, yönetim ve güvenlik, mobil oyun tasarımı.
+
+Ders Adı: Gömülü Sistemler  
+Kredi: 3
+Tanım: Mikroişlemciler, bellek birimleri, giriş/çıkış arayüzleri, yardımcı işlemciler, giriş/çıkış sürücüleri olarak sensörler, elektromekanik yönlendirme cihazları, mikrodenetleyiciler, temel bileşenlerle gömülü sistem tasarımı, FPGA (Sahada Programlanabilir Kapı Dizisi), Verilog, gerçek zamanlı işletim sistemleri, gömülü Linux, Windows CE.
+
+Ders Adı: Gömülü Sistemler Laboratuvarı  
+Kredi: 1 
+Tanım: Yüksek seviyede çıkarım ve adaptasyon yapabilen gömülü sistemlerin prototiplerini oluşturmak için ilkeler ve algoritmalar. Gömülü sistem örnekleri arasında kendinden yönlendirmeli derin uzay araçları, robotik futbol takımları, akrobatik helikopterler ve mobil robotlar yer alır. FPGA sistemleri üzerinde uygulanan haftalık deneyler.
+
+Ders Adı: Bilgisayar Ağları  
+Kredi: 3 
+Tanım: Kablolu ve kablosuz LAN; Tekrarlayıcı, Köprü ve Anahtarlama Hub'ları; Yönlendiriciler; VLAN'lar; WAN'lar, TCP/IP Protokol Takımı; IP Adres Planlaması; Ağ Tasarımı; IP, TCP ve UDP Katmanları; DHCP; Yayın ve Çoklu Yayın
+
+Ders Adı: Veri İletişimi  
+Kredi: 3 
+Tanım: Bilgisayar ağlarının temelleri, ISO referans modeli. TCP/IP, ağ tipleri ve topolojileri. Fiziksel katman: Fiziksel iletişim ortamı türleri, elektriksel sinyallerin zayıflama ve bozulması. Fourier serisi ve modülasyon, frekans ve zaman bölmeli çoğullama, modülasyon yöntemleri. Modemler, bağlantı standartları. Bit, karakter ve çerçeve senkronizasyonu. Veri bağlantı katmanı: Boş RQ, sürekli RQ algoritmaları, kayan pencere mekanizması, HDLC ve türev protokoller. LAN'lar, yerel alan ağları, Ethernet ve Token Ring. WAN'lar, geniş alan ağları, PPP, ATM ve Frame Relay, telekomünikasyon hizmetleri ve standartları.
+
+Ders Adı: Bilgisayar Ağları Laboratuvarı  
+Kredi: 1 
+Tanım: LAN'lar ve Ethernet; VLAN'lar; Anahtar ve yönlendirici yapılandırması I; Anahtar ve yönlendirici yapılandırması II; Erişim listesi ve paket filtreleme; RIP ve OSPF; NAT Ağ Adresi Çevirisi; Topoloji keşfi; Frame Relay; DHCP
+
+Ders Adı: Coğrafi Bilgi Sistemleri  
+Kredi: 3 
+Tanım: Coğrafi bilgi sistemlerinin bilimsel alanda ve karar verme süreçlerinde kullanımı. Coğrafi bilginin uygulamaları; coğrafi gerçekliğin modellenmesi; mekansal veri toplama; coğrafi veritabanları; coğrafi analiz; doğruluk ve belirsizlik; görselleştirme ve coğrafi bilgi kullanımıyla ilişkili yasal, ekonomik ve etik konular; uydu tabanlı uzaktan algılama; akıllı ulaşım sistemleri ve diğer coğrafi bilgi teknolojileri.
+
+Ders Adı: Veritabanı Laboratuvarı  
+Kredi: 1 
+Tanım: Gelişmiş veritabanı yönetim sistemleri; veritabanı tanımı; veritabanlarıyla sorgulama ve uygulama geliştirme; veritabanı teknolojilerinin araştırılması ve sunumu; yedekleme ve onarım; popüler veritabanı sistemleri.
+
+Ders Adı: Coğrafi Bilgi Sistemleri Laboratuvarı  
+Kredi: 1 
+Tanım: Coğrafi Bilgi Sistemleri (CBS) kavramları, CBS uygulamalarının girdileri, CBS sistemlerinin eşleştirilmesi, popüler CBS araçlarının kullanımı, probleme özgü CBS veri yapıları, yeni coğrafi mekansal veri tiplerinin oluşturulması, vektör tabanlı mesafe fonksiyonlarının analizi, coğrafi mekansal veritabanlarının tasarımı ve uygulanması, bilinen CBS çözümleri.
+
+Ders Adı: Tasarım Projesi I  
+Kredi: 2 
+Tanım: Bu uygulamalı ders için, her öğrenci bir öğretim üyesinin yakın gözetimi altında bir yazılım veya donanım geliştirir. Donanım odaklı projelerde CAD ve diğer gerekli donanım araçları kullanılır. Yazılım odaklı projeler için; geliştirilen yazılımda düzgün, kullanıcı dostu insan-makine etkileşimi ve diğer yazılım mühendisliği teknikleri gereklidir.
+
+Ders Adı: Yazılım Kalite Güvencesi  
+Kredi: 3 
+Tanım: Yazılım geliştirme yaşam döngüsü içinde yazılım kalitesini güvence altına almanın temel kavramları ve yaklaşımları. Kapsanan konular şunlardır: Yazılım kalite güvencesinin temel terimleri ve kavramları. Yazılım doğrulama, geçerleme ve test etme. Hata, kusur ve arıza kavramları. Yazılım doğrulama ve geçerleme yöntemleri ve standartları. Yazılım incelemeleri ve denetimleri. Yazılım kalitesini ölçmek için kullanılan metriklere genel bakış. Yazılım testinin seviyeleri ve yöntemleri. İşlevsel ve yapısal test. Entegrasyon ve sistem testi. Nesne yönelimli test.
+
+Ders Adı: Yazılım Kalite Güvencesi Laboratuvarı  
+Kredi: 1 
+Tanım: Hazır geliştirilmiş orta ölçekli yazılım sistemleri üzerinde temel yazılım kalite güvence yöntemlerinin uygulanması. Öğrencilere çalışan yazılım sistemleri verilir ve yaygın olarak kullanılan yazılım test yöntemlerine dayalı olarak yazılım testleri tasarlamaları ve çalıştırmaları istenir. Yazılım kalitesini güvence altına almanın bir parçası olarak kod incelemesi uygulanacaktır. Öğrenciler, yazılım kalite güvence faaliyetlerinin tasarımını ve çıktılarını raporlayacak ve bunları gerçekleştirmenin maliyetlerini ve faydalarını raporlarında tartışacaklardır.
+
+Ders Adı: Takım Yazılım Süreci  
+Kredi: 3 
+Tanım: Öğrencilere takım yazılım projesini birlikte yürütme konusunda rehberlik eden Takım Yazılım Süreci (TSPi) temel ilkeleri. Küçük bir yazılım ekip projesi için gereken formlar, betikler ve standartlar. Bir, iki veya üç geliştirme döngüsü için tasarlanmıştır. İlk döngüde sürecin uygulanması, ikinci döngüde zaman baskısı altında sürecin kullanılması ve üçüncü döngüde, ilk ikisinde öğrendikleri dersleri tamamen içselleştirme. Tüm TSPi materyalleri önceden tanımlanmıştır ve Yazılım Mühendisliği Enstitüsü'nün resmi web sitesinden erişilebilir.
+
+Ders Adı: Takım Yazılım Süreci Laboratuvarı  
+Kredi: 1 
+Tanım: TSPi'ye uygun olarak ödevlerin yürütülmesinde Takım Yazılım Süreci dersini tamamlayıcı nitelikte. Öğrencilere önceden tanımlanmış roller atanır ve önceden tanımlanmış bir süreci takip ederek ve önceden tanımlanmış çıktılar üreterek bir ekip olarak yazılım geliştirme ödevlerini tamamlamaları istenir. Tüm laboratuvar materyallerine Yazılım Mühendisliği Enstitüsü'nün resmi web sitesinden erişilebilir.
+
+Ders Adı: Otomata Teorisi ve Biçimsel Diller  
+Kredi: 3 
+Tanım: Sonlu durum otomatları: Deterministik ve deterministik olmayan otomat modelleri, Mealy ve Moore makineleri, basitleştirme yöntemi. Düzenli kümeler ve düzenli ifadeler, sonlu otomatlar - düzenli ifade ilişkisi. Biçimsel gramer ve diller, gramer ve dil sınıfları ve özellikleri. Düzenli gramer ve diller, düzenli gramer - sonlu otomata ilişkisi. Bağlam bağımsız gramer ve diller. Yığın otomatı modeli, yığın otomatı - bağlam bağımsız gramer ilişkisi. Turing makineleri ve kısıtlı diller. Ayrıştırma: ayrıştırma türleri, yukarıdan aşağıya ve aşağıdan yukarıya ayrıştırma, bağlam bağımsız diller için LL(k) ve LR(k) ayrıştırma, LR(k) ayrıştırmada sonlu otomatların kullanımı.
+
+Ders Adı: Hesaplama Teorisi  
+Kredi: 3 
+Tanım: Hesaplama teorisindeki temel fikirler. Çözülebilir problemlerin sınıflandırılması, hesaplanabilirlik ve karmaşıklık, hesaplama problemleri arasında indirgenebilirlik, çevrimiçi dağıtık algoritmalar, imkansızlık sonuçları, polinom zamanlı indirgenebilirlik, NP-Tamlık, Cook-Levin teoremi.
+
+Ders Adı: Kombinatorik ve Graf Teorisi  
+Kredi: 3 
+Tanım: Temel sayma ilkeleri: Permütasyonlar ve kombinasyonlar. Binom katsayıları. İçerme-dışlama ilkesi. Özyineleme ilişkileri. Graf teorisi ve uygulamalarının temel kavramları ve yöntemleri. Kapsanan konular şunlardır: yollar ve arama, ağaçlar, ağlar, döngüler, düzlemsellik, bağımsızlık, alt graflar, izomorfizm, bağlantılılık, düzlemsellik, kromatik sayı, Euler grafı, Hamilton grafı, minimum kapsayan ağaç, en kısa yol, maksimum akış, tepe boyama, aktivite çizelgeleme.
+
+Ders Adı: Derleyici Yapımının Temelleri  
+Kredi: 3 
+Tanım: Derleyici tasarımı ve yapısındaki temel kavramlar. Bir derleyicinin mantıksal tasarımının, sözcük analiz cihazının, ayrıştırıcının, anlam analiz cihazının, kod üreticisinin, kod optimize edicisinin ve hata kurtarma rutinlerinin geliştirilmesi. Her bileşen için biçimsel algoritmaların analizi, genel derleyici inşa tekniklerinin açıklaması.
+
+Ders Adı: Yapay Zekanın Temelleri  
+Kredi: 3 
+Tanım: Problem çözme teknikleri: Durum-uzayı yaklaşımı, problem-azaltma yaklaşımı, kapsamlı arama algoritmaları, sezgisel arama algoritmaları, oyun oynama algoritmaları ve oyun ağaçları, mantık programlama, bilgi gösterimi ve akıl yürütme, YZ sistemlerinde öğrenme, yapay sinir ağları, önerme mantığının ispat teorisi, birinci dereceden yüklem mantığı, Bayes ağları, anlamsal ağlar, bulanık mantık, algılama, robotik.
+
+Ders Adı: Makine Öğrenmesinin Temelleri  
+Kredi: 3 
+Tanım: Öğrenmede temel kavramlar, Bayes karar teorisi, karar ağacı öğrenimi, regresyon, sınıflandırma, doğrusal ve doğrusal olmayan ayırt edici modeller, denetimli ve denetimsiz öğrenme, özellik seçimi, boyutsallık azaltma, model seçimi, makine öğrenmesi uygulamaları.
+
+Ders Adı: Bulanık Mantık  
+Kredi: 3 
+Tanım: Bulanık mantıkta genel yaklaşım, bulanık kümeler, ilişkiler ve aritmetik. Bulanık mantık ile olasılık teorisi gibi diğer teoriler arasındaki ilişki. Bulanık çıkarım sistemleri. Bulanık çıkarımda hibrit yöntemler. Bulanık kümeleme. Yaygın uygulama alanlarının incelenmesi: Karar verme, örüntü tanıma, veri tabanı, veri madenciliği. Bulanık mantık ve yapay zeka.
+
+Ders Adı: Algoritma Analizi  
+Kredi: 3 
+Tanım: Asimptotik büyüme oranları ve asimptotik gösterimler. Performans analizi ve karşılaştırması için temel araçlar. Özyinelemeli düşünme, özyinelemeli ilişkiler. En kötü, ortalama ve en iyi durum analizi. Ana teoremi nasıl kullanılır. Böl-ve-yönet örneği: İki n-bit sayının çarpımı. Sıralama ve seçime genel bakış: Doğrusal zamanda sıralama (radix, sayma ve kova sıralaması), sıralama için alt sınır, yığın oluşturmanın analizi, yığın sıralaması, eklemeli sıralama ve hızlı sıralamanın ortalama durum analizi, turnuva yöntemi, doğrusal zamanda en küçük k. elemanı seçme. Dinamik programlama: Matris zinciri çarpımı, en uzun ortak alt dizi.
+
+Ders Adı: Makine Öğrenmesi Laboratuvarı  
+Kredi: 1 
+Tanım: Makine Öğrenmesine Genel Bakış, Doğrusal Regresyon, En Küçük Kareler, Makine Öğrenmesi Metodolojisi, Olasılık ve Doğrusal Cebir Temelleri, İstatistiksel Tahmin: MLE, MAP, Naif Bayes Sınıflandırıcısı, Doğrusal Sınıflandırma Modelleri: Lojistik Regresyon, Doğrusal Ayırt Edici Fonksiyonlar, Perceptron, Destek Vektör Makineleri, Karar Ağacı Öğrenimi, Topluluk Yöntemleri: Bagging, Boosting, Kümeleme, Sinir Ağları, Temel Bileşen Analizi
+
+Ders Adı: Dinamik Sistemler  
+Kredi: 3 
+Tanım: Sistemlerin temel kavramları. Durum-uzayı gösterimi. Ayrık ve sürekli zaman doğrusal dinamik sistemler. Doğrusal durum denklemleri. Doğrusal zamandan bağımsız sistemler. Denge noktaları. Kararlılık. Geri besleme. Kontrol edilebilirlik. Gözlemlenebilirlik.
+
+Ders Adı: Biyoinformatiğin Temelleri  
+Kredi: 3 
+Tanım: Moleküler biyoloji ve genetiğin temelleri ve çeşitli seviyelerde üretilen verilerin yapısı ve özellikleri, DNA ve protein dizi analizi, protein 3B yapıları ve analizi, gen ve protein fonksiyonlarının açıklaması ve tahmini, filogenomik ve popülasyon genetiği, gen ifadesi analizi, sistem biyolojisi ve biyolojik ağlar.
+
+Ders Adı: Proje I  
+Kredi: 3
+Tanım: Bu uygulamalı ders için, her öğrenci bir öğretim üyesinin yakın gözetimi altında bir yazılım veya donanım geliştirir. Donanım odaklı projelerde CAD ve diğer gerekli donanım araçları kullanılır. Yazılım odaklı projeler için; geliştirilen yazılımda düzgün, kullanıcı dostu insan-makine etkileşimi ve diğer yazılım mühendisliği teknikleri gereklidir.
+
+Ders Adı: Proje II  
+Kredi: 3 
+Tanım: Bu uygulamalı ders için, her öğrenci bir öğretim üyesinin yakın gözetimi altında bir yazılım veya donanım geliştirir. Donanım odaklı projelerde CAD ve diğer gerekli donanım araçları kullanılır. Yazılım odaklı projeler için; geliştirilen yazılımda düzgün, kullanıcı dostu insan-makine etkileşimi ve diğer yazılım mühendisliği teknikleri gereklidir.
+
+Ders Adı: İleri Bilgisayar Mimarileri  
+Kredi: 3 
+Tanım: Bilgisayar mimarisinde öncü kavramlar ve son teknolojik değişiklikler. Sanal bellek organizasyonları, bellek mimarileri, önbellek, komut seti tasarımı, RISC mimarisi, işlemci mikro-mimarisi ve boru hattı, süperskalar mimariler, VLIW makineleri, vektör süperbilgisayarlar ve paralel bilgisayarlar.
+
+Ders Adı: Mikroişlemciler  
+Kredi: 3 
+Tanım: Mikroişlemcilerin temel kavramları. 8088/86 işlemci. Bellek türleri. Bellek tasarımı. G/Ç sistemi. Kesme mekanizması, kesme öncelik kodlayıcıları. Doğrudan bellek erişimi. G/Ç Arayüz tasarımı. Mikroişlemci tabanlı gömülü sistem tasarımına giriş. Mikrodenetleyiciler.
+
+Ders Adı: Mikroişlemciler Laboratuvarı  
+Kredi: 1
+Tanım: Intel x86 mikrodenetleyici tabanlı gömülü sistemlerin geliştirilmesine giriş. Şu alanlarda yapılandırılmış laboratuvar alıştırmaları: Assembly programlama, çevre birimi arabirimlerinin oluşturulması, kesme yönetimi, yapılandırılmış programlama, çevre birimleri aracılığıyla temel G/Ç ve diğer ilgili konular. DIGIAC 2000 sistemleri üzerinde uygulanan haftalık tanımlanmış deneyler.
+
+Ders Adı: Yüksek Performanslı Hesaplamaya Giriş  
+Kredi: 3 
+Tanım: Paralel programlama dilleri ve çerçeveleri, Amdhal Yasası, performans değerlendirmesi, paylaşılan ve dağıtık bellek sistemleri, mesaj iletim protokolleri, HPC için R, HPC için Python, Vektörleştirme, Yoğun paralel mimariler, Büyük Veri kavramları
+
+Ders Adı: Paralel İşleme  
+Kredi: 3 
+Tanım: Paralelliğe ve paralel programlamaya giriş, paralel bilgisayarlar için ağ topolojileri, GPU'lar, paralel bilgisayar mimarisi (SIMD, Paylaşılan Bellek MIMD ve Dağıtık Bellek MIMD), senkronizasyon mekanizmaları, paralel programlama modelleri, paralel algoritmaların analizi ve tasarımı, farklı mimariler için paralel algoritmaların geliştirilmesi, paralel algoritmaların performansı ve karmaşıklığı. Örnek çalışmalar: Seçilmiş paralel algoritmalar.
+
+Ders Adı: Blok Zincirinin Temelleri  
+Kredi: 3 
+Tanım: Bu ders, blok zinciri ve kripto para birimlerinin temel kavramlarını ve son gelişmelerini kapsamlı bir şekilde anlamayı sağlar. Blok zinciri teknolojisinin içeriği, kriptografik temeller, dağıtık sistemlerdeki problemler, kripto para birimleri ve bunların madencilikte işlenmesi, sanal cüzdanlarda depolanması ve harcanması, uygulamalar ve güvenlik, gerekli politikaların ve kontrollerin geliştirilmesi ve uygulanması.
+
+Ders Adı: Bilgisayar ve Ağ Güvenliği  
+Kredi: 3 
+Tanım: Günümüzde İnternet'te kullanılan temel protokoller ve uygulamalar, bunların güvenlik açıkları ve nasıl istismar edildikleri. Mevcut önleme ve tespit teknikleri. Güvenliğe giriş, kriptografi, kimlik doğrulama ve doğrulama, program güvenliği, ağlarda güvenlik, güvenlik açıkları, güvenlik açığı tarama, saldırılar, botnet'ler, güvenlik duvarları ve trafik filtreleme, izleme, denetim ve saldırı tespiti.
+
+Ders Adı: Kablosuz ve mobil ağ  
+Kredi: 3 
+Tanım: Kablosuz ortamın özellikleri, telekomünikasyon sistemlerine hakim olan standartlar, kablosuz LAN'ların ilkeleri, uydu sistemleri, İnternet'in mobil cihazları nasıl desteklediği
+
+Ders Adı: Güvenli Programlama Laboratuvarı  
+Kredi: 1 
+Tanım: Temel program güvenliği ilkeleri, Kabuk ve işletim sistemi tabanlı tehditler, Taşma saldırıları, Girdi doğrulama saldırıları, Web güvenliği, Kod analizi ve kod güvenlik testleri
+
+Ders Adı: Kablosuz ve Mobil Ağlar Laboratuvarı  
+Kredi: 1 
+Tanım: Kablosuz iletişimin pratik uygulamaları
+
+Ders Adı: Güvenli Programlama  
+Kredi: 3 
+Tanım: Güvenlik değerlendirmesi ve testi. Statik analiz araçları kullanarak kod incelemesi. Kabuk ve çevre. Tamsayı taşma problemleri ve saldırıları. Arabellek taşma problemleri ve saldırıları. Format dizisi problemleri ve saldırıları. Girdi doğrulama problemleri ve saldırıları. Web uygulaması güvenliği, oturum yönetimi, XSS saldırıları. Bağlantılar ve yarış koşulları. Standartlaştırma ve dizin dolaşma problemleri. Geçici depolama ve rastgelelik.
+
+Ders Adı: Sosyal ve Ekonomik Ağlar  
+Kredi: 3 
+Tanım: Arama motorlarının sayfa sıralama yöntemleri. Öneri sistemlerinin ilkeleri. Sosyal ağlardaki etkileşimler. Veri fiyatlandırma yöntemleri.
+
+Ders Adı: Veri Yoğun Uygulamalar  
+Kredi: 3 
+Açıklama: Yüksek performanslı hesaplama, paralel hesaplama ve dağıtık hesaplama sistemlerinin mimarisi ve olanak sağlayan teknolojiler. Ölçeklenebilir çok işlemcili sistemler, dağıtık kümeler, eşler arası (P2P) ağlar, hesaplama gridleri, sanal makineler ve internet bulutları üzerine vaka çalışmaları; yüksek performanslı bilgi işlem, web ölçekli uygulamalar, veri merkezleri, içerik dağıtım ağları. Örnek vaka çalışmaları: Google arama motoru, TeraGrid, e-Bilim, DataGrid, VM Monitörleri, IBM BlueCloud, Amazon Elastic Clouds, Google Clouds.
+
+Ders Adı: Yönetim Bilişim Sistemleri
+Kredi: 3
+Açıklama: Bilişim sistemlerinin temelleri. Bilgi sistemlerinin temel kavramları, sistem kuramı, yönetim bilgisi, organizasyonda bilgiye dair kavramsal modeller, karar destek sistemleri, kurumsal kaynak planlama sistemleri, bilgi sistemleri projeleri için planlama, bilgi sistemi proje yaşam döngüsü modelleri, bakım ilkeleri, yönetim ve denetim; bilgi sistemlerinin geliştirilmesi, uygulanması ve yönetimi.
+
+Ders Adı: Yapay Sinir Ağları
+Kredi: 3
+Açıklama: Tarihsel bakış açısı, sürekli ve ayrık sistem modelleri, nöron ve analitik modeli, hopfield sinir ağı, perceptron öğrenme algoritmaları, çok katmanlı perceptron, geri yayılım algoritması ve sorunları, radyal tabanlı fonksiyon ağları, dinamik sinir ağları, geri beslemeli sinir ağları, ikinci dereceden eğitim algoritmaları, türev gerektirmeyen optimizasyon, parçacık sürü optimizasyon algoritması, sinir ağlarının uygulamaları, pekiştirmeli öğrenme, gözetimsiz öğrenme.
+
+Ders Adı: Örneklenmiş Veri Sistemleri
+Kredi: 3
+Açıklama: Sinyallerin örneklenmesi, örneklenmiş sinyallerden yeniden yapılandırma, Nyquist örnekleme teoremi, z dönüşümü, frekans alanında sinyal ve sistem analizi, sonlu dürtü yanıtlı (FIR) filtreler, sonsuz dürtü yanıtlı (IIR) filtreler, Fourier dönüşümü, ayrık zamanlı Fourier dönüşümü, ayrık Fourier dönüşümü ve hızlı Fourier dönüşümü, Kalman filtreleri.
+
+Ders Adı: Yazılım Geliştirme Laboratuvarı
+Kredi: 1
+Açıklama: Bir vaka çalışması üzerinden UML kullanılarak yazılım geliştirme sürecinin temel aşamalarına yönelik ödevler. Öğrencilerin önce kullanım senaryosu (use-case) analizi yapmaları ve bir UML aracıyla nesne yönelimli tasarım önermeleri beklenir. Ardından, analiz ve tasarım çıktıları temel alınarak nesne yönelimli programlama yöntemleriyle sistemi gerçekleştirmeleri istenir.
+
+Ders Adı: Yazılım Mimarileri
+Kredi: 3
+Açıklama: Yazılım mimarilerine dair temel kavramlar. Ele alınan konular: Yazılım mimarisi kavramları ve paydaşları, mimari geliştirme süreci, mimari gereksinimlerin analizi, yazılım mimarisinin modellenmesi. Mimari bakış açıları ve perspektifler. İşlevsel, bilgi, geliştirme, eşzamanlılık, dağıtım ve işletim bakış açıları. Evrim, güvenlik, performans ve ölçeklenebilirlik, erişilebilirlik ve dayanıklılık perspektifleri. Mimari stiller/pattern'lar. Mimari tasarım yöntemlerinin karşılaştırılması ve değerlendirilmesi. Yazılım ürün hattı mimarileri, alan modelleme ve alan mühendisliği.
+
+Ders Adı: Tasarım Kalıpları
+Kredi: 3
+Açıklama: Nesne yönelimli programlamada tasarım kalıpları. Ele alınan konular: Nesne yönelimli yazılım tasarım kalıplarının mantığı ve faydaları, nesne yönelimli tasarım prensipleri, tasarım kalıplarının sınıflandırılması (Yaratımsal, Yapısal, Davranışsal vb.), tüm kalıpların incelenmesi, anti-pattern'lar, mimari kalıplar, örnek uygulamalar.
+
+Ders Adı: Yazılım Mühendisliği Laboratuvarı
+Kredi: 1
+Açıklama: Orta ölçekli yazılım uygulamalarının sıfırdan, hem yönetim hem geliştirme pratikleriyle mühendislik yaklaşımlarıyla gerçekleştirilmesi. Yazılım projelerinin ilk gereksinimleri ve geliştirme planlaması. Önceden tanımlanmış bir yazılım yaşam döngüsü (Open Unified Process tabanlı) doğrultusunda gereksinim analizi, mimari tasarım ve detaylı tasarım uygulamaları ve bu aktivitelerin IEEE tarafından önerilen formatlarda dokümantasyonu. Öğrencilerin laboratuvar sonunda yazılım mimarisine dair bazı kritik gereksinimleri kodlayarak çalışan bir prototip göstermeleri beklenir. Tasarım ve geliştirme aşamalarında J2EE teknolojilerinin kullanımı amaçlanmaktadır.
+
+Ders Adı: Web Servisleri Laboratuvarı
+Kredi: 1
+Açıklama: Genişletilmiş Biçimlendirme Dili (XML), web servisleri, Hizmet Odaklı Mimari (SOA) ve İş Süreci Yönetimi (BPM) gibi web teknolojileri konusunda deneyim kazanılması. XML ve web servis kavramlarıyla SOA ve BPM için temel bilgi oluşturulması. SOA ve BPM uygulamaları, neden ve ne zaman gerekli oldukları, ödevler ve dönem projesiyle birlikte ele alınır.
+
+Ders Adı: Web Mimarisi Temelleri
+Kredi: 3
+Açıklama: İnternet ve istemci/sunucu tarafı teknolojileri. Ölçeklenebilir, güvenli ve sürdürülebilir web uygulamalarının tasarımı ve gerçekleştirilmesi. İnternet bilgi sistemleri, web tarayıcıları ve sunucuları, istemci ve sunucu taraflı betik dilleri, JEE web teknolojileri, servletler, JSP’ler, popüler framework'ler, JDBC, Hibernate, JTA, GWT, JSF, mimari tasarım kalıpları, bağımlılık enjeksiyonu, Spring, uygulama sunucuları.
+
+Ders Adı: Doğal Dil İşlemeye Giriş
+Kredi: 3
+Açıklama: Doğal dil işlemeye giriş, biçimbilimsel analiz, sözcük türü etiketleme, ayrıştırma algoritmaları, anlamsal analiz, doğal dil işleme uygulamaları.
+
+Ders Adı: Doğal Dil İşlemeye Giriş Laboratuvarı
+Kredi: 1
+Açıklama: Doğal dil işlemeye giriş, biçimbilimsel analiz, sözcük türü etiketleme, ayrıştırma algoritmaları, anlamsal analiz, doğal dil işleme uygulamaları.
+
+Ders Adı: Yazılım Gereksinimleri
+Kredi: 3
+Açıklama: Yazılım gereksinimlerinin geliştirilmesine giriş. Sistem ve yazılım gereksinimleri. Yazılım gereksinim geliştirme süreci ve paydaşlar. Yazılım gereksinimlerinin tanımı ve türleri. İşlevsel ve kalite (işlevsel olmayan) gereksinimler. Alan analizi, gereksinim belirleme ve analiz teknikleri. Yazılım gereksinim modelleme ve belirtimi. Yazılım gereksinimlerinin dokümantasyonu ve doğrulaması. Yazılım gereksinimlerinin yönetimi.

@@ -1,0 +1,73 @@
+BBM102 Programlamaya Giriş II dersi için BBM101 Programlamaya Giriş I gereklidir.
+
+BBM104 Programlamaya Giriş Laboratuvarı II dersi için BBM101 Programlamaya Giriş I ve BBM103 Programlamaya Giriş Laboratuvarı I gereklidir.
+
+BBM201 Veri Yapıları dersi için BBM101 Programlamaya Giriş I ve BBM103 Programlamaya Giriş Laboratuvarı I gereklidir.
+
+BBM203 Yazılım Laboratuvarı I dersi için BBM101 Programlamaya Giriş I ve BBM103 Programlamaya Giriş Laboratuvarı I gereklidir.
+
+BBM202 Algoritmalar dersi için BBM201 Veri Yapıları ve BBM203 Yazılım Laboratuvarı I gereklidir.
+
+BBM204 Yazılım Laboratuvarı II dersi için BBM201 Veri Yapıları ve BBM203 Yazılım Laboratuvarı I gereklidir.
+
+BBM234 Bilgisayar Organizasyonu dersi BBM231 Mantık Tasarımı ve BBM233 Mantık Tasarımı Laboratuvarı gerektirir.
+
+BBM3xx ve BBM4xx kodlu tüm teknik seçmeli dersler için BBM102 Programlamaya Giriş II ve BBM104 Programlamaya Giriş Laboratuvarı II gereklidir.
+
+BBM480 Tasarım Projesi II dersi için BBM479 Tasarım Projesi I gereklidir.
+
+BBM421 Oyun Teknolojileri dersi için BBM102, BBM104 ve BBM412 Bilgisayar Grafikleri gereklidir.
+
+BBM423 Oyun Teknolojileri Laboratuvarı dersi BBM102, BBM104 ve BBM412 Bilgisayar Grafikleri gerektirir.
+
+BBM101 Programlamaya Giriş I ve BBM103 Programlamaya Giriş Laboratuvarı I dersleri eş zamanlı olarak alınmalıdır.
+
+BBM102 Programlamaya Giriş II ve BBM104 Programlamaya Giriş Lab II dersleri eş zamanlı olarak alınmalıdır.
+
+BBM201 Veri Yapıları ve BBM203 Yazılım Laboratuvarı I dersleri eş zamanlı olarak alınmalıdır.
+
+BBM202 Algoritmalar ve BBM204 Yazılım Laboratuvarı II dersleri eş zamanlı olarak alınmalıdır.
+
+BBM231 Mantık Tasarımı ve BBM233 Mantık Tasarımı Laboratuvarı dersleri eş zamanlı olarak alınmalıdır.
+
+BBM382 Yazılım Mühendisliği ve BBM384 Yazılım Mühendisliği Laboratuvarı dersleri eş zamanlı olarak alınmalıdır.
+
+BBM406 Makine Öğreniminin Temelleri ve BBM409 Makine Öğrenimi Laboratuvarı dersleri eş zamanlı olarak alınmalıdır.
+
+BBM412 Bilgisayar Grafikleri ve BBM414 Bilgisayar Grafikleri Laboratuvarı dersleri eşzamanlı olarak alınmalıdır.
+
+BBM413 Görüntü İşlemenin Temelleri ve BBM415 Görüntü İşleme Laboratuvarı dersleri eş zamanlı olarak alınmalıdır.
+
+BBM416 Bilgisayarla Görmenin Temelleri ve BBM418 Bilgisayarla Görme Laboratuvarı dersleri eş zamanlı olarak alınmalıdır.
+
+BBM421 Oyun Teknolojileri ve BBM423 Oyun Teknolojileri Laboratuvarı dersleri eş zamanlı olarak alınmalıdır.
+
+BBM422 Mobil Hesaplama ve BBM424 Mobil Hesaplama Laboratuvarı dersleri eş zamanlı olarak alınmalıdır.
+
+BBM432 Gömülü Sistemler ve BBM434 Gömülü Sistemler Laboratuvarı dersleri eş zamanlı olarak alınmalıdır.
+
+BBM433 Mikroişlemciler ve BBM436 Mikroişlemciler Laboratuvarı dersleri eşzamanlı olarak alınmalıdır.
+
+BBM451 Bilgisayar Ağları ve BBM453 Bilgisayar Ağları Laboratuvarı dersleri eşzamanlı olarak alınmalıdır.
+
+BBM461 Güvenli Programlama ve BBM459 Güvenli Programlama Laboratuvarı dersleri eş zamanlı olarak alınmalıdır.
+
+BBM463 Bilgi Güvenliği ve BBM465 Bilgi Güvenliği Laboratuvarı dersleri eş zamanlı olarak alınmalıdır.
+
+BBM467 Data Intensive Applications ve BBM469 Data Intensive Applications Lab dersleri eş zamanlı olarak alınmalıdır.
+
+BBM471 Veritabanı Yönetim Sistemleri ve BBM473 Veritabanı Laboratuvarı dersleri eşzamanlı olarak alınmalıdır.
+
+BBM472 Coğrafi Bilgi Sistemleri ve BBM474 Coğrafi Bilgi Sistemleri Laboratuvarı dersleri eş zamanlı olarak alınmalıdır.
+
+BBM481 Yazılım Geliştirme ve BBM483 Yazılım Geliştirme Laboratuvarı dersleri eşzamanlı olarak alınmalıdır.
+
+BBM482 Yazılım Kalite Güvencesi ve BBM484 Yazılım Kalite Güvencesi Laboratuvarı dersleri eşzamanlı olarak alınmalıdır.
+
+BBM490 Web Mimarisinin Temelleri ve BBM488 Web Servisleri Laboratuvarı dersleri eş zamanlı olarak alınmalıdır.
+
+BBM491 Kişisel Yazılım Süreci ve BBM493 Kişisel Yazılım Süreci Laboratuvarı dersleri eş zamanlı olarak alınmalıdır.
+
+BBM492 Takım Yazılım Süreci ve BBM494 Takım Yazılım Süreci Laboratuvarı dersleri eş zamanlı olarak alınmalıdır.
+
+BBM495 Doğal Dil İşlemeye Giriş ve BBM497 Doğal Dil İşlemeye Giriş Laboratuvarı dersleri eş zamanlı olarak alınmalıdır.

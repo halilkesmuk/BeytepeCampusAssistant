@@ -1,0 +1,123 @@
+Yapay Zeka Mühendisliği Bölümü Ders Programı:
+
+Yapay Zeka Mühendisliği - Dönem 1 Dersleri:
+	BBM101 Programlamaya Giriş I 
+	BBM103 Programlamaya Giriş Laboratuvarı I
+	AIN101 Birinci Sınıf Semineri
+	TKD103 Türkçe I
+	MAT123 Matematik I
+	FIZ137 Fizik I
+	ING111 Yabancı Dil I
+	BEB650 Bilgi ve İletişim Teknolojileri
+
+Yapay Zeka Mühendisliği - Dönem 2 Dersleri:
+	BBM102 Programlamaya Giriş II
+	BBM104 Programlamaya Giriş Laboratuvarı II
+	TKD104 Türkçe II
+	MAT124 Matematik II
+	FIZ138 Fizik II
+	FIZ117 Fizik Laboratuvarı
+	ING112 Yabancı Dil II
+
+Yapay Zeka Mühendisliği - Dönem 3 Dersleri:
+	BBM201 Veri Yapıları
+	BBM203 Yazılım Laboratuvarı I
+	BBM205 Ayrık Yapılar
+	AIN212 Veri Biliminin Temelleri 
+	AIN214 Veri Bilimi Laboratuvarı
+	IST292 İstatistik
+	AIT203 Atatürk İlkeleri ve İnkılap Tarihi I
+	MUH103 İş Sağlığı ve Güvenliği I
+
+Yapay Zeka Mühendisliği - Dönem 4 Dersleri:
+	BBM202 Algoritmalar
+	BBM204 Yazılım Laboratuvarı II
+	BBM242 Bilgisayar Sistemleri
+	AIN211 Yapay Zeka İlkeleri
+	MAT254 Doğrusal Cebirin Temelleri
+	AIN200 Bilgisayarlar ve Etik
+	AIT204 Atatürk İlkeleri ve İnkılap Tarihi II
+	MUH104 İş Sağlığı ve Güvenliği
+
+Yapay Zeka Mühendisliği - Dönem 5 Dersleri:
+	AIN300 Staj I
+	AIN311 Makine Öğrenmesinin Temelleri 
+	AIN313 Makine Öğrenmesi Laboratuvarı
+	AIN Kodlu Teknik Seçmeli
+	BBM Kodlu Teknik Seçmeli
+	Teknik Olmayan Seçmeli
+
+Yapay Zeka Mühendisliği - Dönem 6 Dersleri:
+	AIN312 Biçimsel Diller ve Otomata Teorisi
+	AIN Kodlu Teknik Seçmeli ve Laboratuvarı
+	AIN Kodlu Teknik Seçmeli ve Laboratuvarı
+	Teknik Olmayan Seçmeli
+
+Yapay Zeka Mühendisliği - Dönem 7 Dersleri:
+	AIN400 Staj II
+	AIN401 Bitirme Semineri
+	AIN491 Proje I
+	AIN Kodlu Teknik Seçmeli
+	AIN Kodlu Teknik Seçmeli ve Laboratuvarı
+	Teknik Olmayan Seçmeli
+
+Yapay Zeka Mühendisliği - Dönem 8 Dersleri:
+	AIN492 Proje II
+	AIN Kodlu Teknik Seçmeli ve Laboratuvarı
+	AIN Kodlu Teknik Seçmeli ve Laboratuvarı
+	Teknik Olmayan Seçmeli
+
+Yapay Zeka Mühendisliği - Teknik Seçmeli Dersler (Algılama ve Dil Kümesi):
+	AIN430 Görüntü İşlemenin Temelleri | AIN432 Görüntü İşleme Uygulamaları
+	AIN431 Bilgisayarla Görüye Giriş | AIN433 Bilgisayarla Görü Uygulamaları
+	AIN434 Hesaplamalı Fotoğrafçılığın Temelleri
+	AIN440 Doğal Dil İşlemeye Giriş | AIN442 Doğal Dil İşleme Uygulamaları
+	AIN441 Konuşma ve Ses Tanımanın Temelleri
+
+Yapay Zeka Mühendisliği - Teknik Seçmeli Dersler (Büyük Veri ve Makine Öğrenmesi Kümesi):
+	AIN420 Derin Öğrenmeye Giriş | AIN422 Derin Öğrenme Uygulamaları
+	AIN421 Bulanık Mantık
+	AIN423 Veri Yoğun Uygulamalar | AIN425 Veri Yoğun Uygulamalar Laboratuvarı
+	AIN424 Derin Pekiştirmeli Öğrenmeye Giriş | AIN426 Derin Pekiştirmeli Öğrenme Uygulamaları
+	AIN427 Veri Madenciliğine Giriş | AIN429 Veri Madenciliği Laboratuvarı
+	AIN447 Metin Madenciliğinin Temelleri
+	AIN428 Bilgi Erişimi
+	AIN461 Mantık Programlama
+
+Yapay Zeka Mühendisliği - Teknik Seçmeli Dersler (Karar Verme ve Robotik Kümesi):
+	AIN450 Dinamik Sistemler
+	AIN462 Karar Vermenin Temelleri
+	AIN451 Robotik Bilimine Giriş | AIN453 Robotik Uygulamaları
+	AIN454 Bilişsel Robotik Temelleri
+	AIN463 Otonom Çoklu Ajan Sistemleri
+	AIN455 İnsan Robot Etkileşimine Giriş | AIN457 İnsan Robot Etkileşimi Uygulamaları
+
+Yapay Zeka Mühendisliği - Teknik Seçmeli Dersler (Tıbbi Yapay Zeka Kümesi):
+	AIN411 Biyoinformatiğe Giriş
+	AIN412 Tıbbi Görüntü Analizine Giriş | AIN414 Tıbbi Görüntü Analizi Uygulamaları
+	AIN413 Sağlık Hizmetleri için Makine Öğrenmesi
+
+Yapay Zeka Mühendisliği - Teknik Olmayan Seçmeli Dersler:
+	EKO115 Genel Ekonomi
+	MAN321 Küçük İşletme Yönetimi
+	SOS101 Sosyolojiye Giriş
+	SOS261 İletişim Sosyolojisi
+	FEL123 Mantığa Giriş
+	MTK203 Diferansiyel Denklemler
+Yapay Zeka Mühendisliği - Teknik Olmayan Seçmeli Dersler:
+	MTK403 Oyun Teorisine Giriş
+	KAY465 Kamu Yönetiminde Bilişim Teknolojileri
+	ANT202 Sosyal Antropolojiye Giriş
+	FEL110 Felsefeye Giriş
+Yapay Zeka Mühendisliği - Teknik Olmayan Seçmeli Dersler:	
+	FEL122 Mantık I
+	MTK479 Kriptografiye Giriş
+	KAY124 Sosyal Psikoloji
+	KAY246 İş ve Sosyal Güvenlik Hukuku
+	KAY486 Ticaret Hukuku
+
+Not: Teknik olmayan seçmeli dersler için:
+- Yukarıdaki liste örnek derslerdir, tüm dersler burada listelenmemiştir
+- SEC havuzundan da ders alınabilir (http://www.secmeli.hacettepe.edu.tr/)
+- 2017-2018 Güz dönemi ve sonrası kayıtlı öğrenciler en fazla 3 SEC dersi alabilir
+- Teknik olmayan seçmeli derslerde dil sınırlaması yoktur

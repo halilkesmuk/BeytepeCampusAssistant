@@ -1,0 +1,28 @@
+📘 Bilgisayar Mühendisliği Bölümünün Misyonu :
+	Evrensel düzeyde nitelikli araştırmalar yapan ve endüstriyel sorunlara çözüm üreten bir bölüm olmak; disiplinin temel kavramlarına hakim, bilgi ve becerilerini yaratıcı bir şekilde uygulayabilen ve aktarabilen, mesleğine ve topluma etik sorumlulukla hizmet eden, yaşam boyu öğrenme ve takım çalışması becerilerine sahip mühendisler yetiştirmek.
+
+📘 Bilgisayar Mühendisliği Bölümünün Vizyonu :
+	Ulusal ve uluslararası düzeyde sanayi, akademi ve toplumun ihtiyaç duyduğu yetkin mühendisleri yetiştiren, sadece güncel sorunların çözümünde değil geleceğin şekillenmesinde de etkin rol oynayan bir bölüm olmak.
+
+📘 Program Eğitim Amaçları :
+	Hacettepe Üniversitesi Bilgisayar Mühendisliği Bölümü mezunları:
+		1. Bilgi teknolojileri sektöründe kariyer yapabileceklerdir.
+		2. Yüksek lisans dereceleri alırlar.
+		3. Alanlarında liderlik ve girişimcilik rollerini üstlenirler.
+
+📘 Program Öğrenme Çıktıları :
+	1. Matematik, fen bilimleri ve bilgisayar mühendisliği konularında yeterli bilgi; teorik ve pratik bilgileri karmaşık mühendislik problemlerine uygulama becerisi.
+	2. Karmaşık mühendislik problemlerini saptama, tanımlama, formüle etme ve çözme becerisi; uygun analiz ve modelleme yöntemlerini seçme ve uygulama becerisi.
+	3. Belirli gereksinimleri karşılamak üzere gerçekçi kısıtlar ve koşullar altında karmaşık bir sistemi, süreci, cihazı veya ürünü tasarlama becerisi; modern tasarım yöntemlerini uygulama ve uygulama becerisi.
+📘 Program Öğrenme Çıktıları :
+	4. Karmaşık mühendislik problemlerinin analizi ve çözümü için gerekli olan modern teknik ve araçları geliştirme, seçme ve kullanma becerisi; bilişim teknolojilerini etkin bir şekilde kullanma becerisi.
+	5. Karmaşık mühendislik problemlerinin veya bilgisayar mühendisliğine özgü araştırma konularının incelenmesi için deney tasarlama, deney yapma, veri toplama, sonuçları analiz etme ve yorumlama becerisi.
+📘 Program Öğrenme Çıktıları :	
+	6. Disiplin içi ve çok disiplinli takımlarda etkin biçimde çalışabilme becerisi; bireysel çalışma becerisi.
+	7. Türkçe sözlü ve yazılı etkin iletişim kurma becerisi; en az bir yabancı dil bilgisi; teknik dokümanları yazabilme ve anlayabilme, tasarım ve üretim raporları hazırlayabilme, etkin sunum yapabilme, açık ve net talimat verme ve alma becerisi.
+	8. Yaşam boyu öğrenmenin gerekliliği bilinci; bilgiye erişebilme, bilim ve teknolojideki gelişmeleri izleme ve kendini sürekli yenileme becerisi.
+📘 Program Öğrenme Çıktıları :
+	9. Etik ilkeler, mesleki ve etik sorumluluklar konusunda farkındalık; mühendislik uygulamalarında kullanılan standartlar hakkında bilgi.
+	10. Proje yönetimi, risk yönetimi ve değişiklik yönetimi gibi iş hayatındaki uygulamalar hakkında bilgi; girişimcilik, yenilikçilik ve sürdürülebilir kalkınma hakkında farkındalık.
+	11. Mühendislik uygulamalarının sağlık, çevre ve güvenlik üzerindeki küresel ve toplumsal etkileri hakkında bilgi; mühendislik alanındaki güncel konular ve mühendislik çözümlerinin hukuksal sorumlulukları hakkında farkındalık.
+	12. Karmaşık bilgisayar mühendisliği problemlerini çözmek için gerekli olasılık, istatistik ve ayrık matematik bilgisi.
